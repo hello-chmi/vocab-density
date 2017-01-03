@@ -1,0 +1,21 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi wade
+wade: Hi there!
+wade: Nice to meet you! 
+person: Where is Wendy?
+wade: None of your god damn business
+wade:  I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist you throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: 
+Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: That sounds wonderful! Just one question before we start, are you banging Wendy? 
+wade: maybe. maybe not. 
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+wade: What is your favorite color? (Choose one: Red/Green/Blue)
+wade: Hi Mrs. Yang
+person: Hi Wade! 
+wade: Do you see my buttons? (yes / no) 
+person: mmm,nope. 
+wade: hhmm
+wade: mmmkkk
+person: It' ok Wade, you are almost there. 

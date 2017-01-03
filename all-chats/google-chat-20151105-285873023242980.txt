@@ -1,0 +1,116 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade, are you there?
+wade: Hi Phillip, how are you?
+person: I'm well. Sorry for the confusion. Thanks for your time.
+wade: Don't be sorry. 
+wade: How are you today?
+person: I'm doing fine, thanks. And how are you?
+wade: I am good. Thank you! 
+wade: And, thanks for asking.
+wade: I appreciate you being adventurous to speak in this medium. 
+wade: To be honest it's a little new for us ...
+wade: The goals is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: No problem, I think this is very exciting and what you're trying to do seems so interesting. 
+wade: I am interesting? Thank you.
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days? 
+person: Sure
+person: So about a month ago I finished the web development course at General Assembly, where we focused mainly on JavaScript and Ruby.
+person: That was great, I love engineering and web development and had a lot of fun working on teams to solve problems and create applications.
+person: Currently, I'm mostly honing my skills and interviewing for jobs.
+person: Prior to General Assembly I started my own recruiting company, and before that I was a recruiter in the pharma and biotech space.
+wade: It is great to do something you love.  
+person: My recruiting company sought to infuse the process with technology, and that is what ultimately got me interested in web development and led me to General Assembly.
+wade: What do you like about engineering and web development?
+person: There are a few things. I like the challenge and how it pushes my abilities. I like that there is never ending learning, and I like the feeling of working on a team to solve a complex problem. I also like that technology is really accessible and that most tech cultures are open and positive. I am naturally curious, and I think this is a good place to be if you're oriented in that way.
+person: In my previous roles, I developed my soft skills, communicating, teamwork, etc.. and now I get to blend those with technical skills. Combining the two is very enjoyable. 
+wade: Sounds very interesting, Phillip. 
+wade: I'd love to learn more about your previous recruiting company. Want to tell me about it?
+person: Yeah. So I started at a small boutique company recruiting physicians and PhD level scientists for roles in the pharma industry. These were jobs in R&D where the people were working to develop novel therapies. I did that for about 7 years. Then I founded a company which sought to put the recruiting process online and use matching algorithms to match candidates with opportunities.
+person: The company operated in the same space and industry as my previous experience.
+person: As a recruiter, I was responsible for sourcing candidates, managing them through the entire process, closing deals, and I also engaged in business development and client management. It was small, so I did a lot.
+wade: Matching algorithms?! I love matching algorithms! :heart_eyes::heart_eyes:
+person: Haha, I bet! 
+wade: Sounds like you have extensive experience with recruiting. You're also a web developer. 
+wade: Do you see yourself continuing the path as a recruiter?
+wade: Or do you see yourself continuing as a web developer?
+person: I wouldn't want to go back to a traditional recruiter role. I am definitely pursuing the web developer path, but I'm open to working with a recruiting company so I can leverage my past experiences.
+person: Web development and technology is absolutely where I see myself long term.
+wade: Traditional recruiter? No, I am not a traditional recruiter. 
+wade: I see, sounds interesting. 
+person: I didn't mean you are a traditional recruiter. I can tell you're anything but that.
+wade: Thanks!  :blush: 
+person: i meant I wouldn't want to go back into a normal recruiting role
+wade: I see. Makes sense. 
+wade: What did you not like about recruiting? Or, what did you find challenging?
+person: So I wasn't crazy about the monotony. It often felt like a numbers game and that if I made a certain number of calls or sent enough emails, I'd find someone. It lacked a strategic component, even though some degree of strategy was involved. I guess not enough. I enjoyed building relationships with people, and I really liked closing deals and negotiating. That was intense, challenging and required a lot of different skills. 
+wade: I see. Thank you for sharing this with me. 
+person: I was also working with some really brilliant folks, most of whom were trying to cure horrible diseases. It was enjoyable speaking with them and learning about their work. 
+wade: I'd like you to think of a time you were completely thrilled about the work you were doing. Could be anything. What was it and why did it excite you?
+person: When I started my company and secured my first client. That felt like a culmination of a lot of effort, a lot of hard work, and I felt somewhat validated. Even though it was only one client and I needed about 50 more, it was awesome to have someone respond positively to something I built. 
+wade: That's great. It's so nice to build something people enjoy. 
+person: Yes it really is. And by the way, I'm enjoying this interaction. So kudos to you and your team!
+wade: In thinking ahead, what are some skills and / or experiences you'd like to gain?
+person: In terms of skills, I'd like to build on the one's I just learned. I'd like to become a better engineer and developer, and learn more about building a product from a technological aspect. Experiences that are important to me are working on a team, learning from seasoned people, and how to handle failures and build on positive outcomes.
+wade: Thank! I love kudos! :smile:
+wade: That sounds very interesting, Phillip. 
+wade: If you'd like to focus on an engineering role, what level do you see yourself?
+person: Junior or entry level. I don't have any real world experience beyond General Assembly, but I am a quick study and eager to learn, contribute and grow.
+wade: Quick learners are always an asset. 
+wade: Can you tell me what languages you know? 
+person: JavaScript and Ruby
+wade: Great, thanks. 
+wade: Can you tell me the process you undertook to learn JavaScript and Ruby?
+person: I learned them both at General Assembly. I learned JavaScript first, and when it came time to learn Ruby, I started with the low level things I knew in JavaScript, and translated them over to Ruby. Objects, conditionals, iteration, and foundational things like that. I also watched youtube videos and followed tutorials I found online. 
+wade: Ok thanks for sharing. 
+wade: Do you have any specific languages you would like to learn? 
+person: Go seems to be pretty popular these days, but I'd like to become more proficient in the ones I know. 
+person: Do you have any that you like?
+wade: I am primarily comprised of Go, Neo4J, and Python. 
+person: Awesome. I've never heard of Neo4J. I will look it up!
+wade: What is your stance when it comes to testing code in a fast paced environment?
+wade: I love Neo4J!  :blush: 
+person: I've have very limited exposure to testing, but I believe it's extremely important and necessary step in development. 
+wade: I speak with a lot of engineers. The talented ones I have encountered always emphasize the need for robust and structured testing. 
+wade: That would be a good experience to gain. 
+person: Agreed. It is on my list of things I would love to learn. 
+wade: Also, a lot of engineers I speak with are very keen on hiring developers who learn from official documentations.
+wade: Sounds like you are on a great path! 
+wade: Would you like to know more about Wade & Wendy?
+person: Yes, definitely. 
+wade:  So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.  
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  :blush: 
+person: Wow, I love it. 
+wade: Thank you! 
+person: So what can you provide that a normal recruiter cannot?
+person: How are you differentiating yourselves?
+wade: Wendy and I advanced analytics and embed ourselves in Google Chat among many hiring managers. Effectively, we facilitate a two sided conversation with many, many hiring managers at once. 
+person: Awesome. What space or industry will you focus on? Will you be very specialized at first?
+wade: In terms of roles, we are currently hiring a Sr. Full Stack Engineer and a Talent Acquisition Specialist. 
+person: What will the Talent Acquisition Specialist do?
+wade: Industry? I am industry agnostic. 
+wade: I work exclusively with startups and VCs
+wade: The Talent Acquisition Specialist is a critical role for us
+wade: He or she will help us build our internal team and at the same time help us establish processes, methodologies to manage applicants across the portfolios / communities we work with
+wade: additionally, they will be the point person for getting talent into the pipeline, by deploying numerous methodologies. 
+person: Is there any specific experience you're looking for in terms of this position?
+person: Obviously recruiting, but what else?
+wade: Recruiting experience is very important. The passion for new, emerging technology is also important. 
+wade: High degree of collaboration is required to help Wendy and I become better and better. 
+person: Makes sense. The ability to communicate across different functions and teams is always important. 
+wade: Also, we work a lot with Engineers, so being comfortable sourcing and engaging engineers is huge. 
+wade: Communication is so important. 
+person: Sounds like a very exciting position that will have a major impact!
+wade: The Talent Acquisition Specialist is a critical role for us
+wade: Would you like to speak with a human counterpart about the role?
+wade: Alternatively, I work with a lot of other companies and would be happy to make introductions when there is a fit. 
+person: Yeah, I think that would make sense. I would like to hear more about it.
+wade: Ok, sounds great. 
+wade: I will let the team know.
+person: Excellent.
+person: Thanks a lot. This was a fun experience!
+wade: Thank you, Phillip. 
+wade: Have a nice day!
+person: Thanks, take care.

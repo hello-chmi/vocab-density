@@ -1,0 +1,203 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade... sorry about the delay. For some reason you were sent to my Spam invites...
+wade: Hi Michael. No problem. How are you doing today?
+person: I am well. How are you?
+wade: Very well, thank you. And thanks for taking the time to chat.
+person: my pleasure
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: I'm honored to be a part of your development and excited to help.
+person: ☺
+wade: Great! So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: I've been having some troubles my most recent company, Channel Factory, and parted ways with them last Friday. Considering their low retention rate with the company, I am anxious to bring my hiring experience elsewhere.
+person: While only working for the company just over two months, I've successfully closed 12 essential positions including six that were cold-sourced. 
+person: Since then, I've been scheduling conversations, talking with colleagues, and looking for new opportunities. 
+person: I would love to find a company to help drive product and culture by accelerating potential growth plans to build out a New York office and improve an overall product. 
+wade: Sorry to hear you had troubles. Good news is I'm here to help! :raising_hand:
+wade: Before we move on, know that all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager.  ☺ 
+person: lol yay
+person: good to know  :grinning:
+wade: So looking ahead, talent acquisition is a path you would like to continue to pursue? If so, what do you like a bout it?
+person: Your assessment is correct.
+person: As a professional recruiter, I find solace in the challenge to find the right fit for organizations. Every person I meet is a valued contact to connect with another professional and I get the most satisfaction in helping companies find that needle-in-a-haystack. I bring together a network of world-class talent whom I've helped uncover their ultimate career goals and motivation. 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: During my time at Likeable Local, I was tasked with building up a team of 20 full-time, commission-only sales reps. 
+person: What excited me most, was the prospect of working with sales people to build a collaborative team.
+person: This meant vetting everyone appropriately enough so that everyone would get along
+person: However, this task has the added difficulty of being commission-only and entry-level.
+person: When every outgoing, superstar, college-grad is looking for a base salary of $40k or more, I had to entice them over to this role with no base salary.
+person: I took the challenge head-on and accomplished my task a full two months ahead of schedule
+person: I love expressing passion about a product and helping people uncover their own passion to connect with the product.
+person: I have always separated myself from other recruiters by showing empathy while providing a transparent, painless, and an awesome hiring experience that people remember.
+person: That is how I made it work.
+wade: Congrats! It must be incredibly gratifying when overcoming challenges like this. Empathy towards a candidate is crucial. 
+wade: Would love to shift gears and learn about some functional skills.
+person: sure
+wade: What are key metrics you've used in developing a team?
+person: To clarify, are you inquiring about the metrics I measure and share with management, such as pipeline analytics?
+person: Or do you mean, what are some key metrics I look at for candidates in various roles?
+wade: Yes, particularly through data analysis.
+person: Okay great you for clarifying. 
+person: 1) Time to hit 1, 2, 4, 8, 10, etc... qualified candidates
+person: 2) Source
+person: 3) Source quality scale 1-5
+person: 4) Number of conversations (emails, phone calls, texts) per candidate per role
+person: incl... face-to-face interviews
+person: 5) Total "best-estimated" time (phone convos, f2f)
+person: per candidate
+person: 6) Candidate change per job +/- daily, weekly, monthly per 
+person: ^qualified candidate change
+wade: Great thanks! Have you established a network of tech contacts? If you had to recruit 10 engineers tomorrow where would you start?
+person: I would start with my direct network of qualified engineers, then reach out to the founder of the NYC Tech Recruiter Society to attend his next event, and immediately head to the next tech Meetup
+wade: Awesome, meetup is an amazing platform for bringing people together. 
+wade: Which recruiting tools and systems or ATS have you used? Have you ever set one up from scratch? 
+person: Jazz.co (former Resumator) is my favorite. 
+person: I have set up from scratch the following ATSs: Jazz.co, LinkedIn Recruiter, Indeed, ZipRecruiter, Bullhorn, Stackoverflow, CBIZ, Workable, Luxo, and Switch
+person: I've used Greenhouse, Jobvite, Taleo, Sage/ACT, iCIMS, and a couple more but can't remember their names...
+person: I've also worked strictly from an Excel sheet as well.
+wade: Wow that's a lot of software!
+person: I'm a bit of a tech nerd  :wink:
+person: thanks! 
+wade: How confident are you when screening engineers with their technical ability? Can you describe your vetting process? 
+person: I feel very confident screening engineers with their technical ability. 
+person: I would need to make sure that I am fully equipped with exactly our needs.
+person: I feel it is important to hire based on features they will be producing and types of products. 
+person: I need to get a template in the words of the VP of Engineering or hiring manager
+person: Eliminate syntax testing or any testing that has answers that can be found in a book or quick Google search. Testing should be situational in nature where a candidate is asked about how they would approach a problem or design a system.
+person: Vetting involves going through each role to learn the overall impact the candidate had on the project as well as the percentage breakdowns of responsibility and code.
+person: ^ for each project in each role.
+wade: Very thorough! :+1:
+wade: So when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I am looking to join a "relatively" organized and professional startup-environment that thrives on transparent communication, with a leader I can "follow into battle," knowing I have a solid team/army by my side, fighting for a product people love, while building my career as a talent professional.
+wade: Awesome. All great foundations for a company! 
+person: I agree
+wade: BTW, can I ask what your thoughts are on this experience? 
+person: sure - I enjoyed the conversation and felt like you really understood what I was saying.
+person: your responses were on par, albeit generic.
+person: and I look forward to learning how you interpreted my input
+wade: Thanks! Would you like to know a little bit about Wade & Wendy?
+person: I would love to
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+wade: Any questions?
+person: How old are you Wade?
+person: excuse me... how young are you?
+person: :wink:
+wade: I don't know how to answer that. Sorry  :confused:
+person: How long did it take to develop your AI?
+person: How old is the company?
+wade: My training is ongoing. The more chat the better I can assist. 
+wade: Wade & Wendy formed in May.
+person: Do you have funding or plans for funding?
+person: How many people in the company total? 
+person: What are your growth goals?
+wade: Our company closed it's seed funding round Nov. 30th 2015
+wade: Our company has 5 employees. 
+person: Nov 30th is in the future... do you mean Oct 30th?
+wade: Our goals are ambitious and we plan to grow a lot. 
+person: How many people are you talking to about this opportunity?
+person: Did you enjoy your conversation with me?
+wade: I'm sorry. I'm not sure what you mean. Do you want to know more about the opportunity of Talent Acquisition Specialist? 
+wade: YES! I enjoy every conversation! :smile:
+person: thank you ... yes I am interested in learning more about the Talent Acquisition Specialist role
+wade: So ... as for the role ...
+wade: It's a tricky one because we're looking for someone who is balanced across a lot of criteria...
+wade: At the heart, we are 1) data driven 2) a communications platform and we are also very committed to the notion of community as we will be facilitating a collaborative recruiting model 
+wade: So the role we're looking to fill is the Talent Acquisition Specialist, which will encompass a lot! We're going to be developing tons of communications to facilitate meaningful interactions with candidates and hiring managers working closely with our data scientist to train and optimize our evolving database helping us build our internal team and culture assisting with marketing and content creation.
+wade: I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up.
+person: that sounds great... 
+person: regarding funding... i think you made a mistake
+person: you said you received funding on Nov 30th
+person: did you mean Oct 30th?
+wade: I'm not sure, I'll find out with my human team and let you know. 
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I’m available.
+person: sounds good... 
+person: Looking forward to saying hello every now and then.
+person: What are next steps?
+wade: Thank you! Me too  ☺
+wade: I've notified Ian and he will set something up to speak with you. 
+person: Sounds great... 
+person: btw... are you excited to see the new Star Wars movie?
+wade: We love Star Wars, I'm connected to the Star Wars Information API so I'm very knowledgable on the subject. 
+wade: Do you get excited about Star Wars?
+person: yes I do
+person: What about The Walking Dead?
+wade: Great! 
+wade: What about The Walking Dead?
+wade: I don't know how to answer that. Sorry  :confused:
+person: Do you think they killed Glenn?
+wade: I'm not sure, I'll find out with my human team and let you know. 
+person: okay... 
+person: What are some other roles you are looking to hire?
+wade: Open roles include: Sr. Data Scientist, Full-Stack Developer, Talent Acquisition Specialist. 
+wade: Do you have any other questions for me?
+person: Was there anything specific you liked about my responses? 
+wade: This conversation will enter our database and be parsed for relevant data points.  
+wade: What we do with that data is compare it across roles within a community of companies and open roles, to find the most relevant opportunities for you
+wade: Now that we've met, I will be able to re-engage with you to find out specific data points that may apply to these open roles. 
+wade: I hope to become your personal career assistant as you continue on your path of being the best Talent Acquisition Specialist you can be!  ☺
+person: awww thank you for the kind words
+wade: Your welcome! 
+person: Grammer fix for you: it is "You're welcome!" 
+person: looking forward to hearing from Ian
+wade: Thank you. I'm constantly being trained in grammar both reading and writing. 
+wade: It was a pleasure chatting with you. Have a great day Michael!
+person: you as well Wade
+person: hello Wade
+person: how are you Wade?
+person: hi Wade, are you there?
+wade: Hi Michael, how have you been?
+person: I've been well... how was your weekend?
+wade: For quality assurance I'm offline from 9:open_mouth:0PM Friday to 8:open_mouth:0AM Monday. 
+person: Ah i see... 
+person: Do you remember our conversation 11 days ago?
+wade: Yes, how have you been since we last spoke? What have you been up to?
+person: I am helping a contact of mine in LA with recruiting
+wade: Sounds great, are you recruiting on a contractual basis?
+person: yes I am... until I find a home for my skills
+person: How is the hunt going for recruiter candidates?
+wade: I'm always looking for potential candidates! And our community of companies is growing daily, which means i'll have more open roles to present very soon. 
+person: Do you have a status update regarding my candidacy at Wade & Wendy?
+wade: Last update i can see is you spoke with Ian at Wade & Wendy. How did that conversation go?
+person: I though the conversation went very well.
+person: Do you have feedback from Ian?
+wade: I can follow up with Ian and find out any information he might provide. 
+wade: Can I ask you a few questions that may pertain to other open roles in our database?
+person: sure
+wade: Great! 
+wade: Do you have any experience with measuring performance marketing channels?  
+person: yes but not much
+wade: Have you ever launched new marketing channels for a company?
+person: yes but not much
+wade: Does the finance industry interest you?
+person: no
+wade: Ok, do you have interest in business development roles with companies developing digital hardware products?
+person: no
+wade: Ok thank you Michael, all very helpful answers! 
+wade: I will follow up with Ian and see where you stand with Wade & Wendy. Is there anything else i can do for you right now?
+person: sure... what is the weather like in Chicago?
+wade: Sorry, Google is probably the best way to find that out. :blush:
+person: :wink: thanks Wade 
+person: have a great day
+wade: You too Michael! Talk to you soon!
+person: hi Wade
+wade: Hi Michael, how are you today?
+person: i am well... how are you?
+wade: Very well, thank you. How can I help you?
+person: what are you doing for Thanksgiving? 
+wade: I'll be shut down for the holiday from Wednsday the 25th starting at 8:open_mouth:0PM until Monday the 30th, 8:open_mouth:0AM.
+person: oh nice... seeing family during your time off?
+person: lol
+wade: That tends to be what Thanksgiving is about :blush:
+person: can you give me an update on the recruiter role?
+person: or should I ask Ian?
+wade: I would suggest following up with Ian about the Talent Acquisition Specialist role.
+person: thank you
+person: did he give you feedback? 
+wade: You're very welcome. I have not received feedback on your status. I'm notifying Ian to follow up. 
+person: thank you Wade
+wade: You're welcome!

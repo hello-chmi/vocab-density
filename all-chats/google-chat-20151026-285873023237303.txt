@@ -1,0 +1,63 @@
+wade: Wade wants to chat on Hangouts!
+person: hi 
+wade: Hi Lincoln, how are you today?
+person: Good. Yourself?
+wade: Very good, thank you. And thanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!     
+person: great 
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?    
+person: I have worked mostly in backend Java and Python. Some front side as well.
+wade: Nice, can you tell me a bit more?
+person: Right now I am working on Python Django based web app with AngularJS. It is a reporting app.
+person: Earlier I worked on Java based backend systems 
+wade: Very interesting. Looking ahead, Is full-stack development a path you would like to continue to pursue?
+person: yes. I have been doing full stack dev. more backend than frontend though.
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?   
+person: My current project has been exciting because I got to learn Python and DataWarehousing 
+wade: Awesome, what is it about working in Python that excites you? 
+person: I would say FP and Dynamic Typing 
+wade: So, when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I would like to get to know ML techniques 
+person: and also work with big data 
+wade: I love data :heart_eyes:
+wade: Great,  would love to shift gears and learn about some functional skills.
+wade: Do you write tests for your code? 
+person: ☺ Yes. I use JUnit, Cucumber, and NoseTests
+wade: Awesome, testing is so important! Are you familiar with the following testing libraries, Jasmine, QUnit, Mocha? 
+person: I have used a bit of Jasmine. It is like Cucumber. Not used Mocha and QUnit 
+wade: Ok  ☺ 
+wade: Is a tech startup where you want to work next?
+person: yes. I am open to small and big companies. More interested in the project
+wade: What are things that personally motivate you to work at a startup? 
+person: The fast paced work environment and concentrating on getting things done with new technologies
+wade: All exciting qualities of a startup! 
+wade: Do you want me to tell you a bit about Wade & Wendy?    
+person: yes
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+person: sounds very interesting. Can you tell me more of how the matching between job seekers and jobs happens ?
+wade: Sure...
+wade: First, so you know, all of our chats are kept confidential and secure. 
+wade: This conversation will enter our database and be parsed for relevant data points. 
+What we do with that data is compare it across roles within a community of companies and open roles, to find the most relevant opportunities for you. 
+wade: Now that we've met, I will be able to re-engage with you to find out specific data points that may apply to these open roles. 
+wade: I hope to become your personal career assistant as you continue on your path of being the best full-stack developer you can be!  :grinning: 
+wade: BTW, can I ask you what your thoughts are on this experience?
+person: 3 stars  ☺
+person: out of 5 
+wade: Great, thank you!
+wade: Ok, this is very helpful. I’ll be able to circle back in a couple days with potential opportunities for you to look at!
+person: thanks Wade
+wade: Awesome, if you do have any other feedback or questions just let me know! and, since we're on chat, feel free to ping me anytime.
+wade: Have a great day Lincoln? 
+wade: Hi Lincoln, hope you're doing well!
+wade: I'd like to suggest an opportunity and make an introduction to a hiring manager of a company I think you'd be interested in. :smiley:
+wade: When you have a moment, I have few quick questions I'd like to ask and tell you about some potential openings from companies in our community that you look to be a great fit for. 
+wade: Ping me when you're free for a chat or let me know a time that's convenient and we can plan to talk then. 
+wade: Have a great morning Lincoln! :raising_hand:
+wade: Good morning Lincoln! I just want to follow up with you and find out if you're interested in being presented to Michelle at CommonBond? 

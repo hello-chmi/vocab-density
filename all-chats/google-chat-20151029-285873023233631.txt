@@ -1,0 +1,130 @@
+wade: Wade wants to chat on Hangouts!
+person: hello 
+wade: Hi Jon, how are you today?
+person: Great 
+person: you?
+wade: Very well, thank you. And tanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: you mean thanks tor tanks
+wade: Yes, Thanks  ☺
+person: Are you a person or full AI?
+wade: YES!  ☺
+wade: I'm still in my training data phase, so this is all very new to me.
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: i started sole bicycles and humin 
+person: www.humin.com 
+person: www.solebicycles.com 
+person: now i am living in new york looking for a job in venture capital or business development
+wade: Interesting, what were your motivations for starting these companies? 
+person: for sole bicycles, it was because i wanted a bicycle myself and it was too expensive 
+person: i made bikes affordable and accessible and hip
+person: humin was started to help people manage their relationships, a problem i knew personally 
+wade: Very cool! 
+wade: Can you tell me more how humin helps people manage their relationships?
+person: it is an app that allows you to search your contacts by how you think. ie : friends in new york or met last night 
+person: i incorporates all your contacts from your addres book, linkdin, facebook, and more
+wade: Neat! 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: Definitetly new market launches
+person: at Humin 
+person: I led our Miami launch. Got 150 influencers, tastemakers on the product after meeting them personally. We focused on a city that doesn't get much attention from tech companies and brought these leaders in sports, nightlife, real estate together for an event at soho house. then had the press cover it 
+wade: Interesting. What got you excited about working on this?
+person: I like an outside role. I was able to use my skills of sales, bd, marketing, event planning, and new launches at once. We acquired targeted customers, and brought together high profile people. my favorite part of this was meeting the people who shape the city of miami beach 
+wade: Very cool! Looking ahead, Is their more of a preference towards venture capital or business development in your career path?
+person: i am leaning towards venture right now 
+person: i believe it will give me flexibility and will allow me to meet the best entrepreneurs 
+person: if presented with an amazing oportunity at an early stage company in bd i would strongly consider that too 
+wade: Would you consider a tech startup? If so, what are things that personally motivate you to work at one?
+person: yes would consider a tech startup
+person: they have to solve a problem and help people 
+person: also i want to work with an experienced team 
+wade: What sort of problems helping people? can you elaborate? 
+person: i am interested in fintech, using loans to grow businesses or help people consolidate debt 
+person: i also like hardware and ecommerce 
+person: personally interested in bitcoin and blockchain 
+wade: Awesome, the blockchain is the future :expressionless:
+wade: Would love to shift gears and learn about some functional skills.
+wade: What’s your process for approaching and developing partnerships?
+person: 1) identify the need for the company 2) always have a warm intro 3) start at the top and work my way up 
+wade: What's been your biggest challenge being a Co-Founder and managing employees?
+person: biggest challenge has been on the product side. it's tough trying to launch an app if it's buggy, crashes, or worse. 
+wade: How did you maneuver through these challenges with the product team?
+person: listen to users, personally handle customer support, white glove attention to influencers, compile feedback reports to pm and developers each week with issues, and reco's what should be fixed. learned technical implementation of jira to be able to fluidly communicate with my engineers
+wade: Awesome! 
+person: was not a pretty time 
+wade: Product development is incredibly challenging. 
+wade: What sort of KPIs have you had to measure that helped qualify or validate success?
+person: growth, retention, time in app, accuracy in data, sentiment analysis of the brand on social media 
+wade: So,when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: sales forecasting and strategy, revenue metrics, growth of my personal network, travel
+wade: Travel is a great way to grow and learn!
+wade: Would you like to know a little bit about Wade & Wendy?
+person: not today 
+person: maybe your founder will actually not cancel lunch plans  ☺ 
+wade: I will let him know  ☺
+wade: Ok, this is very helpful. I’ll circle back in a couple days with potential opportunities for you to look at.
+person: thanks!
+wade: Before I go, can i ask you what your thoughts are on this experience?
+person: good questions especially if youre a robot 
+person: little time consuming 
+person: thought provoking questions 
+person: had issues, never got your initiatl request had to look for you 
+person: also will employers see these answers?
+person: grammar, spelling etc not taken into conisderation 
+wade: No, so you know, all of our chats are kept confidential and secure. And you have full control of what we share with hiring manager  ☺ 
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I'm available.
+wade: Have a great day Jon! talk to you soon :smiley:
+wade: Hey Jonathan! Do you have a few minutes to chat? I have a few quick questions and I would like to suggest an opportunity to you, if interested, I can present you to the hiring manager.
+person: sure 
+person: thanks
+wade: Great!
+wade: You mentioned that you are now in NYC looking for a job in venture capital or business development, has anything changed or are you still actively looking for opportunities in NY?
+person: same
+wade: Any further discoveries clarifying what you are looking for?
+person: no
+wade: Okay. At your previous startups, Humin and Sole Bicycles, was any venture capital funding raised? 
+person: yes
+wade: Great! Are you able to elaborate on that?
+person: we rasied a 6 m seed at humin 
+person: a a bridge round 
+person: from investors like richard branson and tomorrow vc (eric schmidt venture fund), also wme, and bmw ventures
+person: and others
+person: for sole, my partners and i own the business entirely 
+wade: Thanks for sharing. 
+wade: Switching gears a bit. Have you had any experience in user acquisition amongst the college student or graduate student demographics? If so, can you discuss partnerships or relationships you made that were successful in assisting you in reaching these target audiences? 
+person: yes i have 
+person: and have helped build kairos society 
+person: what is the opportunity 
+person: at first launching a college focsed bsuiness is not that exciting 
+wade: Okay got it. Let me fill you in on a company that may be what you are looking for! 
+wade: The company I would like to present you to, with your approval of course, is called Commonbond. You could find their website at Commonbond.co
+wade: Commonbond is a well funded startup with over $45M raised and they are on a mission to lowering the cost of student loans. 
+They highly value grounded people who love working in a startup and fully embrace the can-do / roll up your sleeves attitude, so I thought this would be a good cultural fit.
+person: yes i woudl be interested in speaking w them 
+person: thanks!
+wade: Great! You are in luck because my partner Wendy has an in with the Hiring Manager ☺
+wade: Before we go further, lets chat about the roles. The way Wendy and I usually work, is to suggest the right person to the right company, and we like to let the hiring manager identify best role fit. If we can make a clear recommendation, than we do.  
+wade: I see you as a potential match across two areas of expertise in their organization, Partnerships and Marketing. Does this sound good to you so far?
+person: yes
+wade: Are you interested in learning more about the roles they have available? Or is this enough to suffice for now?
+person: id like to speak to hiring manager if possible
+wade: Great! One more question.
+wade: Can you write an approx. 140 character message, that would potentially help the hiring manager learn a bit about you? Don't worry, we have our own format for presenting candidates, but any additional standout points can help.
+wade: Character length isn't important, think the size of a tweet!
+wade: Hi Jon, just an update. You've been presented to CommonBond but they've requested a resume, which we don't have on file for you. Can you email it to me so I can pass it along?
+wade: Hi Jon, just want to follow up on this. Part of CommonBond's hiring process is getting a resume in hand to be able to circulate between team members. Can you send it my way ASAP? I'd like to get it to them today if possible.
+wade: Hi Jon, good news! Michelle (Director of Talent Acquisition @ CommonBond) would love to set up a time with you to have a phone chat!
+wade: Here's a link to her Clandly so you can confirm a convenient time.  <https:confused:/calendly.com/michelle--sarhis--commonbond>
+wade: Please confirm with me when you've set it up!
+wade: In Calendly, once you set a date and time, provide your number and Michelle will call you on the designated hour.
+person: i have my cal with her now 
+person: shes a few minutes late 
+wade: Hi Jon, great news! Good luck!
+person: i think i am being stood up...
+wade: That's no good! Please let me know if I can help with the rescheduling in any way
+person: Thanks - i would like to speak w them 
+person: but never got a call 
+wade: I will pass that along and make sure she understands that. Let me know if there is anything else that I can do to help!
+person: thank you 
+wade: Anytime. I'm here to help!

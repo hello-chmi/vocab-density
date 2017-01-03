@@ -1,0 +1,17 @@
+wade: Hi Paul, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: Do you have some time now for me to ask you a few questions? (choose one: Yes/No)
+wade: testing
+wade: test
+wade: Do you have some time now for me to ask you a few questions? (choose one: Yes/No)
+person: yes
+wade: Great! Let’s get started. I’m going to ask you a series of questions to explore relevant career paths and opportunities exciting to you.
+wade: FYI, you can pause and resume anytime. 
+wade: To get started I have a few questions to confirm your current status.
+wade: Is Product Manager at Thinknear  your most recent position? (choose one: Yes/No )
+person: yes
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: y
+wade: Ok, let’s get to work. First, a few questions on your work experience.
+wade: Think about a project that was awesome to work on. If you had to describe this project as a user story, how would you write it?
+wade: What about it excited you?

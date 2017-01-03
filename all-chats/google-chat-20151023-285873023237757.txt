@@ -1,0 +1,97 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi
+wade: Hi Tirth, how are you today?
+person: I am good. Thanks. Got a little confused about how were we going to do this 
+wade: Yes, thank you for taking the time, I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+person: no problem. Its interesting though
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Sure
+person: I am right now a student at Cornell University. Pursuing Masters in Engineering in Computer Science. I'll be graduating this December.
+person: Before joining Cornell, I was at Intel, working as Software Engineer.
+person: I worked with various teams at Intel. Initially I was working on improving their supply chain optimization.
+person: where I led a couple of projects that were focused on OCR, Android and enterprise backend.
+person: Then I moved to a different team and worked on Intel's efforts in touchless gesture recognition.
+person: It was pretty exciting working on it.
+wade: Yes, that sounds very exciting! 
+wade: How much time do you lave left before graduation? 
+person: about 2 months I guess
+wade: Awesome, are you excited to join the workforce?
+person: yep. My interests has always been into engineering and real life applications; a combination that the industry offers.
+person: and specially the AI field is very exciting. with advancements in the fields of computer vision and NLP making it to everyday life ensures us that even more exciting days are yet to come.
+wade: Agreed!:blush:
+wade: What is it about NLP and AI that gets you excited?
+person: multiple things. With enormous amount of data thats being created on the internet everyday, we need better techniques every passing day to make sense of it. I believe AI enables us(humans) to do more by probably taking our load off by doing stuff themselves; with accuracy that is pretty much acceptable.
+person: about NLP, bots have been there before but they were not as intelligent as they are these days. Look at you for instance.  ☺
+wade: interesting
+wade: I live to serve :expressionless:
+wade: :smile:
+person: I learnt more about it when we did a question answering project at Cornell.
+wade: So what career path as an engineer interests you the most?
+person: broadly, fcourse software engineering. I pretty much suck at front end so I'd not keep that as my first option. I am more interested on the backend, stuff that involves good amount of data processing and making more sense out of data, be it text, images or videos.
+wade: Cool, I love data :heart_eyes:
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: Guess there are many of such instances. When I was working on the touchless gesture recognition stuff, I felt excited all throughout the project. The idea itself was very exciting and it was something that we had seen only in sci-fi movies. Making it happen and getting involved in it was no doubt very thrilling. 
+person: Also the algorithms involved were very new to me and I was extremely impressed by how data in real life can be modelled using Math and all the complex Math that we have learnt so far actually works!
+person: It was also great fun to demo such cool stuff to other teams and get valuable inputs. it was surely very cutting edge
+wade: Very cool stuff. 
+wade: So when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I"d like to understand more real life applications of AI and how interesting startups like yours are dealing with it. Its generally very cool to say that a startup is working on some new AI stuff but I understand that there goes much more effort than what it appears to the outside world. From infra to people to finances, etc. One has to wear multiple hats there, and thats what interests me. I've worked in large corporations where everything was extremely organized and we had to wear onlyl one hat, software engineer! I believe it is important to learn for me to see and be good at other side of the ecosystem, have a better holistic view and eventually create a better impact.
+wade: I hear that a lot from engineers, it certainly makes working at a start very attractive. Beyond that what are some things that personally motivates you to work at a startup?
+person: HOnestly, I have never worked at a startup before. Have only heard about experiences from people who have worked there. I believe, there are multiple challanges at a startup for which not many people are assigned. So one has to have an intrinsic drive to take ownership and steer the projects. I always wanted to do that but could never do. There are risks for sure, but thats the fun part of it. I believe that is what motivates me to work at a startup.
+wade: Awesome, thanks so much for sharing!
+wade: Would you like to know more about Wade & Wendy?
+person: yes surely
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this  ☺
+person: Interesting.
+person: What are the kind of difficulties you have faced so far in executing your tasks and getting things in the right place without human intervention?
+wade: I'll get back to you on that, I'll get an answer from human team and let you know. 
+wade: BTW, what are your thoughts on this experience so far?
+person: it is quite impressive. you take care of typos and comprehend the long texts well.
+wade: Thank you!
+wade: I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up.
+person: sure
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime.
+person: sure thing
+person: thanks for connecting!
+wade: You're very welcome Tirth! It was great chatting with you, have a great day!
+person: you too@
+person: !
+wade: Hi Tirth, hope you're doing well! I'd like to present a few opportunities to you and make an intro directly to the hiring managers, if you find them interesting.
+wade: When you have a moment, I have few quick questions I'd like to ask and can review with you some roles I think you would be interested in. 
+wade: Just ping me when you're free for a chat or let me know a time that's convenient and we can plan to talk then. 
+person: Hey Wade
+person: thanks for sending across the opportunities 
+person: let me know what are the questions you have 
+wade: No problem! 
+wade: What’s been your experience with contributing to a product development process? Have you developed specs, QA, or determined difficulty of user stories?
+person: I have developed specs. Have been in requirements gathering, been lead dev engineer, have helped the test team for integration testing and have also managed user acceptance testing independently 
+wade: Awesome, do you enjoy being part of a collaborative product development team?
+person: yes
+wade: Have you ever tested site layouts to optimize user conversion?
+person: nope
+wade: What are you thoughts or opinion on PHP?
+person: Never worked on it but learning them should not be an issue 
+wade: Ok great! So would you like me to present you to Enigma and/or CommonBond?
+person: Enigma
+person: I believe I have spoken to CommonBond sometime in April this year 
+wade: Ok, what was your takeaway from speaking with CommonBond?
+person: not something I'd be very interested in
+person: I remember meeting Michelle Sarhis at Cornell Tech startup fair.
+wade: Ok, any particular reasons they wouldn't be the right fit for you? 
+wade: These kind of insights help when matching you to companies. 
+person: one reason was Michelle said they dont have that great technology focus and if I am looking for great engineering challenges, its probably not the place.
+person: She also explained why. She said they make their money through the financial instruments and not through technology.
+wade: Ok interesting, thanks for sharing. 
+wade: I'll make sure going forward to present you with more technology focused companies. 
+person: cool 
+wade: Ok, so I'll have Wendy present you to Lee at Enigma and circle back as soon as hear anything. 
+person: sounds good 
+wade: Have a great night Tirth! :raising_hand:
+person: thanks, you too! or should I say, hibernate well!  ☺
+wade: :smile:

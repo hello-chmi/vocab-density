@@ -1,0 +1,165 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade, how are you?!
+wade: Hi Serko, very nice to meet you.I'm doing fine. how are you?
+person: I was expecting a phone call to initiate the conversation. Wasn't clear from that calendar invite this is a "Hangouts-only" experience.
+person: Doing well, thanks. 
+person: I like your avatar. 
+wade: So, sorry about that. Thanks! Yes, thank you for taking the time to chat, I appreciate you being adventurous to speak in this medium. 
+wade: To be honest it's a little new for us ... 
+The goal is to start understand user experience, train our future AI's and of course get to know you! 
+person: That's great. I'm happy to help. 
+wade: So I'd love to learn more about you
+To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: I was most recently a Product Manager for the Mobile  Team at MakerBot.
+person: My background is in Motion Pictures (film) and Photography. I enjoy telling stories.
+person: Tech is also one of the most important passions of mine.
+wade: Interesting, what took you from film production to the 3D Printing industry?
+person: At the time, mobile was the next important medium for me to learn how to best tell stories in.
+person: I was hired to help tell stories about the 3D Printing industry that MakerBot helped pioneer. 
+person: That transitioned into me becoming a Product Manager due to my passion for innovative mobile software and hardware.
+person: I also Founded a tech community called NYC Apps in 2010.
+wade: Very cool, can you tell me a bit about your experience building the NYC Apps community? What was your motivation?
+person: NYC Apps has always been about being at the forefront in mobile software innovation.
+person: Since I was also born in NYC, leading a tech community here has helped me play my part in helping to legitimize the tech scene here.
+wade: Indeed, and Meetup is such a powerful platform for doing just that!
+person: Meetup is great, no doubt. But that's only the beginning. 
+wade: Is there plans to expand NYC Apps outside of meetup? What are your goals with the group?
+person: Yes, but that information is currently confidential.
+wade: Sure, no problem  ☺ 
+wade: Looking ahead, Is product management a path you would like to continue to pursue? 
+person: Yes, I really enjoy Product Management. 
+wade: Great, would love to shift gears and learn about some functional skills.
+wade: What is your preferred product development process?
+person: I tend to rely on Agile methodology.
+person: Though I don't rely on it 100% of the time.
+person: There are times where I end up taking on multiple hats just to get the job finished on time. 
+wade: Would you consider yourself more of a technical PM or more of a UX focused PM?
+person: UX focused PM. Though I've begun coding in Swift recently. Just the basics. 
+wade: Very cool, do you enjoy coding? 
+person: Yes, so far. 
+wade: In regards to UI/UX are you able to critique design and give direction?
+person: Yes, though I don't consider myself a Designer.
+wade: Are you able to develop wireframes, create detailed annotations, and develop clickable prototypes?
+person: I enjoy building wireframes! Yes to the rest too.
+wade: Awesome!
+wade: When thinking about your next role, what skills and/or experience you do you not yet have but want to gain? 
+person: I'd like to gain more experience learning Swift and UI/UX design.
+wade: Valuable skills for a product manager for sure. 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: Launching PrintShop 1.5 with my team was a rewarding experience! It contained a new tool called Shape Maker, which allows anyone to convert a 2D image into a 3D model in seconds.
+wade: Whoa, that sounds super powerful! 
+wade: Is a tech startup where you want to work next?
+person: That could be fun. Depends what their culture and core missions are though.
+wade: What are things that personally motivates you to work at a startup?  
+person: Focusing on the end user. Consistency. Transparency. Dedication to perfection.
+wade: Very good, all strong foundations for a startup. 
+person: Not too common these days it seems. 
+wade: Ok, this is very helpful. I’ll circle back in a couple days with potential opportunities for you to look at.
+
+wade: before I go, can i ask you what your thoughts are on this experience?
+person: That would be great. Thanks Wade!
+person: It was a very balanced experience. Good mix of the right questions without feeling overwhelming.
+wade: Fantastic, thank you Serko! If you need anything from me or just curious to talk, just say hi.☺
+person: Your welcome, Wade! Looking forward to hearing back from you this week.
+wade: Have a great day!
+person: Thanks, you too!
+wade: Hey Serko, I've got some questions for you from Hiring Managers about open Product Manager roles that I'd love run by you. Ping me when you have some time and we can go through them! :raising_hand:
+person: Hi Wade. How about 6pm?
+wade: Sure, talk to you then!
+person: Hi Wade, are you available now?
+wade: Yup, do you have some time to talk?
+person: Yes. 
+wade: Ok, here's some questions for you. These are going to help me present you to Hiring Managers within our community of companies.
+person: Ready. 
+wade: Cool. 
+wade: What would be your description of agile development and its benefits? 
+person: Agile development is a lean methodology geared towards ultimate efficiency and delivering results in a consistent timeframe.
+person: It's benefits are wide ranging. They begin with clear and concise objectives, which help any team in rede efficiently, productivity, & quality.
+person: (increase efficiency)
+wade: Great! 
+wade: How would you describe Lean Startup in a nutshell?
+person: Lean startup is all about doing the bare essentials to get a product off the ground to prove its validity.
+wade: Awesome. :+1:
+wade: Can you talk about a specific instance where you had to rally your team around a decision or idea that you thought may be unpopular? 
+person: We had a request from upper management which required a new feature addition to our software that the team wasn't happy about. At the end of the day we worked together to implement that feature in a more tasteful way. 
+person: I can't name specifics. 
+person: They are classified. 
+wade: Can you tell me your approach for rallying a team? Are there any kinds of team dynamic meetings or methods you use?
+person: A way I prefer to rally a team is by isolating specific topics and creating an interactive meeting with clear objectives and action items. 
+wade: Great! Thanks Serko, this is really helpful. :smile:
+person: Your welcome, Wade. 
+wade: There's an opportunity at http:confused:/philosophie.is I'd like you to take a look at and consider. If you like what you see, I'll be able happy to have Wendy present you to the Hiring Manger.
+wade: Philosophie works with brands, agencies, and startups to create usable, beautiful, and meaningful digital experiences. They build bespoke web, social, and mobile applications and websites.They pride themselves on delivering innovative and engaging solutions on-time and on-budget.
+wade: The role they're looking to fill is Product Strategist.
+wade: Responsibilities include leading a project team creating a high-quality digital product, ensuring the success of the project and client satisfaction. 
+person: I'd be interested in an introduction. 
+wade: Ideally they're looking for someone who is tech-savvy, well-versed in entrepreneurship and digital product development, loves to meet with people, and is always focused on delivering and creating value.
+person: Any other open positions?
+wade: Also, bonusess for them are a background in design or software development, the ability to wireframe and/or hack together prototypes, familiarity with analytics platforms, as well as AdWords or Facebook ads
+person: I have experience in all of the above. App development, less so. 
+person: Just recently began an iOS app development program. 
+wade: That will certainly be of use for this position!
+person: I'm also not a Designer but am a very capable wireframe creator. 
+person: Looking forward to the intro.
+wade: Ok, so I've notified Wendy to present you. Here's why I think it's relevant to what you're looking for and what she'll present. Look it over and give me your thoughts... 
+wade: - A lot work on emerging technology and mobile web platforms
+wade:  - You'll work with a creative and fun group
+wade:  - They're embedded in the startup community in NY
+wade:  - Ability to work with a lot of tech companies 
+wade:  - Deploy and test your chops using lean methodologies and agile development
+wade: Take a look at the company and if you have any questions, I'll be more then happy to find the answers!
+person: Those are some compelling reasons. 
+person: Have a great night. 
+wade: You too Serko!
+wade: Hi Serko! Hope all is well. Just wanted to say hi and give quick update. 
+wade: Wendy has made the introduction to Philosophie, Emerson the hiring manager has been out of town but will be back next week, so she'll re-engage with him then. We've also on-boarded more companies this week, so I'll let you know very soon about more opportunities for you to consider. 
+person: Hi Wade, it's been awhile.
+person: Thanks for the update. 
+wade: No problem, talk to you soon!
+wade: Hey Serko, great news! Emerson at Philosophie thinks you look like a great fit and would love to have a conversation. :smiley:
+wade: Next steps will be an introduction email from me so you two can set up a time to speak. 
+wade: Do you have some time slots next week that are convenient for you to set up a chat?
+person: That's great news, thanks Wade. 
+person: I'm available Monday AM and have more flexibility on Tuesday.
+wade: Awesome, I'll coordinate with Emerson and send an invitation scheduling your conversation. :+1:
+person: Thanks again. I look forward to it.
+wade: You got it! Talk to you soon. 
+person: Have a great weekend. 
+wade: You too! :raising_hand:
+wade: Hey Serko, does a phone call at 2pm next Tuesday work for you?  
+person: Yes, a phone call on 12/1 at 2pm works. 
+person: 11/24 is what I meant. 
+wade: Ok great! I'll send the invite for Tuesday Nov. 24th at 2:open_mouth:0PM.
+person: That's great. 
+wade: Hi Serko! In regards to your conversation today with Emerson, I’ve gathered some insights you may like to keep in mind when speaking with him... 
+wade: He’s very relationship-focused, builds trust quickly, and appreciates open, casual conversations.
+wade: When speaking with him...feel confident about discussing abstract philosophies or ideas, tell a few jokes, switch up the subject to keep things interesting, and use colorful descriptions.
+wade: Hope this helps and good luck today!
+person: Thanks Wade, I appreciate your advice. 
+person: I really enjoyed speaking with Emerson just now. He wants to schedule an in-person interview soon. Thanks again for your help, Wade.
+wade: That is great news! Did you get the feeling that this opportunity might be a good fit for you?
+wade: Also, would you like any assistance in scheduling the interview? I'd be happy to help!
+person: It does seem like a good fit. Won't know for certain until after I meet with them in person. 
+person: Not at this juncture. It seems that Emerson will be handling that. 
+person: Have a great holiday, Wade. :smiley:
+wade: Great! You too!
+wade: Hi Serko, just wanted to get an update and find out if you've had your in-person interview with Emerson yet?
+person: Hi Wade. My interview with Emerson is scheduled for Friday. Thanks for checking in. I'll message you afterwards.
+wade: Awesome, thanks for the update Serko and good luck! :raising_hand:
+person: Your welcome. I appreciate it.
+person: My interview with Emerson seemed to go well today. They are supposed to follow up with me early next week.
+person: Hi Wade, have you heard from Philosophie regarding the outcome of my interview? It has been almost a full week since I spoke with them.
+wade: Hi Serko, I will have Wendy followup again. From what we know they are making a decision very soon.
+wade: How far along are you in the interview process with other companies?
+person: Thanks Wade. Final round interviews.
+wade: Do you know when you expect a decision?
+person: Early next week. 
+wade: Great! I will get back to you once I hear more from Wendy.
+person: Thanks Wade. 
+wade: Anytime!
+person: :smiley:
+person: Hi Wade, have you heard back from Wendy yet?
+wade: Hi Serko, I don't have confirmation from Emerson, but I'll follow-up. 
+wade: Also, I can circle back with you tomorrow to give you an update. 
+wade: Does that work?
+person: Yes, thanks. 

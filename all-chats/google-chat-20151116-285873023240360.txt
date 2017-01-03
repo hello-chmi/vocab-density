@@ -1,0 +1,48 @@
+wade: Hi Ziqu, how are you today?
+person: I‘m good! How are you? Wade
+wade: Very well thanks. And thanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: I'm very excited to talk with you. It's new for me as well. I'm glad I can help you to improve.
+person: Ok. I worked for R/GA as technologist intern last summer and I worked as teaching assistant for javascript course in Parsons. Btw, I graduated from MFA, Design and Technology, Parsons school of design this year.
+
+				
+
+			
+
+		
+ 
+person:  And here is my portfolio: http:confused:/www.ziquzou.com/ 
+person: and my resume: http:confused:/files.cargocollective.com/593849/ziquzou_resume_1.pdf
+wade: Very cool, thank you for sharing this. 
+person: You are welcome. Also. recently I work on second version of my own product Aniland and build projects with Web vr. 
+wade: Awesome! What was your experience like working at R/GA? 
+person: I worked as a front-end developer and creative technologist in company. I wrote a lot of HTML/CSS/Javascript code during work. I was trained to write code - "readable, scalable, maintainable"
+wade: Do you enjoy front-end development?
+wade: Before we move on, know that all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager.  ☺
+person: I worked on some project for Nike and also a independent project "Jukebox"
+person: Yes, I like front-end development
+person: This is one of the project I created in R/GA: http:confused:/www.ziquzou.com/work/Jukebox  and it's github repo: https:confused:/github.com/RGADigital/jukebox-music-app
+wade: Nice, thank you. 
+wade: So looking ahead, is UX Designer or Front-End Developer a path you would like to continue to pursue?
+person: I like to be a front-end developer or we can say creative technologist if it is possible.
+wade: Ok great! Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: Jukebox is a touch screen interactive music playing and visualizing installation so everyone can share music through Rdio.com playlist and play these music in public space. It is using three touch screens. The middle screen is a music player which syncs music from Rdio.com and the other two screens are interactive music visualizers. 
+wade: What were the challenges that got you excited to work on this?
+person: In this project, I learnt a lot of professional coding skills. I learnt how to design and create different modules for my code. Also, I learnt how to write more professional notes in code and other developers can read and understand it. I worked on frontend/ backend(node.js) and UX/UI on this project.
+wade: Great, would love to shift gears and learn about some functional skills.
+wade: Are you able to develop wireframes, create detailed annotations, and develop clickable prototypes?
+person: Yes. I can develop wireframe and I'm very good at creating prototypes. In R/GA, I also create many clickable prototypes for NIKE's projects.  Also, what do you mean functional skills here?
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: Ok, there are a lot. I want to improve my html/css and javascript skills, such as javascript design patterns and making code more efficient etc. Also, l want to use more latest frameworks or libraries, such as React/ Angular2 or D3.js etc. Also, I'd like to get some experience of how to cooperate with other developers, designers and stakeholders. If it is possible, I also want to have some experiences from the early stage of creating products.
+wade: Wow yes, quite a lot! Thank you  ☺ 
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?
+person: Yes, I'd like to work with a tech startup. First of all, I think I may have chance to touch different parts of product and have more different and difficult works. I will feel excited if my skills can contribute to the product and I can quickly learn knowledge from these challenging assignments. Second, I like to work and grow with a product, such is still a "baby", together. 
+wade: All very compelling reasons, thank you! 
+wade: Ok, this is very helpful. I’ll circle back in a couple days with potential opportunities for you to look at.
+wade: Before I go, can i ask you what your thoughts are on this experience?
+person: Thank you wade! This experience is very new and conversation is very smooth.  I still can't understand what's the functional skill hare in the sentence - "Great, would love to shift gears and learn about some functional skills." The other thing is very good for me. 
+wade: Awesome, thanks so much! If you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I’m available.:raising_hand:
+person: :grin: Bye bye Wade! Have a smart day as always!

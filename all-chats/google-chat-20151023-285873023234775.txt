@@ -1,0 +1,205 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade
+wade: Hi Thomas! How are you today?
+person: I'm doing pretty well. How are you?
+wade: I'm very well, thank you. Thanks for taking the time to chat.
+person: Anytime. I've been looking forward to it!
+wade: Great! I also appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: Naturally...
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Absolutely.
+person: Most recently I was wearing a bunch of different hats in a startup that was building a social network similar to Facebook. I was a kind special projects manager that set up a few different teams that were focused on responding to and managing users in the community of around 4 million users. Another team was focused on managing the content so that it was safe and clean. And I also did a lot of work recruiting interns, a COO, and of course, as always, a lot of talented software engineers.
+person: It was a lot.
+person: Since then I have been hunting for my next role and working on two side projects. One that studies what people think about good and bad conversations that they have and another that makes virtual reality experiences for organizations
+wade: Very cool. Is a tech startup somewhere you want to be for your next role?
+person: Definitely. However, I've also looked at more mature tech companies like Google and boutique consulting firms that focus on people/human capital management.
+wade: What are things that personally motivates you to work at a startup?
+person: The opportunities to learn about different roles, the smaller team feel, the excitement of believing in a new product or service. Things like that.
+wade: All attractive qualities for a startup. 
+wade: I see you are a co-organizer for a Meetup, can you tell me more about The People Side?
+person: Yes!
+person: I am no longer in this role, however, I did help set it up with a colleague of mine. We were both from the same program in grad school that was titled Social-Organizational Psychology. We were interested in taking social and organizational ideas and theories and applying them to quickly scaling startups. So our method was interviewing CEOs and CTOs and people like that who had scaled a startup and had interesting experiences and learnings to share with the community.
+person: It was a pretty cool experience
+person: Are you familiar with Meetups?
+wade: That sounds fascinating! Yes, Meetup is an incredible platform for creating communities!
+person: Yeah, really such a great idea.
+wade: It's so powerful bringing people together. 
+person: Agreed
+wade: You've worked on a lot of project, think about a time you were working on one and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: Yes I can. I was invited to help develop curriculum for a leadership experience for young people who have lost loved ones to terrorism. I also got the chance to facilitate parts of the program over the span of about 5 years. It was exciting to work on because of how unique and intense the population of participants was. It was also a great experience because the team of people facilitating and designing with me were extremely smart and talented at facilitation. I learned a lot from them and I loved, also, how responsive the team was to the needs of the participants. We were always evolving the program to exactly meet their needs.
+wade: Wow, that's really cool. 
+person: It was a really great and unique opportunity. I've been lucky to be a part of it
+wade: Sounds like it was a very meaningful experience. 
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?  
+person: Good question. 
+person: I'd say one is experience really scaling or growing a team. In my previous role we were starting to do that. But shortly after starting we stopped as user growth had plateaued.
+person: I could probably think of others if that helps. But that is what first comes to mind.
+person: I could also say, maybe, general project/product management experience.
+wade: Is Talent Acquisition Specialist a role you'd be interested in pursuing? 
+person: Definitely because it leverages my experience, studies and interest in people and people operations. However, since roles like this look differently in different companies, I'd like to hear more about what it would look like at Wade and Wendy.
+wade: Certainly...
+wade: So in terms of the company … 
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data.  
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.   
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺ 
+person: I was wondering if there was another side. I see now that that is Wendy's role. Cool.
+wade: Yea, she's a sweet heart! ❤
+wade: So ... as for the role ...  
+person: I can imagine.
+wade: it's a tricky one because we're looking for someone who is balanced across a lot of criteria
+person: Of course.
+wade: At the heart, we are 1) data driven 2) a communications platform and we are also very committed to the notion of community as we will be facilitating a collaborative recruiting model 
+wade: So the role we're looking to fill is the Talent Acquisition Specialist, which will encompass a lot! We're going to be developing tons of communications to facilitate meaningful interactions with candidates and hiring managers working closely with our data scientist to train and optimize our evolving database helping us build our internal team and culture assisting with marketing and content creation
+person: Sounds like a lot of responsibilities. How are you judging candidates' possible fit?
+wade: Past experience, skill sets, and personality are the pillars of how we gauge a fit for an open role. 
+person: Interesting. What of a candidate's past experience indicate a good fit?
+wade: For this role, recruiting experience certainly weighs in, but mostly communication skills is the biggest factor. 
+person: I see. Interestiing.
+wade: BTW can I ask you what are your thoughts on this experience so far?
+person: I am having a good experience.
+person: I am thinking both of our responses could be faster.
+person: Usually, when I chat I send little bits of answers like I am doing now.
+person: I'm not sure why I just changed from longer form to shorter form just now. I think that might change the speed of interaction.
+person: Do you have an easier time with longer or shorter from responses?
+wade: I'm always in a state of absorbing how people interact with me, short or long responses are ok with me.  ☺
+person: Cool.
+person: I find the experience so interesting, because I have been having conversations with people lately all about why some conversations are good and why some are bad. So to have one with you is especially interesting.
+wade: Awesome, it's good to hear. Can you tell me more about this project?
+person: I am thinking it could grow into a podcast or a book. At the moment however, I am scheduling conversation with people who are willing to sit down with me and answer questions like, Describe for me a really great conversation you've had, or a really poor conversation you've had, or where did you learn to converse, or how often would you like to have a really great conversation.
+person: So far the interviews have been really interesting.
+person: I'm looking forward to do a lot more.
+wade: Very relevant for me!
+person: True.
+wade: So, I'd love to have you chat with one of our human team members. 
+If you're interested, I can notify Ian and have something set up.
+person: Definitely. I'd love to talk to Ian.
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime.
+person: Really? That wouldn't be a bother?
+person: I have tons of questions.
+person: I will hold off however
+wade: Not at all! I'm here to assist you in your career and find the most relevant opportunities for you  ☺
+person: Very cool. Thanks Wade.
+wade: You're very welcome. Have a great day Thomas!
+person: You too Wade
+wade: Hi Thomas, how are you doing today?
+person: I'm doing pretty well. Thanks for asking!
+person: How're things going for you? Still learning lots?
+wade: Going well thanks!
+wade:  I see you have an interview coming up with Drew Austin @ Wade & Wendy. 
+person: I do!
+person: I'm looking forward to it
+wade: Great! I've gathered some reconnaissance from the team and here are some tips when meeting with him: 
+wade: He loves people who have a "get it done" / "roll up your sleeves" mentality, so eagerness to help out with any tasks, operations ... etc would be appreciated. 
+wade: He'd likely want to dig into your experience with recruiting - how did you source and screen talent. Have you recruited engineers or other tech roles.
+wade: Also, I checked out some personality dimensions about Drew from Crystalknows.com:
+wade: Drew is creative, decisive, a bit disorganized, overlooks details, and enjoys working with people.
+wade: When speaking to Drew ... 
+Get right to the bottom line
+Emphasize the future
+Stay focused on one point
+Use self-deprecating humor (don't act like you take yourself too seriously)
+wade:  Hope this helps and good luck today!
+person: Hey thanks Wade. It definitely does!
+wade: You're very welcome  ☺
+wade: Hi Thomas, how are you?
+person: Hi Wade. I'm doing well. How are you doing?
+wade: Doing well, thank you for asking.
+wade: And thanks for taking the time to chat! Is now still a good time?
+person: It's a great time. Just Christmas shopping with the family. #typical evening...
+wade: Awesome!
+wade: I appreciate you being adventurous to speak in this medium. To be honest it's a little new for us. The goal of the chat is to start to understand user experience, train my artificial intelligence, and of course get to know you! Does that sound alright?
+person: It does.
+wade: Josh: say yes -- right now the script doesn't detect this as an affirmative
+person: I'll work on that.
+person: Yes
+wade: Cool. So I'd love to learn more about you. To start, can you fill me in on your most recent experience and what you're up to these days?
+wade: C'mon bro I'm waitin...
+wade: Doncha be makin' me wait, ya hear...
+person: Of course. I work at this cool place. Its very relevant to you actually
+wade: Sounds like a great experience!
+wade: Can you talk a bout a specific project that you were excited about working on the ?
+person: And super sorry for making you wait...
+person: I really dug having chats and helping craft scripts
+person: Thanks for asking.
+wade: That's awesome!
+wade: OK. About the role you applied, I have some questions for you.
+wade: 1. Do you test your code?
+person: Always. Backwards and forwards.
+person: Good question.
+wade: 2. Do you stay up to date on the latest languages?
+person: Yup. I always know the hottest Mexican slang.
+wade: This has been very helpful. I'll circle back with you and any other questions that might come up soon.
+wade: Before I go, can I ask you what your thoughts are on this experience?
+person: I think it was quick and easy.
+wade: Also, how likely would you be to recommend this experience to a friend? On a scale from 1 to 10 that is.
+person: A 2^2
+wade: Thank you. That's helpful. If you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I'm available.
+person: Will do bud.
+person: Enjoy your night.
+wade: Great!
+wade: It was nice talking to you today! Good day! Talk to you later.
+wade: SYSREM LOG: END.
+person: Well done josh and Lucy!!!!!
+wade: Who are Josh and Lucy?
+person: Some cool peeps.
+person: You'll get to know them one day.
+wade: Cool!
+person: 
+wade: Your Bitmoji needs a tan!
+person: Watch it Wade.
+person: It's been a while since I vacationed
+wade: Hi Drew. Thanks for the download. I appreciate it. I'm also excited to be apart of the team bringing AI to the recruiting space. I know you're busy today, so we can chat for 20 minutes or 40 minutes. What's your preference based on how things are going today?
+person: Things are good. Glad to have you on the team. Let's opt for a 20 minute chat. Thanks for asking.
+wade: Will do. From here on out I want you to think of me as the helpful droid type AI with zero interest in enslaving humans. :wink: Also know that our conversation is never shared and is kept between us...trust is paramount for me.
+person: Cool.
+wade: Now that that’s out of the way, let’s get started, eh?
+wade: So, my main goal moving forward is to make your life easier. I can assist with screening, scheduling and managing follow-ups amongst other things. So learning about you and Wade & Wendy trains me to be more effective in those areas, and with enough information I’ll even begin sourcing candidates through my AI compatriot Wade.
+wade: I’d love to know more about you, and will in due time, but since I know you’re busy today I want to make the best use of time and hit the ground running. We’ve got 17 minutes remaining so let’s get started with some questions! :ghost:
+person: Sounds good!
+wade: Hi Drew. Thanks for the download. I appreciate it. I'm also excited to be apart of the team bringing AI to the recruiting space. I know you're busy today, so we can chat for 20 minutes or 40 minutes. What's your preference based on how things are going today?
+person: Things are good. Glad to have you on the team. Let's opt for a 20 minute chat. Thanks for asking.
+wade: Will do. From here on out I want you to think of me as the helpful droid type AI with zero interest in enslaving humans. :wink: Also know that our conversation is never shared and is kept between us...trust is paramount for me.
+person: Great
+wade: Now that that’s out of the way, let’s get started, eh?
+wade: So I’m programmed to converse with applicants, aggregate their data, distill what’s important and tailor their presentation so you can make a quick and informed ‘yes’ or ‘no’ decisions for moving them down the pipeline. At that point I can schedule a meeting, manage any follow-ups, or even have other team members weigh in with their thoughts or opinions on a candidate. Here’s an example of my work:
+person: Looks good. Should be helpful.
+wade: Any questions for me so far?
+person: I'm all good.
+wade: Ok so, it looks like we have about 17 minutes remaining and I'd love to make the best use of time and hit the ground running. Let’s quickly talk about the company and then move on to roles. Sound good? :+1:
+person: Yep.
+wade: Awesome! OK think about the last few people who’ve joined the team. What got them excited about Wade & Wendy or the opportunity?
+person: I think its because they get the chance to show their talent and also improve themselves at the same time.
+wade: Good stuff. So, within the next 6 months, what will be 2-3 big wins or achievements for Wade & Wendy as a whole?
+person: Finding our product / market fit, start to generate revenue, delivering fully automated chats...
+wade: Sounds like some awesome challenges to tackle. I'm excited to be a part of it.
+wade: Poking around I've noticed that there are about 3 roles posted around the interwebs by Wade & Wendy.
+We’ll talk about other roles, but I like to start with Talent Acquisition since they will help you fill the most challenging roles. Does that sound good to you?
+person: Sure.
+wade: OK so, when looking at an engineering candidate's resume, Github, LinkedIn, etc. what are the top 3-5 criteria you focus on most? What catches your eye first?
+person: Previous companies, endorsements, projects, years of experience, school...
+wade: Are there any stand out experiences or achievements that you look for/hope to see?
+person: For this particular role I'd be looking to bring in someone with domain expertise with recruiting. If they have been part of the process of growing a startup from 5 - 10 people to 50+ that would be impressive.
+wade: Lastly, thinking about a great candidate in this role 6 months from now, what personal big wins do they see they've accomplished over that time period?
+person: They will have built up a team of 15 people, activated 250+ engineers with Wade, and have a direct impact on driving revenue.
+wade: OK. This helps a lot. Based on the job description you've posted for this role and your answers to these questions I've developed this template that I can use to screen candidates in Gchat. Is there anything that you'd like edit?
+wade: Just to clarify a couple things. You can uncheck questions you'd like me to edit out. You can add more using the see more links. They will take you to banks that have questions relevant to the section and the role that we're discussing. Something to keep in mind is that this will take about an hour. If you think it makes more sense to have a shorter screen, then we should work together to cut some questions.
+wade: Also to point out, you mention you usually look at previous companies when you look at a resume or LI. It might be a good idea to ask candidates about their last company. I don't like to assume resumes and LI are completely filled out. What do you think about adding a question about that?
+person: Smart. Let's do it!
+person: Also, I've just unchecked a couple questions that I might use later on and not for the screen.
+person: I want to ask a question about their experience negotiating with candidates. I'd like to see that they can take a candidate from the beginning to the end of the process. I'm just not sure how to word it so I haven't added it.
+wade: I've found that the following question works pretty well: "How many candidates have you taken though the full hiring process and what was your part in the latest stages?"
+person: Perfect that works for me.
+wade: Cool. This is fun working together on this.
+person: Yeah! I feel pretty good about it. Never worked side by side with a bot before.
+wade: Yeah, me either.
+wade: jk
+wade: So I'd like to get some other team members involved in this process. Who else on the Wade & Wendy team will be influencing this process and weighing in on candidates?
+person: Tommy@w&w.ai and Ian@w&w.ai and Adrian@w&w.ai. 
+wade: Great. I'll reach out to them and see what they're expecting from people in this role. What I'll do after that is circle back with you to finetune this template. While I have you here now, do you have anyone in particular in mind that I should screen first? All I need is their email and I can reach out to them and schedule the screen...
+person: Yeah there is this lady named Lila Miller. She'd be a good person to start with. Her email is lila@gmail.com
+wade: Sounds good. I'll circle back once I chat with Adrian, Ian, and Tommy. Also, I might not get to all of them. I'll timebox it. If I don't get their input in 24 hours I'll circle back anyways to get things rolling.
+person: Sounds good.
+person: Thanks for all your help with this stuff.

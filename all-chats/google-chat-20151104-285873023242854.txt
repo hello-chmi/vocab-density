@@ -1,0 +1,107 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade
+wade: Hi David
+wade: How are you?
+person: I'm good, thanks for the invite
+wade: Thank you! 
+wade: Appreciate you taking the time to chat.
+person: No problem at all
+wade: And, appreciate you being adventurous to speak in this medium. To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: Very interesting approach...glad to be apart of the first batch of candidates talking through this medium
+wade: So, I'd love to learn more about you. To start, want to fill me in your most recent experience? And, what you're up to these days?
+person: Sure thing wade
+person: Currently, I work with NBTY as a talent acquisition sourcer.
+wade: Interesting. 
+person: We are a leading company in the vitamin and nutritional supplement industry
+person: Currently, I support brand, marketing, wholesale departments and have been recently added on to support business transformation, strategic initiatives and pmo office depts as well.
+wade: So how did you find yourself in the talent acquisition space?
+person: I found that I had an interest in hearing an individual story and with that, I enjoy matching ther career endeavors with the needs of the company.
+person: Individual's*
+wade: I see. That's great! 
+wade: Before we move on, know that all of our chats are kept confidential and secure. And, don't worry about grammatical errors, you'll have full control of what we share with any hiring managers.  :blush: 
+person: Thank you
+wade: I see you were a recruiter at Axelon prior to working at NBTY. 
+wade: Do you have experience in recruiting both technical and non-technical roles?
+person: Yes, I started with Axelon shortly after graduating from college and was exposed to a wide variety of positions, both technical and non techucal, from various industries,
+wade: So looking ahead, is talent acquisition a path you would like to continue to pursue? If so, what do you like about it?
+person: Yes and again, my interest derives from learning about an individual's story and potentially helping them find a position that is mutually beneficial for the company and the individual
+wade: Sounds like you have a lot of intrinsic motivation about this career path. Is that fair to say?
+person: I would say so. It started as just a job, but as I got better at it, naturally, I liked it more and more.
+wade: That's fantastic. It's so rewarding to do work you truly enjoy. 
+wade: Would love to shift gears a bit and learn about some functional skills. 
+person: Sure thing
+wade: When filling a role can you tell me a little about the process you go through when sourcing and screening candidates?
+person: Depending on the requirements of the job, my sourcing and screening techniques vary a bit. But typically, i source candidates through a medium like linkedin and reach out to coordinate a time to talk if there is interest
+person: But preliminary call is usually exploratory and not only details the opportunity in questuon, but also the candidate's skill set, interests and endeavors.
+person: Quite a few grammatical errors in that last message, I do apologize.
+wade: Errors? Don't worry about errors.  :blush: 
+wade: Are there aspects of the role you find challenging? What could make your job better?
+person: Sure
+person: Getting manager's to adopt recruitment process in such a large organization has been a challenge
+person: As well as instilling a sense of urgency with the hiring managers
+wade: Yes, sounds challenging. 
+wade: Have you recruited many engineers?
+person: I've worked on a fair amount of engineer, developers and quality assurance positions while with axelon
+wade: That's great. How did you find the experience of recruiting them? 
+person: It was definitely a challenge
+person: Good ones are in high demand, so selling them the opportunity was key
+wade: Yes, that certainly seems to be the case. 
+wade: When evaluating applicants for an internal role, can you tell me a little about the process / methodology you use to assess them? 
+person: From a cultural standpoint - Conversing what core values a candidate has and if it correlates with the values of the company.
+person: Assessing if a candidate expresses excitement about our company or products.
+wade: That makes sense. 
+wade: Have you by chance developed a rubric to assess applicants?
+person: I have not, I take detailed notes for conversations with each candidate and save it for future reference.
+wade: I see. Makes sense. 
+wade: So I'd love to switch gears again and talk about what excites you. 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: I recently just wrapped up a project for the new chief marketing officer
+person: The project was essentially revitializing the marketing department to focus more on econmerce and digital analysis, as opposed to our previous print label methods
+wade: Sounds exciting! 
+person: It was definitely exciting to contribute to such a large initiative with company wide impact
+person: Building a new team, essentially from scratch was a challenge..but ultimately rewarding
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I'd like to be able to help contribute to a growing company.
+person: Gain exposure to new and trending technologies
+wade: Growing company? Would that be a startup?
+person: Absolutely
+wade: What motivates you to work at a startup?
+person: The prospect of help building a company that could potentially change industry standards and consumer perception.
+wade: Change industry standards. That sounds ambitious. 
+person: Yes, but I think that is the aim of most start ups
+wade: btw, do you mind if I ask how this chat is going?
+person: Much better than my previous encounters with artificial intelligence.
+wade: Interesting. 
+wade: You have experience with Artificial Intelligence?
+person: Do automated answering systems for credit card of phone companies count?
+person: Or*
+wade: I do not know the answer to that. Would you like me to grab a human counterpart?
+person: No, it's okay
+wade: ok, great. 
+wade: So would you like to learn a little more about Wade & Wendy?
+person: Yes I would
+wade: Great
+wade: So in terms of the company ... 
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  :blush: 
+person: How is wade and Wendy implemented into a company's recruitment system?
+wade: All interface is via chat and we work with some ATS systems.
+person: Got it
+wade: Would love to get your feedback. 
+wade: Having worked in recruiting you have great domain experience to leverage.
+person: I think it's an interesting concept and AI is definitely the wave of the future. My concern may be selling the benfits of this resource to prospective companies.
+wade: I see. Do you mind if I share this feedback with my human team?
+person: And how it would streamline the rexehutment process or reduce bottlenecking
+person: Sure, I don't mind at all
+wade: Great. 
+wade: Would you be interested in speaking with one of my human counterparts about the role?
+person: Sure, would we be able to schedule for a later date?
+wade: Also, we are working with several companies as part of our beta. Alternatively, I'd be happy to work with Wendy to find the role for you. 
+wade: Ok, I will schedule time with you and Ian, our Community Success Manager. 
+wade: Thank you for your time, David. 
+person: Great
+person: Thank you
+person: To you and the developers behind you

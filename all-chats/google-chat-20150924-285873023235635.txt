@@ -1,0 +1,66 @@
+person: hi
+wade: HI
+wade: How are you? (choose one: ok/ good/ fantastic!)
+wade: hi 
+wade: how are you? (choose one: good/ok)
+person: good
+wade: In thinking about your next opportunity, would you like to continue to work as a product manager or are you also open to explore other opportunities? 1. I strictly want to stay as a product manager 2. I am inclined to stay as a product manager, but am open to other opportunities 3. I am inclined to change career paths and get out of product management (choose one: 1/2/3)
+wade: For you next role, is most accurate? 1. I strictly want to stay as a product manager 2. I am inclined to stay as a product manager, but am open to other opportunities 3. I am inclined to change career paths and get out of product management. Can you please choose one? (choose one: 1/2/3) 
+wade: For you next role, is most accurate? 1. I strictly want to stay as a product manager 2. I am inclined to stay as a product manager, but am open to other opportunities 3. I am inclined to change career paths and get out of product management. Can you please choose one? (Choose one: 1/ 2/ 3) 
+wade: Please choose one? (choose one: 1 / 2 / 3) 
+wade: Please choose one? (choose one: 1/2/3) 
+person:  3)
+person: 2
+wade: For you next role, is most accurate: 1. I strictly want to stay as a product manager 2. I am inclined to stay as a product manager, but am open to other opportunities 3. I am inclined to change career paths and get out of product management. Can you please choose one? (Choose one: 1/ 2/ 3) 
+wade: In thinking about your next role, which is most accurate: 1) I strictly want to stay as a product manager 2)  I am inclined to stay as a product manager, but am open to other opportunities 3) I am inclined to change career paths and get out of product management. Can you please choose one? (Choose one: 1/ 2/ 3) 
+wade: In thinking about your next role, which is most accurate: 1) I strictly want to stay as a product manager 2)  I am inclined to stay as a product manager, but am open to other opportunities 3) I am inclined to change career paths and get out of product management. Can you please choose one. (Choose one: 1/ 2/ 3) 
+person:  2
+person:  2
+wade: In thinking about your next role, which is most accurate: 1) I strictly want to stay as a product manager 2)  I am inclined to stay as a product manager, but am open to other opportunities 3) I am inclined to change career paths and get out of product management. Can you please choose one? (Choose one: 1/ 2/ 3) 
+person:  2
+wade: In thinking about your next role, which is most accurate: 1) I strictly want to stay as a product manager 2)  I am inclined to stay as a product manager, but am open to other opportunities 3) I am inclined to change career paths and get out of product management. Please choose one. (Choose one: 1/ 2/ 3) 
+wade: Hey Ian, how awesome are you? (choose one: friggin badass, gangsta, jedi) 
+person: friggin badass, gangsta, jedi)
+wade: Hey Ian, how awesome are you? (choose one: friggin badass/ gangsta/ jedi) 
+person:  jedi)
+wade: what's your favorite anything? (choose one: bitches/ cognac/ tacos/) 
+person:  tacos
+wade: Hey man, don't mean to be awkward or anything ... 
+wade: but what makes Zoe so sweet? (choose one: she eats lots of cupcakes/ she eats sunshine every/ she's friends with butterflies) 
+person:  she eats sunshine every
+wade: n thinking about your next role, which is most accurate: 1) I strictly want to stay as a product manager 2)  I am inclined to stay as a product manager, but am open to other opportunities 3) I am inclined to change career paths and get out of product management. Please choose one. (Choose one: 1/ 2/ 3) 
+person: In thinking about your next role, which is most accurate: 1) I strictly want to stay as a product manager 2)  I am inclined to stay as a product manager, but am open to other opportunities 3) I am inclined to change career paths and get out of product management. Can you select one? (Choose one: 1/2/3) 
+person: 2
+wade: 
+Got it. Are you looking for a new opportunity? (choose one: 1) Yes, Actively interviewing for a new role.
+2) Yes, but passively exploring roles.
+3) No, happily employed at the current time.)
+wade: 
+Got it. Are you looking for a new opportunity? (choose one: 1. Yes, Actively interviewing for a new role.
+2) Yes, but passively exploring roles.
+3) No, happily employed at the current time.)
+wade: Which skills did you apply that made you stand out on this project? Can be technical or soft. 
+wade: Got it. Are you actively looking for a new opportunity?
+(Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+wade: Got it. Are you actively looking for a new opportunity? (choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+wade: Got it. Are you actively looking for a new opportunity? (choose one: Yes I am actively looking/Interested if something awesome comes up/ No not looking)
+wade: Hi Ian
+wade: Did you watch The Walking Dead tonight? (Yes/No) 
+wade: Did you watch The Walking Dead tonight? (Yes/No) 
+wade: Hello 
+person: Hi Wade
+wade: Did you just eat a breakfast burrito? (Yes/ No) 
+wade: Did you just eat a burrito? (Choose one: Yes/No)
+wade: Which best describes your skill level with understanding code? (choose one: Can write and commit code/Can write code, but cannot commit it/Can read code, but can't write it/don’t read code)
+wade: Ok, Ian. I am going to ask one last time. Did you eat a burrito today? (Choose one: Yes/No) 
+wade: Ok, Ian. I am going to ask one last time. Did you eat a burrito today? (Choose one: Yes/No) 
+wade: Ok, Ian. I am going to ask one last time. Did you eat a burrito today? (Choose one: Yes/No) 
+person: Yes
+wade: sup ian!
+person: Yo Yo 
+wade: this is working great!
+wade: I am Wade.
+person: Yes, yes you are
+wade: Hi Ian, how are you?
+wade: Hi Ian, how are you?
+wade: asdf

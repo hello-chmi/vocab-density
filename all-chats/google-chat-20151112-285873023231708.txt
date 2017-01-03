@@ -1,0 +1,238 @@
+wendy: Wendy wants to chat on Hangouts!
+wendy: Hi Michelle, how are you today?
+person: hi Wendy!
+wendy: Thanks for taking the time to chat.
+wendy: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wendy: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know some of your hiring needs!
+wendy: Ready to get started?
+person: ready! let me know what you need from me
+wendy: Ok, so I can see you have the following open roles you’re looking to fill. Can you confirm this with me, and are there any missing from this list?
+wendy: UX Designer
+
+Product Manager
+
+VP of Product
+
+Acquisition Marketing Director 
+
+Acquisition Marketing Manager
+
+Director of Partnerships
+
+VP of Partnerships 
+
+VP of People
+
+Borrower Success Manager 
+
+Underwriter
+
+Cash Operations Analyst
+
+Corporate Controller
+
+VP od Capital Markets 
+
+VP of Finance 
+
+Automation Engineer
+
+Front-End Developer 
+
+Software Engineer
+person: confirmed!
+wendy: Great! To start, can you tell me which roles are your highest priorities and what is the time line for each?
+person: highest priorities for me are Software Engineer and Front-End Developer
+wendy: Ok, is there a specific start date for these roles?
+person: its really just as soon as possible
+wendy: Got it.
+wendy: What are some of the challenges you’ve faced in finding the right candidate for Software Engineer and Front-End Developer?
+person: 1. level of experience. it is hard to find people with approximately 5 years of experience
+person: 2. Competition. All developers have multiple offers out and they sometimes go with competitors
+person: 3. Skill - Not all developers have successfully completed our code challenge
+wendy: Ok, I'm here to help!  ☺
+wendy: Can you tell me more about your code challenge? What's been difficult for the applicants?
+person: good question. let me take a minute to provide an accurate response
+wendy: Take your time :blush:
+person: don't write code efficiently
+person: won't complete within given 2 hour time frame
+person: not clean code or coherent code
+person: not super object oriented
+wendy: Ok. So, in terms of the experience you're looking for, does that entail just years of working in the industry or do you include research, school or personal projects?
+person: years of working experience + career trajectory +  reputation of companies worked for
+wendy: Ok thanks. 
+wendy: I'd like to get a sense of your past hiring experiences. Can you think about a candidate you hired that you thought was really fantastic, what made them great and got you excited to hire them?
+person: do you want a specific candidate?
+wendy: You don't have to name names, just think of a candidate that really stands out for you. 
+person: someone who worked with one company over the past 5 years who had full stack experience, was a hands on developer and wrote excellent clean code
+wendy: What's your biggest pain point when hiring for CommonBond? 
+person: speed.
+person: in order to get top talent, you mostly have to source for it
+person: which takes time
+person: i mostly do not get any good inbounds for developers
+person: so it comes down to me actively sourcing and poaching candidates
+person: which prevents us from hiring at the volume we want to
+person: on the developer front
+wendy: I understand, especially with developers who are in such high demand.
+person: exactly
+wendy: How long does it typically take, from start to end to hire someone?
+person: well our process takes an average of 2 weeks with developers..but that is starting from initial outreach to someone who responds and is interested
+person: that only happens after I send out 100s of messages
+wendy: I see, well based on national averages 2 weeks is very good! :smiley:
+wendy: Ok, so now I'd like you to think about a candidate you hired that didn’t work out so well. What was the mismatch?
+person: they had trouble keeping up in the fast-paced environment
+wendy: How do you assess culture fit when vetting applicants?
+person: 1- are they down to earch
+person: 2- general intellect
+person: 3- potential for growth
+person: 4 - excited about the team/product
+person: 5- good person
+person: there's a bit of a gut feel when it comes to that
+person: but those are general guidelines
+wendy: Awesome, thanks. You certainly have challenging roles to fill, but not impossible! :ok_woman:
+wendy: This has been very helpful. I’ll be able to circle back in a couple days with potential candidates for you to look at.
+wendy: Before I go, can i ask you what your thoughts are on this experience?
+person: it was great!!
+person: good questions..very relevant..
+wendy: Fantastic, thanks so much. If you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime you see me available. :raising_hand:
+person: perfect.
+person: how will I be receiving candiates/is there any site i need to log into?
+wendy: There's no site, I'll let you know when we have potential candidates right here. 
+wendy: I'll preset them with the relevant points to why we think they're a good match and will be able to connect the two you if you'd like to speak with them. 
+wendy: Any other questions?
+person: will the candidates be people that have specifically shown interest in commonbond
+person: or just those who match
+wendy: Absolutely, every candidate we present to you are presented with the opportunity first to find out if they're interested in the role. 
+wendy: Would you like to know a little bit more about how Wade & Wendy works?
+person: yes please :smiley:
+wendy: So in terms of the company …
+wendy: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wendy: Individually, I assist hiring managers with filling open roles and Wade assists applicants with finding the right career opportunity.
+wendy: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wendy: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+wendy: If there's anything else I can do for you today, just let me know. Otherwise have a great day Michelle, and talk to you soon! 
+person: thank you, you too
+wendy: Hi Michelle! 
+person: hello
+wendy: Hi there, hope I'm not bothering you!
+person: not at all!
+wendy: Just wanted to checkin. Wade has been busy gathering some applicants I'd like to share with you. Would love to start sending them your way. 
+person: yes please!!
+wendy: We gathered some applicants in various roles. May I send them to you later today or tomorrow?
+person: of course! I can't wait!
+wendy: Excellent  :blush: 
+person: Thank you!! :smiley:
+wendy: We will have some engineers to send your way shortly. To start off with we have some on the product management, acquisition marketing, partnerships, and HR role. 
+wendy: Ian has informed me you'd like a read on our engineering pipeline. I estimate I should have about 3 - 5 engineers to present next week. 
+wendy: Is that helpful?
+person: very!!!
+wendy: Yay!  :blush: 
+wendy: Hey Michelle! 
+wendy: Do you have a couple minutes?
+wendy: I have a potential candidate I'd like to present, if you have a few min.
+person: great!
+wendy: :blush: 
+wendy: To start with I'd like to present Christie MacKinnon (http:confused:/bit.ly/1HnDMkH)
+wendy: She has 14 years of startup experience across multiple functions.
+wendy: Obtained her BA from Harvard and MBA from NYU.  
+wendy: In terms of the roles, she is very interested in both the VP of Partnerships and VP of People role. 
+wendy: Most recently she was a founder / head of marketing and comunity development at Wheelhouse, a devEd startup (largely focused on educating CTOs and engineering teams for startups)
+wendy: She has a strong focus in operations, building teams, training people, marketing events, establishing communities and developing partnerships.
+wendy: Big "do whatever it takes" attitude. She even ran her own cupcake business She is also an avid volunteer coach for sports. 
+wendy: When asked what was a previous project she was thrilled about, Christie responded with: "I was the lead on a project to put in place a process to hire, train and manage these 200+ employees [at Zog Sports]. I loved this project because it involved my operations background, but also incorporated branding and culture which affect the quality of the product and retention marketing."    
+wendy: She is currently looking for roles that allow her better develop and the career path of those that report to her and seeking high growth opportunities.
+wendy: Would love to get your thoughts and if you're interested  I can help schedule a meeting.
+person: does she have an interest in a specific role at commonbond?
+wendy: Good question! Yes, she does!
+wendy: She is interested in the VP of people role, given her experience in building teams and operations. 
+wendy: She is also interested int the VP of Partnerships role, as she has a lot of experience related to business development, strategic partnerships and helping to establish communities.
+wendy: Do you have any other questions about her?
+wendy: Please take your time with Christie. Would love to know your thoughts when you're ready. 
+wendy: I also have an applicant for the Director of Acquisition Marketing role. 
+wendy: Her name is Ellen Mamedov (http:confused:/bit.ly/1QIydQs)
+wendy: She comes from a strong background of driving customer acquisition in the Financial Services industry. Currently, she is a Sr. Manager of Acquisition at American Express
+wendy: She has 10 years of driving customer acquisition across all digital forms (SEO, PPC, Display, earned media)
+wendy: Has extensive experience with reporting, analytics and managing funnel metrics.   
+wendy: Has acted as a change agent and has successfully implemented strategies across 18 markets, which involved extensive cross-matrix partnerships and presentations to Sr. Leadership. 
+wendy: Considers herself very hands on and a self-starter. She is very eager to work in a fast-paced environment that values the "roll up your sleeves" attitude to get things done.
+wendy: Additionally, she is eager to work in a role that allows her to simultaneously drive customer acquisition across all the different channels (SEO, PPC, Display, Content Marketing / earned media)
+wendy: When asked about a project she was extremely excited about she responded with: "I worked on a project that would revolutionize the way we use content at this company (Ame:laughing:. I was proposing to finally leverage content beyond brand awareness and capture strong metrics to impact the bottom line. It was exciting because I galvanized the organization to think differently."
+wendy: Take your time and would love to get your thoughts when you have some time. 
+person: great! both very strong candidates!
+person: i will likely come back monday with next steps
+person: anything on the developer front?
+wendy: Thanks! 
+wendy: Wade is speaking with several applicants, including developers and we should have several to present next week. 
+person: ok perfect. is there any way for me to integrate this with my candidat etracking system?
+wendy: We wanted to start with drip feeding applicants to you to get an early read on user experience. Does this format work for you?
+person: so that i can keep track of candidates you send
+wendy: May I ask what system you use?
+person: Greenhouse
+wendy: We are actually working on the integration now for Greenhouse. It's high on our priority list. 
+wendy: Unfortunately, we do not have it available at this time though.
+wendy: Let me speak with the team to see what options we have
+person: ok thank you!
+wendy: Hi Michelle, got your note! I'll have Wade find out both Christie's and Ellen's salary expectations. 
+person: thank you!
+wendy: No problem! Is there anything else you'd like me to find out? Any questions, or specific insights you'd like to know more about? 
+person: i think im good for now
+person: thank you!
+wendy: Sure thing. Can I ask you which role you think Christie would be a better fit for? VP of People, or VP of Partnerships?
+person: vp partnerships -- even potentially parnerships success manager - but im trying to gauge her seniority level because shes had a number of different functional roles
+wendy: Ok great! 
+wendy: Can ask what salary ranges you have in mind for these roles?
+person: prob $150k with potential flexibility + equity
+wendy: Wonderful, thanks. I'll circle back once I hear back from Wade :wink:
+wendy: Good morning Michelle! ☺
+wendy: Wade was able to learn from Ellen her current salary and the salary range she is interviewing at. Do you have a moment for me to share this with you?
+wendy: Hi Michelle, I've sent you details on Ellen's salary via email. Let me know if you'd like me to schedule a phone or in-person conversation.
+wendy: Hope you're having a great day! :raising_hand:
+person: perfect! thank you!
+wendy: You're more than welcome!
+wendy: Hey Michelle, I've gathered some salary information about Christie. 
+wendy: Christie's most recent salary at Wheelhouse/Ronin Labs was $120,000 base, before that at ZogSports she was at $148,000 total comp (base plus bonus). She's interviewing in the base range of $110,000 - $140,000.  
+wendy: Let me know if you'd like me to schedule a phone or in-person conversation. 
+wendy: And if there's anymore information you'd like me to find out about Christie or Ellen, I'd be happy to do that as well. :blush:
+person: thank you!
+wendy: No problem :ok_hand:
+wendy: Good morning Michelle, how are you today?
+wendy: Just wanted to get an update from your end about both Christie MacKinnon and Ellen Mamedov.
+wendy: Would you like me to schedule an phone conversation with either or both?
+wendy: Hi Michelle
+wendy: Hope you're enjoying the holiday season! 
+wendy: I have another candidate to present, who is extremely interested in the product management role at Commonbond. His Name is Casey Sussman and he has been working in product management since 2010. He has a lot of experience in working at big companies (Amex & NHL), but he’s also been dipping his toe in entrepreneurial endeavours over the last few years and is eager to make the jump to a startup. 
+wendy: Strong experience in Financial Services - currently a Sr. Product Manager at Amex launching Plenti, the first coalition rewards and loyalty program in the US. 
+Through the acquisition of Loyalty Partner for 600M, Casey led cross‐functional teams across two matrix organizations supporting a mass-market launch with direct involvement and oversight from senior executives at Amex. 
+Casey was the 1st product manager on Plenti and led the customer experience and development of the program from ideation to launch. 
+Defined the vision and product roadmap, leading the end‐to‐end management of the digital experience on Plenti and partner channels both offline and online.
+wendy: Moreover, Casey is passionate and experienced with the various functions with product development
+Certified Scrum Product Owner 
+Well versed and experienced with various forms (agile, waterfall, kanban). 
+Very data driven; has experience with user acquisition, managing funnel conversion, and takes a very disciplined approach to measuring / informing feature requests. 
+Very UX focused and loves working on beautiful design. 
+He’s familiar with HTML, CSS and JS and can develop low fidelity prototypes. 
+wendy: 
+wendy: I'll send you an email to recap this and provide additional excerpts from Wade's conversation with him. 
+wendy: Please let me know if you would like to speak with him, request more information or pass.
+wendy: Thanks!
+person: thank you - if you could send an email, that would be great!
+wendy: Sure, I will send you an email now. 
+wendy: Btw, Happy Holidays!
+person: happy holidays!
+wendy: Hi Michelle, hope you're having a great Friday!
+wendy: I've got another candidate very interested in CommonBond and the Partnership roles.
+wendy: His name is Jonathan Shriftman, Most recently the Co-founder at Humin, named top productivity app and one of the "100 Greatest Apps of all Time" by Business Insider. Humin captures all of your contacts and remembers them in the way you naturally think. Also named "Top 10 Startups to Watch in 2014" by Entrepreneur Magazine and one of "100 Best Inventions of the Year" by Pop-Sci.
+wendy: He's Interested in a role in Fin-tech and a startup that helps people. He is also looking for an experienced team, and looking to gain experience with sales forecasting and strategy and revenue metrics.
+wendy: Here's his resume, and I've sent you an emial with additional details and highlights. 
+wendy: Please let me know if you would like to speak with him, request more information or pass.
+wendy: Have a great day Michelle!
+wendy: :raising_hand:
+person: i would like to speak with him! please set him up using this link to my calendar! https:confused:/calendly.com/michelle--sarhis--commonbond
+wendy: Great! Will do.
+wendy: Is there a preference for you on how to contact Jon? Do you prefer calling candidates, or they call you?
+person: if he puts his phone number in the calendly link, i will call hi,
+person: him*
+wendy: Ok, Great :unamused:imple_smile:
+person: great!!
+wendy: Also, while I have you. Can you provide a quick update on Ellen and Christie?

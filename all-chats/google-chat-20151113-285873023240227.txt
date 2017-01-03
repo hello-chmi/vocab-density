@@ -1,0 +1,73 @@
+wade: Hi Nan, how are you this morning? 
+person: Pretty good. How are you?
+wade: Very good thanks. And thanks for taking the time to chat.
+person: my pleasure
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: sounds great
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: I am currently working full-time in Blommberg as software engineer
+wade: Interesting, how long have you been working there? What got you into software development?
+person: I just started about a month.
+person: my major at school was Computer Science
+person: I enjoy coding and building stuff
+person: software engineer is fit for me
+wade: What sort of stuff do you like building?
+person: I definitely strive for writing high-quality code. Come to product level
+person: Built something with user experience is always the goal
+person: I know it's hard to define. Depending what kind of project it is.
+person: for instance
+person: when it comes to mobile development, user experience consist of a log things, fast load, clean UI, easy to understand for user
+person: save bandwith is also important
+wade: Would you consider yourself a Full-Stack Developer?
+person: yes, I think I listed that in my self-description.
+person: I a full-stack dev with more backend experience.
+person: also got extensive experience with Javascript development
+wade: Great! Before we move on, know that all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager.  ☺ 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: The mobile app I built recently. Weelio
+person: I enjoyed it because I built it from ground and felt a great ownership from it.
+person: It's exciting to see your userbase is aggregating
+wade: Can you tell me more about what Weelio does?
+person: Weelio is an collaborative ride sharing platform. Ride created by user can joined by other user who are close by
+wade: Ok, would love to shift gears and learn about some functional skills.
+wade: Do you test your code?
+person: for sure unit test all the time
+person: sometimes performance test and integration test
+wade: Have you contributed to any open source projects?
+person: I am currently working on sending patches to python source code
+person: python here refers to cpython ^_^
+wade: Got it. 
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: It's definitely exciting if the work touches any engineering sectors that kind of new but interesting to me
+person: Definitely great team working environment.
+person: get to know more people and learn from them
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?
+person: Wade and Wendy sounds like pretty good. Bring AI to recruiting. something I never thought of before
+wade: Thanks. Would you like to know a little bit about Wade & Wendy?
+person: absolutely
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+person: ok
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have engaging conversations to gain insights with both applicants and hiring managers. Just like this.  ☺ 
+wade: BTW can i ask you what your thoughts are on this experience?
+person: interesting. could you share with me the most challenging part coming to the engineering?
+wade: A lot of the engineering challenges have to do with parsing conversations like ours for relevant data points. 
+person: for sure
+wade: We're looking for a Full-Stack Developer that can work there way around a graphing database on the backend while developing dashboards for our human team on the front end. 
+person: I am curious about the purpose of the parsing. Get the conversation moving is straightforward. Does it also function to evaluation the qualification of candidates?
+person: Cool. I feel that's what I been doing.
+person: buiding dashboard.
+person: Just want you know that When I work at Groupon. Part of my job is building merchandising dashboard for merchandisers in the company
+wade: We parse the conversations for the most relevant data points for the open roles in our database, things hiring managers don't often get to know until they interview applicants. That way we can present a candidate to them in the most relevant way based on the conversations Wendy has with them. 
+person: Aha I see.
+person: Great. It's nice to talk to you. But I think I need to go offline temporarily.
+wade: Ok, this is very helpful. I’ll circle back in a couple days with potential opportunities for you to look at.
+wade: Before I go, can i ask you what your thoughts are on this experience?
+person: Definitely enjoy the conversation. excellent experience with a few little things to improve
+person: ok. talk to you later
+wade: Thanks Nan, have a great day!
+person: you too

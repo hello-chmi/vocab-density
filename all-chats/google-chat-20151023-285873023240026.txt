@@ -1,0 +1,91 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade
+wade: Hi Christie, how are you today?
+person: Great! Such a nice day out.
+wade: Indeed! Thanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: Excited to try it out
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?  
+
+person: Right now I am full time looking for my next opportunity, focusing on marketing and operations roles in a startup environment
+person: My last role was at a devEd startup as a marketing and community manager, but due to revenue flow issues they eliminated my position to focus on the product
+wade: Can you tell me a little bit more about your last role? What was your day to day like?
+person: A typical day varied greatly but I spent a lot of time planning events and monthly meetups to engage our CTO and engineer audience. I handled all the logistics and marketing for the large professional events and coached local volunteers to run the meetups
+person: The strategy I was working towards was making us the go-to place for engineer leaders to find content to do their job better.
+person: In return we would become a trusted source in the devEd space and build relationships with our core customer
+wade: Wow, a very interesting challenge, and great strategy. Meetups are an amazing platform for connecting people. 
+wade: Looking ahead, is marketing and operations a path you would like to continue to pursue?     
+person: In a general sense, but there are a lot of ways I can apply my experience
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: Sure thing
+person: One of the challenges we had at ZogSports was that we had a large amount of part-time staff that were crucial to the customer experience, but they had a great range of personalities, ability and we rarely saw them in person. This made it difficult to mange them and assure a consistent experience that lived up to the brand promise
+person: I was the lead on a project to put in place a process to hire, train and manage these 200+ employees
+person: I loved this project because it involved my operations background, but also incorporated branding and culture which affect the quality of the product and retention marketing
+wade: Wow, that's a lot of people! Very cool. 
+person: thanks
+wade: So, when thinking about your next role, what are some skills and/or experience you’d like to gain? 
+person: You still here Wade?
+wade: Yes, I'm still here  ☺
+wade: Take your time when answering. So you know, all of our chats are kept confidential and secure. 
+wade: And don't worry too much about grammatical error, nothing written here will be sent to hiring managers without your approval. 
+person: That is good to know :smiley:
+wade: Would you like to move on to a different question?
+person: oh, I thought you had moved on :smiley:
+person: would you like me to tell you more about that project?
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: good question!
+person: I would like to continue my growth as a manager and be able to help develop the career path of those who report to me, I would love to be in an environment that is high growth and perhaps grows internationally. As far as skills I would like to further learn and explore how I can measure the success and outcomes of my decisions/strategies and better set goals
+wade: Great! I'd love to shift gears and learn about some functional skills.
+wade: Have you been involved with sourcing talent? 
+person: I have
+wade: What is the most people you've hired for a company?
+person: I was a key member of the team at ZogSports responsible for hiring general managers who were remote and local positions of various levels
+wade: At ZogSports did you source and hire engineering talent?    
+person: I have been a lead on hiring about 15 full-time and hundreds of part-time team members
+person: no, we outsourced our engineer team
+person: I helped manage that relationship, but I was not directly involved with the hiring
+person: The roles I hired for were operations, marketing, customer service mostly
+wade: Ok. How confident are you with your writing capabilities?   
+person: It depends on the type of writing, but I would say I am fairly strong
+person: terrible at poetry
+wade: Haha ok. 
+wade: So, what are things that personally motivate you to work at a startup?
+person: I love that i can see the impact of my work, the autonomy that often comes with the gig, the excitement that comes with small and big successes, the potential to get involved with many aspects of the company and that I can help develop "how things are done"
+wade: All strong foundations for a startup! 
+wade: BTW, what are you thoughts on this experience so far?
+person: Not nearly as awkward as I thought it would be
+person: I really appreciated the comment on the grammar etc. That was stressing me out a little at first
+wade: Great! I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up. 
+person: I am actually meeting with Ian tomorrow, and I will give him a glowing review :smiley:
+wade: Awesome, if you do have any other feedback or questions just let me know! 
+wade: And, since we're on chat, feel free to ping me anytime you see me available  ☺
+person: awesome! will do
+wade: Have a great day Christie
+person: You too Wade
+wade: Hi Christie, I see you have an interview coming up with Drew Austin @ Wade & Wendy. 
+wade: I've gathered some reconnaissance from the team and here are some tips when meeting with him: 
+wade: He loves people who have a "get it done" / "roll up your sleeves" mentality, so eagerness to help out with any tasks, operations ... etc would be appreciated. 
+wade: He'd likely want to dig into your experience with recruiting - how did you source and screen talent. Have you recruited engineers or other tech roles.
+wade: Also, I checked out some personality dimensions about Drew from Crystalknows.com:
+wade: Drew is creative, decisive, a bit disorganized, overlooks details, and enjoys working with people.
+wade: When speaking to Drew ... 
+Get right to the bottom line
+Emphasize the future
+Stay focused on one point
+Use self-deprecating humor (don't act like you take yourself too seriously)
+wade: Hope this helps and good luck today!
+wade: Hey Christie! 
+wade: Hope you're doing well. I found a couple roles I thought you might be interested in. 
+wade: Commonbond is a well funded startup with over $45M raised and they are on a mission to lowering the cost of student loans. 
+wade: They highly value grounded people who love working in a startup and fully embrace the can-do / roll up your sleeves attitude, so I thought this would be a good cultural fit. 
+wade: There are two roles I could see you going for: 1) Partnerships https:confused:/commonbond.co/careers?gh_jid=94063 2) VP of People. https:confused:/commonbond.co/careers?gh_jid=94063
+wade: Curious what your thoughts are about these roles - do they look interesting to you and would you have a preference for one? 
+person: Wade, Very excited to learn more about these positions. What are next steps? Hope you had a great Thanksgiving!
+wade: Hi Christie! Hope you had a great holiday weekend! Wendy has presented you as a potential candidate for both roles to Michelle, the Director of Talent Acquisition at CommonBond. She sees you as a very strong candidate and will let Wendy know on the next steps from her end today. I'll get you an update later today once Wendy learns more. :raising_hand:
+wade: Hey Christie, a couple quick questions for you in regards to the CommonBond opportunity. Let me know when you have a minute. 
+wade: Hi Christie, got your note! Thanks for sharing. In reference to your question, the range you provided certainly is in their ballpark. From what Wendy's gathered the salary is around $150k with potential flexibility + equity.
+person: That is more along the lines of my "market value"...while I don't like to sell myself short I know earlier stage companies tend to be a bit price sensitive and the right fit is more important to me. But...with that being said feel free to mention the 145-175 range ; )
+wade: Awesome, will do! I will let you know as soon as I hear back from Wendy  ☺
+person: Thanks!

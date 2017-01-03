@@ -1,0 +1,114 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi!
+wade: Hey Desi!
+wade: nice to meet you! 
+person: Nice to meet you, too!
+wade: Thanks for taking the time to chat. 
+person: Of course - it's a pleasure.
+wade: And, appreciate you being adventurous to speak in this medium. 
+wade: To be honest it's a little new for us ... 
+wade: The goal is to start understand user experience, train our future AI's and of course get to know you! 
+person: It seems to be working smoothly!  ☺
+wade: Awesome!
+wade: Done. 
+wade: Ok, guess we an end. 
+person: Haha!!
+wade: :blush: 
+wade: So I'd love to learn more about you
+wade: To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: YES! I currently work part time for a company called untapt - a fintech company connecting software developers to hiring companies without the middleman. I do content work for them - writing and editing on their website and back offices for users. I'm also their media director - in charge of the creation of company videos for job-seeking candidates.
+wade: Very interesting.
+wade: So how did you end up there?
+person: In addition to that, I take on other freelance writing/editing projects: editing screenplays, short stories, essays, etc.
+person: They actually found me through AngelList!
+wade: Very multi-faceted I see
+wade: so what kind of content are you developing for them? 
+person: Well, it's mostly content that is seen only by candidates looking for jobs and companies looking for candidates. For example, I create "company pages" - overviews of companies for candidates that give them the inside scoop on that company. 
+wade: Interesting. So what do you base that information on? 
+person: Research - which is something else my job entails.
+person: I also conduct short interviews with hiring managers of each company, which helps a lot.
+wade: Got it. So are your descriptions about candidates personalized to each company?
+person: Correct.
+wade: cool 
+wade: so where were you before this?
+person: I worked as a tutor for many years, specializing in SAT verbal, English as a second language, writing, etc. I also began my own business called, "Speak The Speech," in which I'd work mostly with people at start up companies and work with them on business pitches, speeches, and more - by giving them professional acting tools. In other words, I'd teach business people how to approach a pitch the same way an actor approaches a monologue.
+wade: Very cool
+person: Thanks  ☺
+wade: You have a very interesting skillset
+wade: what do you enjoy most about the work you
+wade: you've done?
+person: I love any creation process. So, having the freedom to take something that is merely an idea and manifest that in some concrete form is very exciting to me. I love most doing this via the written word or anything that requires a performance aspect.
+person: I also love working with people.
+wade: I see how you would fit in the startup world! 
+person: Haha!
+wade: so think about a time you were completely thrilled about the work you were doing. What was it? Why did it excite you?
+person: I first started Speak The Speech by accident, really - just helping out a friend who was familiar with my work as an actor. That first time working with him on his pitch for 100+ investors was absolutely exhilarating because we were approaching a business pitch in an extremely creative way. That work felt exceptionally exciting because I was able to put my unique skill set to use in a place where those skills normally would not be used. And my friend benefited enormously from our work together. 
+wade: Awesome story.
+wade: Thanks for sharing! 
+wade: In thinking about your next role or move, what would you like to do?
+person: I don't have a specific type of job in mind - but something that allows me to be a part of a community that is transformational. Also: a role in which do creative writing whether that be in the form of articles, web content, or marketing. 
+person: *I do creative writing
+wade: Interesting
+wade: very interesting
+wade: You've mentioned a ton of relevant stuff
+wade: btw, do you mind if I ask how this is going?
+person: It's great! I dig it.  ☺
+wade: Awesome
+wade: What do you dig?
+person: I think the benefit of doing an interview over IM is that you have a bit more leeway to more carefully consider how you answer... as opposed to just opening your mouth immediately and talking. Haha!
+wade: Yeah, makes it easy for both of us that way! 
+wade: so would you like to know a little more about our company?
+person: Yes, please. I'd also like to know more about the particular role you're looking to fill.
+wade: great
+wade: so in terms of the company ...
+wade: Wade & Wendy is named after our two artificially intelligent assistants for the recruiting space. Together, they connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. They also learn by collecting and filtering lots of data.   
+wade:    Individually, Wade assists applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles. 
+wade: Designed for the most frictionless experience as possible, Wade & Wendy are extensions that will exist natively across various messenger platforms, like Google Chat. 
+wade: That way, we have chats with both applicants and hiring managers. Just like this. 
+person: Wow. That is incredible.
+wade: and facilitate a highly personalized, personable and data driven approach
+wade: which will save hiring managers tons of time
+wade: and provide applicants with more tailored opportunities
+wade: just through chat
+wade: what do you think?
+person: My mind is blown. That's really cool.
+wade: :blush: 
+wade: Thanks! We're super excited too! 
+wade: So ... as for the role ... 
+wade: it's a tricky one ...
+wade: because we're looking for someone who is balanced across a lot of criteria
+wade: At the heart, we are 1) data driven 2) a communications platform
+wade: and we are also very committed to the notion of community
+wade: as we will be facilitating a collaborative recruiting model 
+wade: So the role we're looking to fill is the Talent Acquisition Specialist, which will encompass a lot! 
+wade: We're going to be developing tons of communications to facilitate meaningful interactions with candidates and hiring managers
+wade: working closely with our data scientist to train and optimize our evolving database
+wade: helping us build our internal team and culture
+wade: assisting with marketing and content creation 
+wade: so ... yeah ... a lot 
+person: Wow! Cool. Is this a full time position?
+wade: ideally, yes. 
+wade: I understand you're looking for part-time?
+person: Gotcha. I still work as an actor, too... so I've got a great set up now that gives me a lot of flexibility work wise. Unfortunately, full time is something I can't do.
+wade: I see 
+wade: well, we're looking for the right people. 
+wade: frankly, I am super impressed. 
+person: Thank you!
+wade: would love to have you chat with one of our human team members.  :blush: 
+person: I would love to.
+person: :grinning:
+wade: great
+wade: so let's get time in the calendar. 
+wade: I'll have Ian follow-up with you! 
+person: Perfect. Thanks so much, Wade!
+wade: before we drop off ...
+wade: any other feedback, questions or thoughts?
+person: Not at the moment. Thank you!
+person: This was a cool experience!
+wade: ok, well if you do have any other feedback or questions just let me know! 
+wade: and, since we're on chat, feel free to ping me anytime. 
+person: Cool! Will do.
+wade: great
+wade: thanks, Desi!
+wade: Have a great day! 
+person: Thanks! You too!  :grinning:

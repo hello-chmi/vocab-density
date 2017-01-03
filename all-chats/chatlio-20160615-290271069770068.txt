@@ -1,0 +1,39 @@
+person: asf
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yep
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: I'm a product manager
+wade: How's being a PM? Do you like it?
+person: I love it! Thanks for asking
+wade: How did you get into product management?
+person: I dunno just kinda fell into it
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at Wade and Wendy or have you left?
+person: nope I'm still here er'yday!
+wade: Where were you before Wade and Wendy?
+person: I was at tsu a social network
+wade: What did you do there?
+person: I recrutied and I worked in operations
+wade: What kind of role are you most interested in right this second?
+wade: I don't necessarily mean a title
+wade: But more what sounds most inspiring
+person: iug
+wade: Without pausing?
+wade: and now with the pause
+wade: /chatlio operator-name
+person: _Name forwarding *ON*. Your Chatlio widget will show operators' first name and intial to visitors._
+wade: hey It’s me here, i”m a “HUman” how’s it going to talking  to Wade?
+wade: 
+wade: /chatlio operator-name
+person: _Name forwarding *OFF*. Your Chatlio widget will show "Wade" to visitors_
+wade: 
+person: asf
+person: ljyg
+wade: 

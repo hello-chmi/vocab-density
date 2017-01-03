@@ -1,0 +1,39 @@
+person: sup
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes!
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: Recently I co-founded a company that is building conversational AI, just like you! There's a lot of data science etc. as part of it
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at Wade &amp; Wendy or have you left?
+wade: 
+person: hi
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes sir i do!
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: learning about chicken and stuff
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at Wade &amp; Wendy or have you left?
+wade: Where were you before Wade &amp; Wendy?
+wade: What did you do there?
+wade: What kind of role are you most interested in right this second?
+wade: I don't necessarily mean a title
+wade: But more what sounds most inspiring
+wade: What's the number one skill you have that's carried you farthest in your career?
+wade: Moved you forward in the biggest way...
+wade: What are you looking to gain from your next role?
+wade: Where would your ideal job be located?
+wade: Would you be willing to move or work remotely?

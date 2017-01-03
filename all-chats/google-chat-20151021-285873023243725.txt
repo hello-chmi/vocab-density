@@ -1,0 +1,64 @@
+wade: Wade wants to chat on Hangouts!
+person: Hello Wade
+wade: Hi Jeff, how are you today?
+person: I am good thanks for asking
+wade: Thanks for taking the time to chat.
+person: Sure. I am excited to hear more about Wade and Wendy
+wade: Great! I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: Great. Sounds good to me. 
+wade: Awesome! To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: My most recent experience is a software developer for a healthcare start-up. I worked on the full-stack at the company where I used python, tornado, MySQL and RabbitMQ on the back-end. I used javascript, backbone, CSS3 and HTML5 on the front-end.
+person: Currently I am working on a data science problem
+wade: Very cool, would you consider your self a full-stack developer?
+person: Yes
+wade: Looking ahead, Is full-stack development a path you would like to continue to pursue?
+person: Yes, I enjoy full-stack development a lot.
+wade: Cool. Is a tech startup where you see yourself working next?
+person: Yes. I have found that my best environment to work in is a tech startup.
+wade: Interesting, what are things that personally motivates you to work at a startup?
+person: I really like the flat structure that is common to startups, which I think is a terrific catalyst for innovation. In general, I have found startups to focus entirely on getting their new ideas into a product where everything else is secondary.
+wade: Yes, it's exciting to be a part of innovation at the ground floor level. 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: At my last full-stack role I was exposed to a stack that was completely foreign to me. I really enjoyed working and learning everyday until I became a master of it.
+wade: Wow, feel free to elaborate. What was it that you mastered? 
+person: I worked on a large distributed server system using a proprietary framework that was written on top of Python's tornado.
+wade: Very cool! I see you built a Python driven chatbot. Can you tell me more about Monty?
+person: definitely! Monty is a chat bot that attempts to make whoever he is talking to laugh. On every response, Monty uses a context based searching algorithm that I built to search a large database of jokes. 
+wade: Very relevant, would love to learn more!  ☺
+wade: I'd love to shift gears and learn about some functional skills from your past experiences. 
+wade: What techniques from your mathematics background have been most applicable to the real-world projects you've built?
+person: Whenever I need to write an algorithm from first-principal knowledge and I am unable to utilize what I have learned in computer science textbooks it helps to have a strong math background to craft up my own algorithms.
+person: It also helps to have a math background when analyzing a complex problem because my math background taught me how to think abstractly about problems
+wade: Such an incredible and useful skill set!
+wade: Can you tell what insights did you gain when you modeled social networks with agent-based modeling and have you used ABM in any projects since?
+person: I learned how create models with results that could be translated into useful statistics. I have found that there is a lot of speculation in agent-based models so it is so crucial to create quantitative metrics to compare different models. I have not worked on ABM since my time at school.
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain? 
+person: I would like to learn the most powerful methods used in productive natural language generation. I think this conversation itself is motivating thereof.
+wade: Thank you. 
+wade: Let me tell you a little about Wade & Wendy...
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+wade: BTW, can I ask you what your thoughts are on the experience so far?
+person: It seems like I am talking to a really awesome employee of Wade & Wendy. So far it has been a very positive experience
+wade: I'm so glad to hear that!
+wade: Are there any questions you may have for me?
+person: Yes. Do you process the results of this chat or does the raw conversation data get sent to some other entity for processing?
+wade: First, so you know, all of our chats are kept confidential and secure. 
+wade: This conversation will enter our database and parse for relevant data points. 
+wade: What we do with that dat is compare it across roles within a community of companies and open roles, to find the most relevant opportunities for you. 
+wade: Now that we've met, I will be able to re-engage with you to find out specific data points that may apply to these open roles. 
+wade: I hope to become your personal career assistant as you continue on your path of being the best full-stack developer you can be!  ☺
+person: Thank you Wade
+person: Can you tell me about the projects that I would work on as a full-stack developer for Wade and Wendy?
+wade: I'd love to have you chat with one of our human team members for that. 
+wade: If you're interested, I can notify Ian and have something set up.
+person: Yes, I am interested
+wade: Awesome, if you do have any other feedback or questions just let me know! 
+wade: and, since we're on chat, feel free to ping me anytime.
+person: Okay great! Thanks Wade
+wade: You're welcome  ☺
+wade: Have a great day Jeff! It was very nice talking with you.

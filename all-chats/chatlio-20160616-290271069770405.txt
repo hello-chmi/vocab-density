@@ -1,0 +1,35 @@
+person: Hey Wade
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: Yes I'm ready
+person: yes
+person: Hi Wade
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: I work as a trainer at an AI company
+person: Hey dude
+wade: Morning!
+wade: Great!
+wade: I'm here to be your personal career sidekick
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at  or have you left?
+person: yeah Im still here
+wade: Understood. Are you looking for new opportunities?
+person: no not really
+person: hey
+person: hey
+person: asdf

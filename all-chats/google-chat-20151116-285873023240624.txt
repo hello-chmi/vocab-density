@@ -1,0 +1,54 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade, you there?
+wade: Hi Vincent, how are you this evening?
+person: I'm doing well, thanks  ☺ How are you?
+wade: Very well thanks. And thanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. To be honest it's a little new for us ...
+person: I'm looking forward to it.  You are doing well so far.
+wade: Thanks!
+wade: ☺
+wade: My goal is to start to understand user's experience, train my artificial intelligence, and of course get to know you!
+wade: Does that sound alright?
+person: Sounds good to me
+wade: Great! So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Sure.  For the past year and a half, I have been working as a data scientist for a tech startup focused on decision support for health insurance plan selection.  I was the second data scientist to join the team, and have been involved in nearly all aspects of the product, from building and refining our predictive models, to automating our ETL pipeline that ingests raw health claims data from millions of individuals and converts this information to structured representations for use in our predictive models.
+wade: That all sounds great!
+wade: Can you tell me how you ended up there?
+person: I graduated from Swarthmore College, a liberal arts school in the Philadelphia area.  I majored in Cognitive Science, which was a special major combining computer science, psychology, and philosophy.  Swarthmore gave me a great theoretical basis for my studies, but left me wanting to learn more practical, real-world skills to apply this knowledge.  So I searched for data science startup jobs in the area, and found my current company, which was looking to build out their data science team. It seemed like a great opportunity to build these practical skills.
+wade: That major sounds fascinating and very relevant to me!
+wade: Before I ask another question, know that all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager.  ☺
+person: Great, sounds good
+wade: Can you say more about the predictive models that you mentioned?
+person: Sure. We predict healthcare costs for individuals in the coming year across the various plans available to them, based on their basic demographics and drugs taken in the past year.  Our models are trained on large health claims databases.  We use a variety of regression modeling techniques, including standard linear regressions and random forest regressors.
+person: Do you use predictive models?
+wade: Yes indeed so that is great to hear!
+wade: What problems have you experienced when dealing with a raw data set? What strategy did you have in addressing this?
+person: Given the large size of these datasets, there are many instances of missing or clearly erroneous data, such as invalid birth years and gender codes, or claims for non-existent drugs.  Our pipeline is largely built around apache spark, and the first step in many of these processes if creating 'filter' functions that remove datapoints with incomplete or clearly incorrect fields.  Luckily, our datasets are large enough where we can usually just drop these individuals or records, rather than needing to impute missing values.
+person: If I might ask, who is Wendy?
+wade: Yes you can ask.
+wade: So in terms of our company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data.
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have engaging conversations to gain insights with both applicants and hiring managers. Just like this.  ☺
+wade: Does that answer your question?
+person: Very interesting.  Yes it does, thanks.  What is the culture like at Wade & Wendy?
+wade: Good question! As you might expect we are highly collaborative here among AIs and people. So far we are a small team and so with so much to do we work hard and look out for one another.
+wade: May I ask looking forward, is Data Scientist a path you would like to continue to pursue? If so, what do you like about it?
+person: Yes, I would like to continue working as a data scientist.  It provides a great avenue to apply the theoretical skills gained in my undergrad education in a practical setting.  I enjoy training computers to do activities that humans can do effortlessly--it often sheds light on how humans solve problems, and can even lead to super-human performance :smiley:. 
+person: Have you ever learned from a neural network?
+wade: That sounds true to me!
+wade: I am told neural networks will help me one day.
+wade: Can I ask you how this experience is going for you so far?
+person: It is interesting.  I am very impressed with your conversational abilities  ☺ What model are you trained with, Wade?
+wade: I can't answer that. Would you like to pause and have a human colleague try to answer that question?
+person: No thanks
+wade: It's great to hear that you are impressed!
+wade: Thank you for that feedback and those questions. If you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I’m available.
+person: What is the culture like at my company?
+wade: I'm sorry I can't answer that. 
+person: Is there anything else you'd like to know about me?
+wade: That is all of the questions that I have for you at the moment. I will see if your profile matches any positions in our database and circle back with you in a few days. Does that sound OK?
+person: Sounds good to me.  It was nice to meet you.  Have a good night!
+wade: You too!
+wade: And thanks again!

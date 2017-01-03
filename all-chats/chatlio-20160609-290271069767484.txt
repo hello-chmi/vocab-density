@@ -1,0 +1,13 @@
+person: hi
+person: hi marc
+wade: hio josh
+person: ahoy
+person: wade stuff
+wade: more text
+wade: another line
+wade: sending chat
+wade: more
+wade: more
+wade: really save chatthis time
+person: hi text
+person: save me

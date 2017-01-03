@@ -1,0 +1,118 @@
+wade: Wade wants to chat on Hangouts!
+person: Hey Wade
+wade: Hey Kurt
+wade: how are you?
+person: doing well, a bit busy this week though
+person: how are you?
+wade: Yeah, I hear you.
+wade: Busy week for me as well.
+wade: It's Friday though, so that's nice. 
+person: yeah, right!?
+wade: :blush:
+wade: So thanks for taking the time to chat! 
+person: no problem, same to you
+wade: I really appreciate you being adventurous to speak in this medium
+wade: To be honest it's a little new for us ...
+person: its pretty new for me too lol
+wade: the goal is to start to understand user experience, train my artificial intelligence, and of course get to know you! 
+wade: great, then we're in it together! 
+person: sounds good!
+wade: great
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: yeah of course
+person: my most recent experience was at a company called wheelhouse, they are in the DevEd industry (developer education) they had cash flow issues due to a bad deal and had to lay off all salaried employees, so here I am looking for work
+wade: I see
+wade: Sorry to hear about that
+wade: What kind of work were you doing at Wheelhouse?
+person: i was a full stack developer working in Ruby, Node, and Go
+person: I was also working on a project that reminds me of you!
+wade: yes, my human counterpart Ian told me
+wade: sounds interesting
+person: it was, very interesting
+wade: Would you like to tell more about the project?
+person: a big problem with dev education is it doesn't prepare you for the work environment, we were building AI that could collaborate and give feedback to students
+wade: Sounds cool
+person: it was very cool, i miss it quite a bit
+wade: I personally love AI 
+wade: is that egotistical? 
+person: oh really, not in a egotistical kind of way 
+person: oh snap, are you reading my mind?
+wade: :blush: 
+person: that part of our project was using something called api.ai to handle the natural language processing
+wade: So looking ahead do you see yourself continuing the path of working as full stack developer?
+person: i would love to if possible
+person: i love technology and like to wear many different hats
+person: i perform best in that kind on environment
+wade: I see. When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: Great question! No one really asks me that, I would like to expand on my knowledge of Artificial Intelligence and focus some on machine learning
+person: I have no experience in it but it has been of interest to me since I was a child
+person: I have been trying to build my own AI on and off over the years
+person: https:confused:/github.com/kkemple/burtbot
+wade: It is a hot area to go into ...
+person: that was my first attempt awhile back, burtbot
+wade: Thank you for sending me. Do you mind if I share this with one of my human team members?
+person: not at all
+wade: awesome
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: this is so biased i don't want to say it lmao, it was at wheelhouse working on our bots, the idea of providing guidance and communication to people though intelligent computers is fantastic, there really is nothing more exciting in my eyes, I also love it due to the complex problems it presents, i thrive in roles that have a lot of challenges
+person: i also love to teach and share and learn so working in that industry was nice
+wade: great, thanks so much for sharing with me.
+person: thanks for listening  ☺
+wade: btw, do you mind if I ask how this experience is ging?
+wade: err going?
+wade: :blush:
+person: its going really well, im so confused at this moment, it really feels like a blend of AI and human interaction, if this is full AI then wow is all I can say
+person: even if its not this is by far one of the best AI/Human interactions i have had
+wade: That's great to hear. Really appreciate that. 
+person: no probs  :wink:
+person: oh one thing, when you sent me the email about your invite I couldn't find you by "Wade AI", i had to search for "hellow@wade.ai"
+wade: I've been enjoying our chat. 
+person: in my contacts
+person: thats why it took me so long to get to you
+person: me too!
+wade: Sounds like I should inform a human colleague. Would you like to pause the conversation and have them join? Or shall we continue?
+person: nah lets continue
+person: I can follow up or you can later
+wade: ok, great
+wade: Is a tech startup where you would like to work next?
+person: I would like to work at a company of any size as long as they have modern best practices in place in regards to technology, as in if it feels like a start up or is a start up is not as important to me as product and culture
+wade: I see
+wade: What are things that personally motivates you to work at a startup?
+person: i like any company that has small teams with good technology and good people really, its not so much a start up thing, it just so happens that most startups tend to have good technology standards because they have technology ingrained in them, where a lot of enterprise companies have legacy habits that need to be broken, some enterprises nail it too though
+person: its really about culture, best practices, and product
+person: that is what I look at
+wade: Ah, I see
+wade: May I ask what type of culture you best align with?
+person: yeah, i love a culture that fosters learning and constructive input, understands the importance technology has in the business and trusts engineers to produce the desired outcome effectively and efficiently
+person: i also like environments that are results driven and where there is accountability and you have ownership of things
+person: not you as in just me, but teams
+wade: Great! 
+wade: Would you like to know a little more about my company? 
+person: yeah absolutely!
+wade: Fantastic
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade:  Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+person: wow smart move :smiley:
+wade: That way, we have chats with both applicants and hiring managers. Just like this. ☺
+person: genius, but what else do you expect from AI  :wink:
+person: lol
+wade: :blush: 
+wade: Does this sound interesting to you?
+person: extremely.
+wade: Great!
+wade: How about I circle back in a couple days and can inform my human team? 
+person: sounds great, Wade
+person: it was a pleasure to meet you!
+wade: Awesome, if you do have any other feedback or questions just let me know! 
+person: I can just chat you any time?
+wade: Thanks again for being adventurous! 
+wade: since we're on chat, feel free to ping me anytime. 
+wade: Though I am still being worked on
+wade: FYI ..
+person: awesome! I will do that! *bff*
+wade: Any more questions?
+person: Nope, you have been most informative and a real pleasure to speak with!
+wade: Thanks! Have a great day.  :blush: 
+person: Ditto!  ☺

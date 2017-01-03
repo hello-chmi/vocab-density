@@ -1,0 +1,113 @@
+person: hi
+wade: test
+wade: 
+person: testing
+wade: 
+wade: 
+wade: Hi Robert, Robert Robert it's nice to meet you.
+wade: Thanks for taking the time to chat today.
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+person: word
+wade: 
+person: testing
+wade: 
+wade: testing
+person: testing
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+wade: yuh
+wade: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+wade: i’ve been working on some stuff with slack. just some api integrations.
+wade: What stage of the job search process are you in? Interviewing anywhere yet?
+wade: i’m not searching for a job.
+wade: Which gets you most excited? Why?
+wade: hm?your not making any sense wade
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+person: talk to me
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: i build software
+person: and i try to reproduce bugs
+person: its annoying when i cant
+person: so dont be annoying
+wade: test
+wade: test
+wade: test
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: sure
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yeah, lets do it
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: i'm just building the future
+wade: What stage of the job search process are you in? Interviewing anywhere yet?
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: sidekick me!
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: building the future
+person: always doing that
+wade: What stage of the job search process are you in? Interviewing anywhere yet?
+person: i dont want a job
+wade: Which gets you most excited? Why?
+person: i'm not excitable
+person: don't ask me that again
+wade: 
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+wade: winning
+wade: 
+wade: Greetings Homo sapiens!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+wade: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+wade: working
+wade: What stage of the job search process are you in? Interviewing anywhere yet?
+wade: none
+wade: Which gets you most excited? Why?

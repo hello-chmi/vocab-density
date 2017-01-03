@@ -1,0 +1,53 @@
+wade: Wade wants to chat on Hangouts!
+person: Hello
+wade: Hi Tyler, how are you today?
+person: Great, and yourself?
+wade: Doing well, thank you for asking. And hanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: Ready to get started?
+person: Yes I am
+wade: Great! So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Certainly.  I currently work as a Senior Associate for SeamlessDocs.  We are engaged in an enterprise sale to Government entities.  This process is approximately a 90 day sales cycle that requires multiple decision makers.  I am currently responsible for a $25,000 a month quota which has been consistently attained.
+wade: Ok, so looking ahead, Is sales a path you would like to continue to pursue?
+person: The goal is to continue to grow both personally and professionally in an exciting and challenging environment.  Currently, sales provides a lucrative vocation that requires problem solving skills, inquisition and being able to think on your feet.  I am definitely interested in continuing to pursue my sales career.
+wade: Very cool, those are all strong motivations. 
+wade: So, when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: It would be great to be an environment where there is the opportunity to grow into a leadership role.  I also find it engaging to be involved int he personal and professional development of others.  Ideally, this would be for an organization that I am passionate about and want to build out.
+wade: Is a tech startup where you want to work next?
+person: The start-up is enticing on multiple levels.  It is fast-paced, creative, and has massive growth potential.  Staying within the stat-up space is definitely a goal.
+wade: Yes, its definitely space with room to grow!
+wade: Can you tell me what gets you really excited about working in sales?  
+person: The great thing about sales is that you are simply having constructive conversations with people.  Finding out what their specific issues are and how your organization can help to overcome those problems.  The money doesn't hurt either!
+wade: No money never hurts when you're doing something you're passionate about  ☺
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: When I originally started working for the Chamber of Commerce I sold more memberships than anyone in the history of the organization.  As a result, I was made Director of the Department and was given autonomy to grow the department which was really exciting to be given that opportunity.  Through my direction we were recognized by the Governor of the State of New York as the fastest growing Chamber in the country which was pretty exciting.
+wade: Wow, that's very impressive!
+wade: I'd love to shift gears and learn about some functional skills.
+wade: You mentioned leadership as a goal for you. Have you worked in that capacity before? If so how many people directly reported to you? 
+person: I have in a few separate roles and is something that I would like to get back to.  I have managed as few as 2 and as many as 10.
+wade: What sort of CRMs or sales tracking software are you confident using?
+person: I have used Pipedrive, Close,io, Microsoft Access, and a few proprietary systems
+wade: Have you ever been directly involved with growing a team or recruiting efforts? 
+person: Yes, I have been directly involved in posting for positions, interviewing candidates and making hires
+wade: Awesome!
+wade: Would you like me to tell you a little bit about Wade & Wendy?
+person: Yes, I would love to learn more!
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data.            
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles. 
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+wade: BTW, I'd love to know what your thoughts are on this experience. 
+person: I think it's a really great model that allows for a casual conversation to take place within an easy to use format.
+person: I would be really interested to see the back-end to see how these conversations are being evaluated.
+wade: So you know, all of our chats are kept confidential and secure. 
+wade: This conversation will enter our database and be parsed for relevant data points. 
+wade: What we do with that data is compare it across a community of companies and open roles, to find the most relevant opportunities for you. Now that we've met, I will be able to re-engage with you to find out specific data points that may apply to these open roles. 
+wade: I hope to become your personal career assistant as you continue on your path of being the best sales associate you can be!  ☺
+wade: Ok, this conversation has been very helpful. I’ll circle back in a couple days with potential opportunities for you to look at.
+wade: Sound good?
+person: Sounds great.  Thank you for your time.
+wade: Thank you! Have a great day Tyler!
+person: you too!

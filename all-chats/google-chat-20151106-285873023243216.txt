@@ -1,0 +1,53 @@
+wade: Wade wants to chat on Hangouts!
+person: Hello Wade
+wade: Hi Michael, how are you today?
+person: Doing well thanks
+wade: Thanks for taking the time to chat.
+person: no problem 
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Sure
+person: I recently worked for SiriusXM Radio as a soundboard operator and producer for live sports talk shows 
+person: I've also been managing a music website that covers concerts and events in NYC and California 
+wade: Very cool, what got you into radio?
+person: Always been a passion of mine. Growing up listening to music in the car and sporting games being broadcasted. I went to college and hosted my own shows, it was very fun. 
+wade: Wow yes, sounds like a lot of fun. :smile:
+wade: Before we move on, know that all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager.  ☺ 
+wade: So looking ahead, which career path you would like to continue to pursue? What are you interested in?
+person: Sounds good
+person: I really want to dive into technology and social media based work
+person: Connecting with people over the internet is very powerful and rewarding to me 
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?
+person: Yes, I would like to be with a company that is on the cusp of creating new technology. Personally I have a passion for social media and being able to interact with people from across the country and globe for that matter
+wade: Great, would love to shift gears and learn about some functional skills.
+person: ok
+wade: How confident are you with your writing capabilities? 
+person: Very confident, I've been writing and editing since my high school newspaper, into college for editorials and now interviews with musicians. 
+wade: Cool! What about writing excites you?
+person: Having a creative freedom firstly, and being able to express myself through words. Communication is key for millennials like myself.
+wade: Have you developed content for marketing purposes? 
+person: A little bit yes, but I would not say I am proficient in marketing.
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: Connecting with B2B enterprises, being able to navigate a website with HTML code and Java Script. 
+wade: Do you have experience coding?
+person: Not much, no. I am familiar with Wordpress and publishing content as an editor. 
+wade: Ok cool. 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: Sure, this past summer I traveled to Denver, CO for a concert. I was covering the music event for my website and was given press credentials. I was allowed to interview one of the performers, and take photos from up close. Afterwards the process of editing pictures, transcribing the interview onto paper and putting a recap article together was very time consuming, and also very exciting to see the finished project get praise from the music community. 
+wade: Very cool, sounds exciting!
+wade: Do you have a resume handy that you can upload and give me?
+person: absolutely 
+person: Shall I email it?
+wade: Ok great, please send it to hello@wade.ai 
+wade: Ok, this is very helpful. I’ll circle back in a couple days with potential opportunities for you to look at.
+wade: Before I go, can i ask you what your thoughts are on this experience?
+person: Sounds good
+person: I thought this was very cool and informative, a new approach to interviewing and I did not feel nervous once!
+wade: Awesome! Thanks so much  ☺
+person: Resume sent
+person: Thank you again
+wade: Great. 
+wade: :raising_hand:Have a wonderful day Michael! 
+person: You too, cheers.

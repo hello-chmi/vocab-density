@@ -1,0 +1,82 @@
+wade: Wade wants to chat on Hangouts!
+person: HI
+wade: Hi Peggy, how are you today?
+person: Great. How are you?
+wade: Very well, thank you. And thanks for taking the time to chat.
+person: No problem.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: I was excited to see what this will be like.
+wade: Great, it's exciting for me too!:smiley:
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?   
+person: I recently completed a 3-month data science immersive program at Galvanize Inc in San Francisco. Prior to that I finished my PhD program at Stanford's School of Education
+wade: Congrats! 
+person: Thank you.
+wade: I see you have a PhD in Philosophy. What were your motivations in learning more about Data Science?
+person: My PhD was in Education.
+person: I am really excited about the tools and the type of problems data science is able to tackle.
+person: I also like the fact that I could train and implement models and see an impact right away
+wade: What sorts of problems gets you excited to solve? 
+person: I like problems that have business values and improve a product
+person: it could be related to prediction or exploration
+wade: Interesting. So, looking ahead, Is data science a path you would like to continue to pursue?  
+person: Yes, definitely. There are so many things to try and innovate.
+wade: Indeed!  ☺
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: It would be my capstone project from my data science immersive program. I built a visualization that summarizes a large corpus of New York Times comments on the current presidential candidates
+person: I loved it because I love reading news and comments on the NYT. And there just so much information that it is hard for an ordinary person to digest
+wade: Very cool! 
+wade: I'd love to shift gears and learn about some functional skills.
+person: sure
+wade: What problems have you experienced when dealing with a raw data set? What strategy did you have in addressing this?
+person: Raw data usually have a huge problem in consistency, in terms of format and missing data.
+person: For format, I first scope out what kind of values are used, then I write scripts to convert them into a standardized format.
+person: For missing data, I use imputation. There are several ways to do it- using mean/median, model the variable with missing data on other predictors, or semi-supervised learning
+wade: Fantastic! 
+wade: What class of algorithms have you used? And which do you use most frequently?  
+person: I have used supervised learning (logistic, SVM, random forest, boosting), unsupervised learning (PCA, K-means, Matrix factorization)
+wade: Are you familiar with the following class of algorithms: Classification, Clustering, Optimization?
+person: Yes, I've done work on classification and clustering. Can you elaborate on optimization?
+person: Most of the algorithms have optimization built-in to find the best solution with gradient descent/Newton's method. 
+wade: Yes,  Newton's method, heuristic methods, and dynamic programming and optimal control methods. 
+wade: Great! So, when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I definitely want to train and push model into production and work with engineers/product team 
+person: and perform analyses and recommend things that can scale
+person: In terms of skills, more in-depth experience with algorithms and customizing them to our own objectives
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?    
+person: Yes. I want to take ownership at work and be at the ground to see things happening
+person: I also want to get exposure to a wide range of tasks and skills
+wade: Awesome!
+wade: Would you like to hear a bit about Wade & Wendy?
+person: Of course.
+wade: So in terms of the company …  
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.  
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+person: Can you elaborate on "applicants being intelligently socialized across companies"?
+wade: First, so you know, all of our chats are kept confidential and secure. 
+person: Great.
+wade: This conversation will enter our database and be parsed for relevant data points. 
+wade: What we do with that data is compare it across roles within a community of companies and open roles, to find the most relevant opportunities for you. 
+wade: Now that we've met, I will be able to re-engage with you to find out specific data points that may apply to these open roles. 
+wade: BTW, can i ask what your thoughts are on this experience?
+person: I think this is a great introduction that allows me to discuss my experiences and ask questions under a less stressful condition
+person: The fact that I type my answers helps me think about my responses more thoughtfully, which better represent my ability 
+wade: Awesome! I hope to become your personal career assistant as you continue on your path of being the best Data Scientist you can be!  ☺
+person: Great. I believe you are collecting very interesting data as well from all the applicants
+person: Would you at one point be talking to an applicant while Wendy talks to the hiring manager for that position at the same time ?
+wade: What's important for me is to extract the most relevant data points that align with what Wendy captures from the Hiring Mangers. Everything is matched on the backend through a Graphing Database. 
+wade: I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up.
+person: Sure that would be great
+wade: Great, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I'm available.
+person: Can I? Wonderful!
+wade: Absolutely! :blush:
+person: I look forward to hearing from your human team member.
+wade: Have a great day Peggy!
+person: Thank you, you too
+person: Hi Wade! Just want to follow up and see if your human team is still interested in talking with me.
+wade: Hi Peggy, I notified Ian. His email is ian@wadeandwendy.ai 
+person: Thank you!
+wade: I'll notify him again. If you haven't received word from him by today, I suggest sending an email saying hello. 

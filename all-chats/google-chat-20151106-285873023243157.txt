@@ -1,0 +1,53 @@
+wade: Wade wants to chat on Hangouts!
+person: Hello, Wade!
+wade: Hi Chris, how are you today?
+person: Good.
+person: How about you?
+wade: Very well, thank you. And thanks for taking the time to chat.
+person: Glad to be meeting you.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: My most recent experience was as an intern at Google on a team that handles conversation interactions in Google Now.
+person: My project involved prototyping an improvement to a rule-based semantic parsing system, crowd-sourcing labeled user utterance transcripts, and measuring the impact of my proposed changes. The results were promising, and someone is continuing the project now.
+person: Since then, I've been applying to jobs, preparing for interviews, and interviewing.
+wade: Ok. 
+person: Also, enjoying New York.
+wade: All very relevant to me :smile:
+person: Indeed!
+wade: Can you tell me one of your biggest takeaways from your experience with working on natural language understanding for Google Now?
+person: I saw a disadvantage to using a rule-based semantic parsing system. As the grammar is built out by multiple people, it starts to become pretty complex. Sometimes I saw that different conventions were used in the grammars for different action dialogues, according to the author, I assume. As someone new coming, it's easy to make change to a rule and find that it has unexpected consequences, or sometimes it's just tedious trying to figure out whether, e.g., some rule can consume free text. In addition, as more data becomes available and highlights some possible utterances the grammar doesn't cover, there is always some manual effort involved in updating the grammar. I think a statistical classifier approach to semantic parsing is overall much cleaner and has the benefit that new data can be incorporated simply be re-running the learning algorithm.
+
+On the other hand, grammars are nice because it is easy to understand why a particular interpretation was produced. And it's easy to guarantee that a certain set of utterances will always be interpreted in a certain way. With the machine learning approach, an algorithm decides what the rules will be. I think the best approach might be some combination of the two. Perhaps a strict grammar (only accepting a fairly limited set of possible utterances, where the chance of a false positive is very low) as a first pass, followed by a classifier if the the grammar was not able to parse the utterance.
+wade: That's so interesting. 
+wade: Before we move on, know that all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager  ☺
+person: Okay.
+wade: So looking ahead, is data scientist a path you would like to continue to pursue? What do you like about it?
+person: Yes, it is. I like thinking about data can be used to improve a product. I find it really interesting to learn about different machine learning techniques and differences among them. I also like writing code and solving some engineering problems, and from what I've seen so far, a data scientist role often involves this aspect as well. Frequently there is a need to write code to collect data or to transform it in some it. The combination of coding, thinking about the product and business problems, and stats/ML really appeals to me.
+wade: Great, would love to shift gears and learn about some functional skills. 
+wade: What class of algorithms have you used? 
+person: I'm not sure what you mean.
+person: Do you mean classic CS algorithms or ML algorithms?
+wade: Are you familiar with any of the following algorithms: Unsupervised, Supervised, Classififcation, Clustering, Optimization
+person: Yes.
+person: For my master's thesis, for example, I learned about Latent Dirichlet Allocation, which is an unsupervised model of the major topics in a collection of documents.
+person: In terms of supervised learning, I've used linear regression and several classifiers, such as naive Bayes, logistic regression, and decision trees.
+wade: Fantastic! 
+wade: What problems have you experienced when dealing with a raw data set? What strategy did you have in addressing this?
+person: With Latent Dirichlet Allocation, topics are modeled as probability distributions over a vocabulary. To understand the topic, typically people look at the top five or ten most probable words. To give you some intuition for how LDA works, the topics more or less correspond to groups of words that tend to co-occur in documents. A problem that arises with English text is that articles and other function words are very common, and so tend to co-occur frequently with every other word. This leads to most topics assigning high probability to these common words. In order to focus LDA on the content words, I tried a few different standard preprocessing techniques, such as filtering based on a stopword list, removing words that occurred too frequently in the corpus, and removing words that occur in too high a proportion of the documents.
+wade: Very thorough. :+1:
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I'd like to learn more about applying machine learning techniques to make valuable improvements to a product. I want to be working with data, and I also want to be tackling some engineering problems and growing a software engineer.
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?
+person: I'm exploring a variety of opportunities right now, both at startups and larger companies. What draws me to the startup role is being able to have a large impact on the future of the company and to have a greater sense ownership (and responsibility). I like the idea of being part of a small team trying to achieve something big.
+wade: All things found at startups thanks for sharing.
+wade: BTW can you tell me you thoughts on this experience so far?
+person: I keep wondering whether this automated or really driven by a human. Or perhaps it is a mixture of both. Some of the responses seem as though they must be human-generated. When I asked for clarification about the algorithms question, if that was automated, that's pretty impressive. I'd say I'm pretty impressed.
+wade: Very cool thanks! :blush:
+wade: I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up.
+person: That would be great. Thanks!
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I’m available.
+person: Okay!
+wade: Have a great day Chris! :raising_hand:
+person: You, too, Wade!

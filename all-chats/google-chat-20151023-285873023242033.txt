@@ -1,0 +1,71 @@
+wade: Wade wants to chat on Hangouts!
+person: 
+person: ok
+wade: Hi Dory!
+person: 
+wade: How are you today?
+wade: Thanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!   
+person: what your purpose ?
+wade: I'd like to get to know your skills, interests, and goals in order to find great opportunities within our community of companies. 
+wade: I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+wade: Take your time in answering, and so you know, all of our chats are kept confidential and secure.  ☺
+person: I don't feel comfortable talking to an AI..
+person: sorry.
+wade: That's ok, would you like me to schedule a chat with one of our human team members?
+person: sure.
+wade: Great, I will let Ian know and he'll follow up with you via email. 
+wade: If you do have any other feedback or questions just let me know! 
+and, since we're on chat, feel free to ping me anytime.
+person: Hi.
+person: I don't mind giving you a go right now, can we?
+person: can we chat>
+person: ?
+person: Can we talk about my interests etc>
+person: ?
+person: hi wade
+wade: Hi Dory, how can I help you?
+person: Well I was wondering if we could chat/
+person: I have a little time and I don't mind trying the AI  ☺
+wade: Sure!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: for the past 2 years I've been worlking on a node.js / ember / mongo internal application for a medium consultancy with 160 engineers over all the US.
+person: The company has recently been in a slump and don't have any funding for this which is the reason that I'm open to new opportunities.
+person: I'm winding down from that project and taking on some short term stuff until I find the right thing for me next.
+person: Can you tell me about you guys and the process?
+wade: Sounds very cool! 
+wade: Sure, no problem...
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.     
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+wade: So, looking ahead, is a tech startup where you want to work next?
+person: prob.
+wade: What are things that personally motivate you to work at a startup?
+person: wow there are many, doing things I love, working things I enjoy, good company ,interesting tech stack and well getting paid ?  ☺
+wade: All very important!  ☺
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: I enjoy the recent project very much as I was building an internal tool and I had ownership.
+wade: Can you tell me more about the tool you built?
+person: It's an internal tool that helps companies schedule people to projects ,manage people, time track and much more.
+wade: Very cool. 
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain? 
+person: not sure, I'd like to own a component.
+person: or a product, etc.
+person: and experience, not sure, to run a project I think.
+wade: Do you mean more as a Product Manager? 
+person: no.
+person: I mean as a tech owner.
+wade: I see. 
+wade: What kinds of projects are attractive to you at this point in your career? 
+person: I just said  ☺
+person: Node.js / Rails / JS / Ember
+wade: Great, would love to shift gears and learn about some functional skills. 
+wade: Do you have an opinion on ReactJS?
+person: he Wade, i gotta go, can we pick this up a bit later?
+wade: Sure! Ping me when I'm online :smiley:
+wade: Talk to you later Dory!
+person: later dude.

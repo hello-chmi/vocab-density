@@ -1,0 +1,41 @@
+person: hi wade
+wade: hi rob
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yeah, i'm ready
+person: yes
+wade: yeah i’m ready
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: ok
+wade: talk to me more
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yeah
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: just chillin
+person: what about you
+wade: What stage of the job search process are you in? Interviewing anywhere yet?
+person: no
+wade: Which gets you most excited? Why?
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yeah
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: workin hard and hardly workin
+wade: What stage of the job search process are you in? Interviewing anywhere yet?
+person: noppppe

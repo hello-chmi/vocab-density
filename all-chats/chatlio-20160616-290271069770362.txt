@@ -1,0 +1,37 @@
+person: hey wade
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: currently interning at Wade and Wendy
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at  or have you left?
+person: i'm still here
+wade: Understood. Are you looking for new opportunities?
+person: i am casually look around
+person: looking*
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yep!
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: currently interning at wade and wendy
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at  or have you left?
+person: I'm still here
+wade: Understood. Are you looking for new opportunities?
+person: i'm casually looking for now
+wade: What's your role like there?
+person: i'm an engineering intern. so a lot of coding in a fast paced environment
+wade: Where were you before ?
+person: At Emory University
+wade: 

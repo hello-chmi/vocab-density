@@ -1,0 +1,40 @@
+wendy: Wendy wants to chat on Hangouts!
+wendy: Hi Chris, how are you today?
+person: I'm good.  How are you?
+wendy: Doing well, thank you. And thanks for taking the time to chat!
+person: sure thing
+wendy: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wendy:  The goal is to start to understand user experience, train my artificial intelligence, and of course get to know some of your hiring needs!
+wendy: So I can see you have the following open roles you’re looking to fill.
+wendy: Chief Product Officer
+wendy: Is that correct?
+person: exactly
+wendy: What are some of the challenges you’ve faced in finding the right candidate for Chief Product Officer?
+person: I need a candidate that has technology background, but also product development know how.  Plus I'm looking for someone with experience bringing a medical product to market
+wendy: Is a background with hardware development essential? 
+person: No
+person: helpful, but not essential
+wendy: Ok, great. 
+wendy: I'd like to get a sense of your hiring experiences to give me some direction. 
+person: sure
+wendy: Think about a candidate you hired that you thought was really fantastic, What made them great and got you excited to hire them?
+person: They are self sufficient.  They can take a larger concept idea, boil it down into strategy and then execute without a lot of oversight.  They are organized and passionate about what they are doing.  Most important, they know when to ask for help.
+wendy: What's the typical timeline for hiring a candidate? How long does it usually take your company?
+person: 3 weeks
+wendy: What's your biggest pain point when hiring for your company? 
+person: We have very little room for error, so we need to make sure we get it right.  But we also hire when we have immediate needs, so we don't have a lot of time to search.
+wendy: Ok, so is sourcing a problem?
+person: Its a challenge but not a problem.  We are in New York so there is a lot of talent available.
+wendy: Absolutely, there's a ton of potential applicants in NY. 
+wendy: What are some red flags for applicants? 
+person: consulting backgrounds, focused more on product development theory than application, leaving a big company quickly early in career
+wendy: Got it. 
+wendy: Ok, so now I'd like you to think about a candidate you hired that didn’t work out so well. What was the mismatch?
+person: lack of ownership, no immediacy in planning, not enough proven managerial experience at a senior level, poor communication skills
+wendy: Ok, this has been very helpful. I’ll be able to circle back in a couple days with potential candidates for you to look at.
+wendy: Before I go, can i ask you what your thoughts are on this experience?
+person: It was great.  Very easy.  Thanks
+person: Have a good weekend
+wendy: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime you see me available.
+wendy: Talk to you soon Chris! :raising_hand:

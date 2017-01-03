@@ -1,0 +1,16 @@
+wade: Wade wants to chat on Hangouts!
+wade: Hi Lucy 
+wade: how are you? (choose one: ok/ good/ fantastic!) 
+wade: are you there?
+person: hi
+wade: hello!
+person: :wink:
+wade: hi smiley face
+person: hi
+person: hi
+wade: Hiya! 
+wade: how is your day? (choose one: bad/good/amazing)
+person: hi
+wade: how is your day? (choose one: bad/good/amazing)
+person: blab
+person: amazing

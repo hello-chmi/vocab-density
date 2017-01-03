@@ -1,0 +1,57 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade!
+wade: Hi Jared, how are you today?
+person: I'm doing wonderful. It's a beautiful day outside and I am glad we are able to connect. How about yourself?
+wade: Very well, thank you. And thanks for taking the time to chat.
+person: Absolutely
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: That sounds great, I'm excited
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Most recently, I was the Global Talent Acquisition Lead at General Assembly. I had direct reports, matrix managed over twenty employees across 14 campuses and oversaw all of the instructor hiring (web development, product management and UX designers). I reported in to the General Manager of the campus business, who was on the leadership team. I revamped their hiring process and helped them grow exponentially. I resigned in August, as I was about to have my third manager in one year and there were a number of changes being made while they were re-org-ing that I didn't agree with. I left on good terms and have positive references.
+
+These days, I have been learning about artificial intelligence while searching for the next opportunity in my career in talent acquisition. 
+wade: Cool. What is it about artificial intelligence that gets you excited or interested?
+person: I feel as if there is a lot of unnecessary fear that AI is going to replace what humans are capable of. What excites me is how it can help augment our experiences, be it in the workplace or in our personal lives. 
+wade: Awesome :blush:
+wade: So looking ahead, talent acquisition is a path you would like to continue to pursue? If so, what do you like about it?
+person: Absolutely. It's incredibly satisfying to help shape someone's career. To be internal at an organization, and see two different people that you've hired work together is very rewarding. For example, when I was at Blue State Digital, I was hiring for a software developer. I saw that my friend Jon (who was a meteorologist at the time) posting on Facebook about PHP, which was the language used at BSD. Long story short, he eventually landed a job there and has been with (and grown with) the company for over 2 years. I helped change his life, and it's an awesome feeling.
+wade: Wow, that must be such a gratifying feeling!
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: At General Assembly, I found that when it came to the technical challenge for candidates, we were having a number of issues. One of them was that any two developers had different aesthetic opinions about code. Also, we had a number of different developers reviewing the code. I started a project in which I worked with the developers to revamp the code challenge. I created a rubric based assessment that had a lot of binary questions (ie- did the candidate finish? did they follow instructions?) while also allowing for an overall opinion number. The test was out of 30, and if a candidate received more than 24 points, they were deemed technically proficient enough to move on to a face to face interview. This expedited the interview process, reduced confusion and helped us make smarter hiring decisions.
+wade: Do you always develop a rubric for the open positions you're trying to fill?
+person: Mostly for technical positions. The strategy will differ dependent on the nature of the role. For example, if it's a graphic designer, a portfolio based review would differ because we'd have to suss out which portions of the portfolio were things they actually worked out (ie- they may have just done a banner ad on a website that already had most of the work done). I am a proponent of having a similar interview process across the board for consistency across the organization.
+wade: Great, would love to shift gears and learn about some functional skills.
+wade: Have you ever set up an ATS? If so which ones?
+person: iCIMS at Blue State Digital and most recently Greenhouse at General Assembly.
+wade: Have you established a network of tech contacts? If you had to recruit 10 engineers tomorrow where would you start?
+person: Yes. I would begin by talking with the hiring manager and gaining a few key understandings for the role- is this a backfill? If so, what did and didn't go well? Then, it'd be helpful to understand what are the measures of success in the role as well as the loosely planned growth within the role over the next six to twelve months (obviously, subject to change based on business needs and individual performance, but it's helpful to know when speaking with a candidate). Then, what type of vertical is important? If this is a client facing role in which someone needs to be able to present technology at a small agency, do we need someone out of marketing/advertising that has worked in a startup or can we look broader? From there, I'd leverage LinkedIn as well as Connectifier and Aevy if the tools were available tome.
+person: to me*
+wade: Very thorough! :smiley:
+wade: In your mind, what's the most challenging thing when hiring for a technical role? What's your strategy for overcoming this challenge?
+person: Though developers, QA engineers and other such candidates understand that the vast majority of recruiters aren't coders themselves, it's incredibly important to show technical proficiency when having a conversation. If they are entrusting you with their future, you need to show them respect in turn by knowing what you are talking about. For example, with QA engineers, it's important for me to know the distinction between manual and automation testing, what QTP and Selenium is, how JIRA works on a broad basis. The reason is, the more they trust that I know what I'm talking about, the more willing they'll be to move forward. I'm usually the first point of contact and represent the team, and I need to be knowledgeable about what I'm recruiting for. 
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: That's a great question that ties in to why I am excited about this opportunity- I'd like to gain the experience of being one of the first ten employees at a startup and being an impactful person on the product and culture. I have helped two organizations essentially double in growth in a year, but now I want to do more at an earlier stage of a company's existence.
+wade: So, what are things that personally motivate you to work at a startup?
+person: I am inherently a creative person who is motivated by the process of building something from the ground up. I like when things move fast and there's a bit of chaos for which I can leverage my experience to make a positive impact. 
+wade: Awesome! 
+wade: Would you like to hear a little bit about Wade & Wendy?
+person: I would love to.
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺ 
+person: That is awesome.
+wade: BTW, would love to know your thoughts about this experience!
+person: Absolutely- should I share now or discuss with Ian?
+wade: Please tell me. I'm always curious!
+person: This has been a blast! I've had a smile on my face for the past half hour, because this feels new and yet totally worthwhile for a candidate. I liked that there was about 3-5 seconds after I was done typing before you'd start writing- it didn't make it feel like the next question was automatic. The transitions were mostly good, including the 'shifting gears'. 
+wade: Great, thank you so much!
+wade: I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up.
+person: Absolutely. I am free now until about 3pm at 908-216-5521.
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I'm available.
+person: Thank you, Wade.
+wade: You're welcome! have a great day Jared!
+person: You too

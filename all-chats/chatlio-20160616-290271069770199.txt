@@ -1,0 +1,10 @@
+person: Yo bud
+wade: 
+wade: Good morning 0! It's nice to meet you.
+wade: Thanks for taking the time to chat today.
+wade: Think of this conversation as a way to expand on your relevant experience and learn a bit more about what the 0 role entails and what we're looking for in a candidate.
+wade: It's a lot like a regular interview...
+wade: ...except you don't have to dress up or worry about the firmness of your handshake. :wink:
+wade: Ready to get started?
+person: Yes, sure
+wade: Great! Let's jump right into my questions then...

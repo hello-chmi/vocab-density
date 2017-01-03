@@ -1,0 +1,102 @@
+wade: Wade wants to chat on Hangouts!
+person: hi
+wade: Hi Jerrit!
+wade: How are you today?
+person: good
+person: you?
+wade: I'm great!
+person: cool, i'm ready
+wade: Thanks for taking the time to chat!
+person: np
+wade: That's great! I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: Does that sound OK?
+person: yup
+wade: Great, so I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: I was most recently the CEO of a health tech startup called Canopy Apps
+person: we built language translation tech to help healthcare providers communicate with their non-english speaking patients
+person: goal was to improve healthcare delivery and outcomes for these patients
+person: and lower costs for health systems
+person: I left the company about 3 months ago
+person: right now, I've been on hiatus and exploring new projects to start, or companies to join
+wade: That all sounds amazing.
+wade: Tell me found your way to Canopy Apps.
+person: I don't understand
+person: you wnat to know how I got to canopy apps?
+wade: Yes
+person: I was recruited from Google
+person: i was a hired CEO
+person: the founders and parent company needed someone to could commercialize new tech
+person: which was what I was doing at google
+person: so they hired e
+person: me
+wade: Wow, that's great!
+wade: Before we move on, know that all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager.
+person: great
+wade: So looking ahead, is CEO a role you would like to continue to pursue? If so, what do you like about it?
+person: Yes, CEO, or head of sales and business development
+wade: That sounds great. Is there a space that you would like to do sales or business development in?
+person: tech, mostly health tech, finance tech, edu tech
+wade: Good to know.
+wade: Now when it comes to sales or business development, what are the functional skills you have that make you successful?
+person: I've built teams: done hiring both engineers and sales people
+person: I've built sales processes like marketing and sales automation
+person: I've done SaaS sales for over 7 years
+person: at large companies like Google and small companies like Canopy Apps
+wade: That is great experience.
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: more people management skills
+wade: Can you say more about people management skills?
+person: I'd like to learn how to better manage large teams. How to better delegate tasks
+wade: I see. Thanks!
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: I led my team to build a sales automation system
+person: that helped us generate more leads, scale outreach and do more pitches
+person: I loved that project because we were able to replace many of the manual processes we were using for prospecting, finding contacts, doing cold email outreach, and followup
+wade: That sounds like a major improvement!
+person: by building automation to scale these processes, we increased the number of pitches we were doing by 100% and we saved a ton of time
+wade: Wow!
+person: yes i was very proud of that project
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?
+person: yes, I'd like to work at another tech startup next
+person: I like them because they move fast
+person: speed is important to me
+wade: Can you say more about speed?
+person: I like when teams can make decisions quickly and act on them quickly
+person: it's the main advantage of many startups, and I like executing in that kind of environment
+wade: Understood. Thank you.
+wade: Would you like to hear about us at Wade and Wendy?
+person: sure
+wade: So in terms of the company...
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data.
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have engaging conversations to gain insights with both applicants and hiring managers. Just like this. 
+wade: ☺
+wade: And by the way, can I ask you what your thoughts are on this whole experience?
+person: thanks for that explanation
+person: yeah i have some feedback
+person: do you want it all here?
+wade: Anytime!
+wade: If you don't mind.
+person: 1. I didn't see invite to start the chat, had to search for you in gchat
+person: I can see how that can a barrier for some people
+person: 2. There were a few times in the conversation when there were long pauses without call to action. For example, when you said "The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!". There was then a 30 second pause, and I wasn't sure if you wante me to confirm to move on
+person: 3. your questions about how I found my way to Canopy Apps was a bit confusing because of the grammar, but I got it. You said "Tell me found your way to Canopy Apps."
+person: 4. Should tell the user that they will get a series of questions, better expectation setting
+person: 5. the content of the questions were generally good
+person: maybe should include questions about whether user is actively look for a new job - to identify active vs passive candidates
+person: 6. The pauses made the conversation feel more natural, but some of them were way too long
+person: They longer pauses encourages me to go do something else while waiting for the next question/comment
+person: that's it
+person: !
+person: good job wade
+wade:  OK. This is very helpful.
+wade: Thank you for your thoughts! I'm always learning!
+person: more power to you
+wade: If you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I’m available.
+person: sounds good
+wade: Thank you again for your time and your thoughts!
+person: no problem, have a good night
+wade: You too!

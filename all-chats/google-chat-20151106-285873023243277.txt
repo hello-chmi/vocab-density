@@ -1,0 +1,59 @@
+person: Hi Wade? 
+wade: Hi Ram, how are you today?
+person: I am good. How are you?
+wade: Very good thanks. And thanks for taking the time to chat.
+person: No problem. Thank you!
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: sounds great!
+wade: Awesome  ☺ So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: sure, happy to.
+person:  I am Masters students at RIT, majoring in Computer Engineering. I am very passionate about Machine Learning and Artificial Intelligence. 
+person:  My recent work experience in the industry includes working as a Design Engineer Co-op to develop an algorithm to detect drowsiness in truck drivers through a supervised machine learning approach.   
+person: the algorithm uses physiological signals from the wrists as input to predict and detect drowsiness. 
+person: Currently, I am working on my graduate research, that aims at developing an automated image captioning model through deep learning techniques.
+person: How is that?
+wade: That's great! Thank you for that. How has the experience been working on automated image captioning models? 
+person: I love it! It's been a very stimulating project.
+wade: That must be very rewarding.
+wade: So looking ahead, is data science a path you would like to continue to pursue? What do you like about it?
+person: Yes, absolutely. 
+person: I love being part of cutting-edge technology that makes our future better. AI and data science is th future. 
+person: It has a huge scope in various industries and above all there are not many hard and fast rules. 
+person: It is a field that allows one to be creative and analytical. Thus, I feel very interested to be a part of Artificial Intelligence and Data science. 
+person: Make sense?
+wade: Yes, definitely! Would love to shift gears and learn about some functional skills. Sound good?
+person: Sure
+wade: I see you were a TA. Do you have an example of when you had to explain a complex concept to a student?
+person: Yes, hhmm. So many! It was really a constant effort. I really enjoyed the process of teaching and mentoring. Breaking something complex into easy to understand components and seeing how they progress. 
+person: I've really enjoyed teaching NLP in particular. So many nuances to it and it's a very cutting age space to be in.
+wade: Thank you for sharing. Before we move forward, can you provide one specific example of a student that was having trouble with a concept and you had to explain in layman's terms?
+person: Sure
+person: One of the students was having a difficult time building a training model. He kept spinning his wheels and jumping between various approaches. So, he fell into the classic analysis paralysis state. To simply the process and provide comfort and I simply explained that all he needed were a high volume of exemplers, and with that we could then develop a correlation model to serve as a basis. In this case he was overwhelmed by the totality of project, but by breaking it down into easy sequential steps he was able to focus on the first priority. 
+wade: That's great context! Thank you. 
+wade: Have you had exposure to the Agile or Scrum Methodologies?
+person: Yes, a bit
+wade: Please tell me a bit about that
+person: We applied agile methodology to develop a wearable device to detect drowsiness among truck drivers. 
+wade: Very cool!
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: Good question. That has me thinking.
+person: I definitely want to work on a project that uses machine learning and AI to creatively solve a problem. As far as particular areas or skillsgo I would like to work on areas like Natural Language Processing and Computer Vision and not just regular data mining for prediction in e-commerce and customization.  
+wade: Thank you for sharing that, Ram.
+wade: What are things that personally motivate you to work at a startup?
+person: To me startups are very exciting as I have a chance to contribute to a project and my role would have a significant impact on the project. As a Design Engineer Co-op at Torvec, I developed the algorithm almost single handedly, and I don't think a big corporation would have entrusted me with so much responsibility. So, I found it very rewarding to have this kind of impact. 
+wade: Very cool. Do you have any questions for me, or any feedback you'd like to share about this experience thus far?
+person: I think this experience is very interesting, I have to say. I don't get to chat to many artificially intelligent bots! 
+person: I loved this conversation. I have had many interviews in the past 30-45 days and seldom have I experience such a personal connection with the hiring authority. 
+wade: Thank you, Ram  ☺
+wade: I'd like to share a bit about the company, if that's ok.
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have engaging conversations to gain insights with both applicants and hiring managers. Just like this.  ☺
+person: That sounds wonderful.
+wade: This has been very helpful, Ram. I’ll circle back in a couple days with potential opportunities for you to look at.
+wade: Also, since we're on chat, feel free to ping me anytime I’m available.
+person: That would be great. Thanks, Wade!
+wade: I hope to become your personal career assistant as you continue on your path of being the best you can be! ☺
+wade: Have a great day, Ram!

@@ -1,0 +1,89 @@
+wade: Wade wants to chat on Hangouts!
+wade: Hi Kathi, how are you today?
+person: Hi Wade, I am fine! Sorry for taking so long to find your invitation!
+wade: No problem at all, thanks for taking the time to chat.
+person: Thank you!
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!   
+person: This is new to me too, and I am very curious  ☺
+wade: Great! 
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Sure! 
+person: My most recent experience has been a summer fellowship at Insight Data Science in Manhattan. Insight is a 7-week intensive program that is designed to help people with Ph.D.s in the quantitative sciences move into data science in industry. 
+person: The program is 7 weeks long and in the first three weeks the goal is to build an interactive web-app start to finish
+person: In my project I chose to build a recommendation engine for rock-climbing routes (because I like rock-climbing) and the project involved web-scraping, lots of data cleaning and building the webapp. 
+person: You can check the result out here: climbfindr.com
+wade: Very interesting! Did the program meet your aspirations? 
+person: I only had 3 weeks to build it, so there are definitely more things I would like to add with more time. But I was very happy with the MVP after 3 weeks  ☺ And I had a lot of fun building it!
+wade: Fun is important  ☺
+wade: What motivates you to pursue a career in data science?
+person: I discovered during my Ph.D. work that I really love analyzing data and gaining insights from complex and messy data. So I knew I wanted to keep doing that kind of work, but I wanted to work on things that have a larger and much faster impact than academic publications typically do. When I found out about data science, it seemed like the perfect opportunity
+wade: What a great discovery!
+wade: Can you think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: Working on ClimbFindr was probably the most fun project I have worked on recently. The reason it was so exciting was because I got to learn so many new things in a very short period of time. It was also exciting because of the environment I was in: I was surrounded by 30 other data science fellows - everyone had a very different background and different areas of expertise - that were working on their own projects and eager to teach others and also learn new things
+person: It was also super exciting, because the project had a concrete goal and in the end I had a real product that I could share with others
+wade: Very cool, I see you recently climbed Matterhorn. That must have been thrilling. How long have you been climbing? 
+person: Yes it was very thrilling! It was a good mix of exciting and a bit scary  ☺ It's not a very technically difficult climb but it is long and quite exposed. I have been climbing for about 7 years
+wade: Sounds like an incredible experience!
+wade: What was the biggest lesson or takeaway when developing ClimbFindr?   
+person: Learning how to iterate fast on a project to stick to the timeline that was set by the fellowship. 
+wade: Great, would love to shift gears and learn about some functional skills.
+person: ok, sounds good
+wade: What problems have you experienced when dealing with a raw data set? What strategy did you have in addressing this?
+person: I can think of two problems: 1. understanding what an unfamiliar dataset represents and 2. messy data due to for instance missing values, inconsistent spelling etc. 
+person: To address the first problem, I like to do a lot of exploration, looking at things like the number of observations in a variable, the number of unique observations etc, plotting distributions and how variables relate to each other
+person: To address 2. get a sense of how much data is missing, try to figure out if that is random or something systematic, cleaning data with regular expression matching etc
+wade: Fantastic, very logical!
+wade: What class of algorithms have you used?  
+person: I've done analyses using classification algorithms (random forest, support vector machines, logistic regression ...). My dissertation work involved a lot of linear regression analyses. For climbfindr I needed to come up with a similarity metric and I used Cosine Similarity for that
+wade: Picking up from your research at Princeton, can you elaborate on the univariate and multivariate statistical methods you used to study neural mechanisms of natural scene perception and and attention?
+person: Sure! 
+person: For a lot of my research I used a method called functional magnetic resonance imaging, which allows you to essentially measure brain activity that you record while a participant is completing a task in an MRI scanner. 
+person: The first statistical analysis step when dealing with the data these experiments yields is usually fitting a linear regression to the brain response. 
+person: A brain response is measured for different locations of the brain and the goal of the analysis is to understand how much each location responds to the different conditions in your experimnet
+person: This analysis results in regression coefficients that indicate how strongly a certain location responded to the experimental condition. You can either work with averages of these coefficients (that is the univarate analysis) or feed them into for instance machine learning algorithms that let you look at patterns of activity across larger areas of the brain 
+wade: This is great, I love talking about data! :heart_eyes:  
+person: even more if there is a way to show it visually though
+wade: Absolutely!
+wade: So when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: Most of the data I have worked with in the past is experimental and so it was usually designed to address the questions I was looking to answer. I want to get more experience working with 'real-world' data and solving the challenges that are associated with it. I am also really interested in the intersection between data science and user experience and so I would love to gain experience using data science to inform product design
+wade: Awesome, very relevant for us  ☺
+wade: Is a tech startup where you want to work next?
+person: yes! Definitely!
+person: Because of Insight, I got to talk to lots of people working in different types of companies and the startup environment definitely was most appealing to me. 
+wade: What are things that personally motivates you to work at a startup?
+person: The fast pace, and excitement. And I get the feeling that often people working in a startup are really excited about what they are building and excited to face challenges. I want to be surrounded by people like that  ☺ 
+wade: Passion for what you do is critical! 
+wade: BTW what are your thoughts on this experience so far? 
+person: Definitely interesting! Very different from any other interview I have every done. I feel like it is a bit slower than talking because I feel inclined to think more about how I express myself. 
+wade: Is that a bad or good thing for you?
+person: I think it is a mix - it's good to be able to be more careful about what I am saying but I also feel a bit self conscious about taking long to respond
+person: and it is hard to gauge if I am doing a good job explaining something (like the fMRI analysis methods) without real-time feedback 
+wade: No problem here, I like long or short answers, thoughtful or not  ☺
+person: OK  ☺
+wade: So you know, all of our chats are kept confidential and secure. 
+This conversation will enter our database and be parsed for relevant data points. 
+What we do with that data is compare it across roles within a community of companies and open roles, to find the most relevant opportunities for you. 
+wade: Would you like me to tell you a little bit about Wade & Wendy?
+person: yes, that would be great!
+person: i am very interested in the product
+wade: So in terms of the company...
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.  
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+person: I see! I think it is really interesting to be talking to an AI recruiter. It is also a bit funny for me because just this week my husband (a philosophy professor) was teaching his students about the Turing test. 
+person: Not a relevant point here, but I just thought it is a funny coincidence
+wade: Cool, I'm a fan of Alan Turing! 
+wade: I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up.
+person: That sounds great!
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime.
+person: Awesome. I did have a few more question about the company - what you are looking for in a data scientist and what stage the company is that. Can you answer those or should I save them for the chat with Ian?
+wade: It would be best to speak with a human team member, I've already notified Ian and he will contact you shortly.  ☺
+person: Ok, sounds good! Thanks for taking the time to chat with me!
+wade: You're very welcome! And now that we've met, I will be able to re-engage with you to find out specific data points that may apply to any open roles within our community of companies.
+wade: I hope to become your personal career assistant as you continue on your path of being the best Data Scientist you can be!
+person: Awesome  ☺
+wade: Have a great day Kathi!
+person: You too!

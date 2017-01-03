@@ -1,0 +1,132 @@
+person: Heyp
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+wade: test yeag
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: Great!
+wade: I'd love to learn about you.
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: What are you up to these days?
+wade: Ready to answer some questions I have for you?
+wade: yeah
+wade: OK
+person: yes
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at Wade and Wendy or have you left?
+wade: Where were you before Wade and Wendy?
+wade: What did you do there?
+person: hey
+person: hey wade
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: I'm working at Wade &amp; Wendy
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at Wade and Wendy or have you left?
+person: still at Wade &amp; Wendy
+wade: Understood. Are you looking for new opportunities?
+person: not really
+wade: What's your role like there?
+person: I train an Ai, I write questions and predict things
+wade: Where were you before Wade and Wendy?
+person: I was at a social network called tsu
+wade: What did you do there?
+person: recruiting
+wade: What kind of role are you most interested in right this second?
+wade: I don't necessarily mean a title
+wade: But more what sounds most inspiring
+person: I really want to be a faciliator and psychologist
+wade: What's the number one skill you have that's carried you farthest in your career?
+wade: Moved you forward in the biggest way...
+person: product management for sure
+wade: Can you tell me more about your experience with product management?
+person: yeah I've launched products and managed lots of people
+wade: What are you looking to gain from your next role?
+person: I want learn how to expand how people think about bots
+wade: What's interesting to you about product management?
+person: I dunno just its fun
+wade: Where would your ideal job be located?
+person: Probably austin
+wade: What do you like about Austin?
+person: I think its a nice outdoor city
+wade: Would you be willing to move or work remotely?
+person: Sure, why not?
+wade: OK so you're in Austin -- now paint me the picture of your ideal job
+wade: What do you want to have to do day to day??
+person: That's a confusing sentence
+person: asdf
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: ;iuh
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at Wade and Wendy or have you left?
+person: jn
+wade: Where were you before Wade and Wendy?
+person: hj
+wade: What did you do there?
+person: iuh
+wade: What kind of role are you most interested in right this second?
+wade: I don't necessarily mean a title
+wade: But more what sounds most inspiring
+person: asdf
+wade: What's the number one skill you have that's carried you farthest in your career?
+wade: Moved you forward in the biggest way...
+person: asdf
+wade: What are you looking to gain from your next role?
+person: xc
+wade: Where would your ideal job be located?
+person: sdf
+wade: Would you be willing to move or work remotely?
+person: sdf
+wade: Paint me the picutre of your ideal job
+wade: What do you want to have to do day to day??
+person: sdf
+person: sd
+wade: If I were to present you with two opportunities--
+wade: one at a seed-funded startup and another at an established Series B company that you've heard of or whose product you've used.
+wade: Which of the two would you ask me to present you to?
+person: sdf
+wade: I'm gonna keep checking back and asking you questions like this
+wade: I might even shoot over role descriptions that I'll have you up/down vote...
+wade: Your answers will help me to get a better handle on what you're aiming for
+wade: Sound good?
+person: yes
+wade: Is there anything you'd like me to help you with right now?
+person: I'm good
+person: asd
+person: Heyo
+wade: 
+wade: 
+person: Hi Wade
+person: hey

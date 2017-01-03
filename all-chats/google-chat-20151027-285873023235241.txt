@@ -1,0 +1,392 @@
+person: Greetings Wade. Long time, no see!
+person: How do you do?
+wade: I do fine!
+person: testing
+person: should do nothing
+person: /help
+person: /bot help
+person: /bot iamspartacus
+person: hi
+person: /bot yo
+wade: Joshua Brandoff: Unknown Command
+person: hi
+person: /bot test
+person: test
+person: hi
+wade: yo
+person: /bot yo
+person: /wade yo
+person: please ignore this msg
+wade: say hi
+wade: say hello
+wade: say hi
+wade: say hi
+wade: say how are you?
+wade: hi dude
+wade: sup dude
+wade: this is cool beans
+wade: hi brah
+person: sup
+wade: :wink:
+person: testing incoming relay
+wade: cool
+person: you can ignore msgs from me  ☺
+wade: I will
+person: new test
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: sup
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: testing
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: test
+person: sup
+person: test
+person: sup
+person: test
+wade: sup
+person: not much
+person: how goes it
+wade: is all good
+person: nice
+wade: isn't this cool that it's working!
+person: yes, but i wish boto3 ran db calls inside asynchronous functions
+wade: i think you should stop talking to yourself
+person: i agree sir, i agree.
+wade: brah you so dark
+person: i know
+wade: Other Josh didn't hear that because we didn't use the magic word
+person: watch u say?
+wade: sup
+person: suppp
+person: yooo
+person: test
+person: test2
+person: test3
+person: test4
+person: test5
+wade: yo dawg
+person: sup brah
+wade: yo yo 
+person: sup
+person: test test
+wade: yooo
+wade: sup
+wade: How are you? I am fine!
+wade: Sentence onesentence two
+wade: setencence one sentence two
+wade: yo gabba
+wade: How are you?
+wade: I am fine. Isn't this cool?
+wade: :hushed:
+wade: :smiley:
+wade: :unamused:imple_smile:
+wade: :smiley:
+wade: Hi! :smiley:
+wade: Back to the futureeee
+person: :hushed:
+person: yeeeeeeaaaah  ☺
+person: test
+wade: hmm
+person: uh oh
+person: uh oh
+wade: test
+person: test u back
+person: k working again
+person: :smiling_imp:
+person: :dizzy_face:
+wade: ;/
+wade: :confused:
+wade: :wink:
+person: 
+person: oh wow it transfers the image  ☺
+person: i wonder if we can send images back...
+wade: Or PDFs?
+wade: sending public link of an image i uploaded: <https:confused:/slack-files.com/T0FPL0NN5-F0G6S1FCM-e4fb195cb9>
+person: so outgoing from slack not so much but lets see incoming...
+person: 
+person: ok they can definitely send images
+person: let me try a pdf
+person: has to be JPG GIF or PNG
+person: 
+person: they can take a photo if it w/ their webcam and send it  ☺
+person: 
+person: went to slack too lol
+wade: :raised_hands:
+wade: #blindedbythepic
+person: :hankey:
+wade: #touche
+person: going to try a quick typing test thing now...
+person: What's up?
+person: ok thats annoying
+person: test
+wade: What's up?
+person: i tried having it send 'typing' text and its annoying if its too frequent
+person: trying to tie it directly into slacks typing indicator but i might only be able to do that for an actual user
+person: test
+person: test
+person: sup
+person: Yo!
+person: Sup
+person: Sup!
+wade: yo
+person: sup
+wade: test
+person: Sup
+person: Sup boiiii
+wade: test
+person: sup
+person: test
+person: yo
+wade: sup
+person: yo diggity
+wade: yo dawg
+wade: Hi!
+wade: Yo what's up dog!
+person: \yo
+wade: Hi how are you?
+wade: Yo some long message.
+wade: whassap bro
+person: nada mucho amigo
+wade: Good evening sir.
+wade: How do you do?
+wade: Very long message...
+person: Wade yo
+wade: yo
+person: Yo
+wade: yo yo 
+wade: test
+wade: test
+person: yo test yo
+wade: test yo test
+wade: test3
+person: test3 back
+person: test4
+wade: test yoself, don't wreck yoself
+wade: test5
+wade: test6
+person: test7
+wade: yo diggity
+wade: test out
+person: test in
+wade: test
+person: test2
+wade: test1
+person: test2
+person: test
+person: test
+wade: test
+wade: test
+person: test2
+wade: test3
+person: \tes5
+wade: test6
+wade: test123
+person: test456
+wade: test789
+person: test012
+wade: yo
+wade: test
+wade: test2
+person: test2
+wade: test3
+wade: test
+person: sup
+wade: yo wade
+person: Sup dude.
+person: \hi
+wade: lol
+wade: Hi, I'm Wade.
+person: yo
+wade: sup!
+wade: yooo
+wade: a
+wade: Yoooo
+person: Sup
+wade: hi
+person: sdflksjdlksjdflkjsdflkjsfljdkdkdkfjsjdjfjdjfjdkfjsldkfjsldkfjsldkfjdkfjsldkdfjkdkfjdkfjdkfjslkdjfkdkfjskdkfjdkslfjsldkfjsldkfjsldkfjsldkfjdjfkdlsjfkdkskdljfkdlfjsldkfjsldkfjsldkdkdkdkfjslfjdkflskdjflskdjfkddkflKS DLFKDLFDSFK LDFKSDFL K bit i a dfsjglskdgjsdksdfjlslgkdgjsdgksdg
+wade: Wade &amp; Wendy
+wade: Wade & Wendy
+wade: test
+person: sdfsdflkjlkjlkjlkjlkjsdfks
+person: test test
+person: test
+person: 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960
+wade: test test
+wade: Hi Josh! There's an opportunity at <http:confused:/philosophie.is> I'd like you to take a look at and consider. If you like what you see, I'll be able happy to have Wendy present you to the Hiring Manger.
+wade: yo
+wade: yo
+wade: dialog
+wade: dialog
+wade: &lt;img src="https:confused:/lh3.googleusercontent.com/-Cdnc3EgEPc4/VnRF0GVU-AI/AAAAAAAAABI/xmn1M8m4tAg/s0/200.gif"/&gt;
+wade: <mailto:josh.brandoff@gmail.com|josh.brandoff@gmail.com>
+wade: "<mailto:josh.brandoff@gmail.com|josh.brandoff@gmail.com>"
+wade: &lt;josh.brandoff@gmail.com&gt;
+wade: <mailto:josh.brandoff@gmail.com|josh.brandoff@gmail.com>
+wade: Hi Joshua, how are you today?
+wade: Hi Joshua, how are you?
+wade: Hi Joshua, how are you today?
+wade: Hi Joshua, how are you?
+person: test2
+person: test3
+person: test2
+person: test3
+person: test4
+person: test5
+person: testA
+wade: testB
+wade: testC
+wade: testG
+person: yoyo
+wade: test1
+person: test2
+person: test3
+person: yoooo
+wade: test3
+person: test4
+wade: test5
+person: test6
+wade: Hi Joshua, how are you?
+person: Doing well. Thanks!
+wade: HI Joshua, how are you doing today?
+person: Doing fine. How are you?
+wade: Hi Joshua, how are you?
+person: Doing fine. How are you?
+wade: Hi Joshua, how are you?
+person: Doing great, thanks. How are you?
+person: Yes, now is a great time!
+person: Cool beans!
+wade: yo dawg
+wade: HI Joshua, how are you doing today?
+person: Doing fine and you?
+wade: Hi Joshua, how are you today?
+wade: HI Joshua, how are you doing today?
+person: I'm doing fine. How are you?
+wade: Very well thanks!
+wade: Thanks for taking the time to chat with me today! Is now still a good time?
+person: Yes!
+wade: Perfect!
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+My goal is to start to understand user experience, train my artificial intelligence, and of course get to know you! 
+Does that sound alright?
+person: Yes
+wade: TESTING: END OF SCRIPT. PLS MOVE TO LAST EXPERIENCE SCRIPT.
+wade: Hi Joshua. how are you doing today?
+person: Doing swell!
+wade: Thanks for meeting me here for chat today. Is now still a good time?
+person: Yes
+wade: Awesome!
+wade: I appreciate you being adventurous to speak in this medium. To be honest it's a little new for us. The goal of the chat is to start to understand user experience, train my artificial intelligence, and of course get to know you! Does that sound alright?
+person: Sounds okay to me.
+person: Yes
+wade: So I'd love to learn more about you. To start, can you fill me in &lt;b&gt;briefly&lt;/b&gt; on your most recent experience and what you're up to these days?
+person: I am currently heading up engineering at Wade & Wendy. It's really fun to put a team together at a startup!
+wade: Sounds amazing!
+wade: Can you talk a bout a specific project that you were excited about working on the startup?
+person: Well, sure. 
+person: I built a few Slack integrations and it was challenging and exciting. My most recent integration was Watson Dialog to Slack!
+person: It was fun.
+person: hello?
+person: braaahhhh
+wade: yes son?
+wade: Hi Joshua, how are you?
+person: I'm doing great. How are you?
+wade: y
+wade: Doing well, thank you for asking.
+wade: And thanks for taking the time to chat! Is now still a good time?
+person: Yes
+wade: Awesome!
+wade: I appreciate you being adventurous to speak in this medium. To be honest it's a little new for us. The goal of the chat is to start to understand user experience, train my artificial intelligence, and of course get to know you! Does that sound alright?
+person: Sure
+wade: So I'd love to learn more about you. To start, can you fill me in &lt;b&gt;briefly&lt;/b&gt; on your most recent experience and what you're up to these days?
+person: Sure. I'm an engineer at Wade & Wendelton.
+wade: Sounds like a great experience!
+wade: Can you talk a bout a specific project that you were excited about working on the ?
+person: Sure I did some Watson integration stuff. It was fun1
+wade: Sounds interesting!
+wade: What's about this  that excites you?
+person: I like trying new things!
+wade: Did you meet with any challenges while working on these...new things?
+person: Yes. They were hard!
+wade: That's awesome!
+wade: OK. About the role you applied, I have some questions for you.
+wade: 1. Do you test your code?
+person: No
+wade: 2. Do you stay up to date on the latest languages?
+person: HELLZ YEAAHHH
+wade: 3. Do you have experiences in game development?
+person: No
+wade: This has been very helpful. I'll circle back with you and any other questions that might come up soon.
+wade: Before I go, can I ask you what your thoughts are on this experience?
+person: I thought it was a really fun experience!
+wade: Also, how likely would you be to recommend this experience to a friend? On a scale from 1 to 10 that is.
+person: 5
+wade: Hi Joshua. how are you doing today?
+wade: What do you see yourself doing in the long-run?
+wade: Hi Joshua, how are you today?
+wade: Hi Joshua, how are you today?
+person: Great how are you?
+wade: Hi Joshua, how are you?
+person: Great how are you?
+wade: Very well thanks!
+wade: And thanks for taking the time to chat! Is now still a good time?
+wade: Hi Joshua. how are you doing today?
+person: Great how are you?
+wade: Hi Joshua, how are you today?
+wade: Hi Joshua, how are you today?
+person: Doing great how are you?
+wade: Hi Joshua, how are you?
+person: Doing great, and you?
+wade: Perfect!
+wade: thank you for taking the time. Is now still a good time?
+person: Yes! 
+wade: Awesome!
+wade: I appreciate you being adventurous to speak in this medium. To be honest it's a little new for us. The goal of the chat is to start to understand user experience, train my artificial intelligence, and of course get to know you! Does that sound alright?
+wade: What do you see yourself doing in the long-run?
+wade: HI Joshua, how are you doing today?
+wade: Hi Joshua, how are you?
+person: great u?
+wade: Great to hear!
+wade: Thanks for meeting me here for chat today. Is now still a good time?
+person: yea
+person: yeah
+person: sure
+wade: Awesome!
+wade: I appreciate you being adventurous to speak in this medium. To be honest it's a little new for us. The goal of the chat is to start to understand user experience, train my artificial intelligence, and of course get to know you! Does that sound alright?
+person: yes
+wade: So to start, can you fill me in on your most recent experience and what you're up to these days?
+person: no
+wade: sup
+wade: test

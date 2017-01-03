@@ -1,0 +1,16 @@
+person: Conversation Fail Tommy
+wade: yes yes
+wade: I know
+wade: Soon soon
+wade: /chatlio operator-name
+person: _Name forwarding *ON*. Your Chatlio widget will show operators' first name and intial to visitors._
+wade: asdfion
+person: So does this interface notify the user if they change to another window?
+wade: nope
+wade: over to you josh
+wade: that would require access to chrome api
+wade: we get timeouts
+person: ah ok
+person: it would be good because users might use other windows to get info
+person: during the interview process
+wade: Agreed

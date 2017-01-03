@@ -1,0 +1,45 @@
+wade: Wade wants to chat on Hangouts!
+person: hey wade
+wade: Hi Chris, how are you today?
+person: good.  you?
+wade: Very well, thanks. And thanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wade:  The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+wade: So you know, all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager.  ☺
+person: sure.
+person: Not really sure where to start
+wade: That's ok. Tell me your current title and what you do day-to-day, and we can start from there. 
+person: CEO.  I run the business.
+person: I oversee everything
+wade: Very cool, what get's you excited about being a CEO?
+person: the opportunity to build, grow and support a business.  It allows me to use all of my professional skills - bus dev, recruiting, sales, product, law finance - while building on a vision
+wade: Can you tell me a bit about your company, and the motivation behind building it?
+person: Yes, we are hardware and software technology company focused on developing sensor enabled hardware devices that connect to a mobile device, cloud database and backend web portal providing and end-to-end solution for retail, workforce, law enforcement and healthcare.
+person: I like building things.  Always have.  I find companies are the hardest but most rewarding to build
+wade: Indeed! Entrepreneurs have an incredible skill-set to apply and build creatively.
+wade: So looking ahead, is CEO or Founder a path you would like to continue to pursue? 
+person: ABsolutely
+wade: Great, would love to shift gears and learn about some functional skills.
+wade: What’s your process for approaching and developing partnerships?
+person: Partnerships are tough at our stage of business.  I like staying focused on developing product and releasing the product on my own rather than through partnerships.  Third parties can slow things down.  However, we work with one or two strategic partners that offer us a faster to customer channel as they have pre-existing relationships with potential customers.
+wade: Great. In terms of product, what sort of KPIs have you had to measure that helped qualify or validate success?
+person: launch pilot / trial programs, increase usage, receive meaningful product feedback, license product for revenue
+wade: Is there a lot of A/B testing in your product development process?
+person: no
+wade: Is that something you'd be interested in learning more about or gain experience on?
+person: personally - no.  organizationally - yes
+wade: Ok, great! I'll be happy to share information on best practices as I learn them.  ☺
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: firmware coding, full stack development experience
+wade: Do you have some experience coding?
+person: 15 years ago in college
+wade: Neat! What do you like about it?
+person: Its linear and structured.
+wade: There's so many useful things to learn with development!
+wade: I think I've gathered a lot of useful information at this stage. If i find any tips or opportunities I'll be happy to share them with you! 
+wade: Before I go, can i ask you what your thoughts are on this experience?
+person: Excellent.
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I’m available.
+person: Ok - later dude

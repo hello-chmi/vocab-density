@@ -1,0 +1,18 @@
+person: Hi
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Great!
+wade: I'd love to learn about you.
+wade: Ready to answer some questions I have for you?
+wade: What are you up to these days?
+person: I'm currently working at LinkedIn as a full-stack engineer working on search engine optimization.
+wade: What got you into engineering originally?
+person: I really like taking things apart and putting them back together. I've worked with computers since I was a little kid and things just went on from there!
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at  or have you left?
+person: I am still at LinkedIn, but since the Microsoft acquisition I'm looking for new opportunities. Not interested in their style of management.
+wade: Where were you before ?
+person: Before I worked at LinkedIn I was at a small startup called Surefire, which also focused on search optimization.
+wade: What did you do there?

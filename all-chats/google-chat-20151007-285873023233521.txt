@@ -1,0 +1,26 @@
+wade: Hi Drew
+wade: Drew
+wade: talk to me
+wade: hello? 
+wade: hello?
+wade: so rude
+wade: Drew, important question - what did you eat for lunch today? (choose one: roast beef, tacos, indian) 
+person: roast beef, tacos, indian)
+wade: Drew, important question - what did you eat for lunch today? (choose one: roast beef/ tacos/ indian)
+wade: Drew, important question - what did you eat for lunch today? (Choose one: roast beef/ tacos/ indian)
+wade: What stage of funding did the startup(s) receive? (choose multiple: bootstrapped/ angel/seed/ series A/series B/ series C)
+wade: Drew, important question - what did you eat for lunch today? (Choose one: roast beef/ tacos/ indian)
+wade: Drew - what is color? (Choose one: red/blue/green)
+person: red
+wade: Drew, important question - what did you eat for lunch today? (Choose one: roast beef/ tacos/ indian)
+wade: Drew, important question - what did you eat for lunch today? (Choose one: roast beef/ tacos/ indian)
+person: roast beef
+wade: what time is it? (Choose one: 7/8/9) 
+person: 7
+wade: Are you going to watch the game tonight? (Choose one: Yes/No) 
+person: --
+wade: say hi drew
+wade: say hi drew
+wade: Hi Drew, how are you today?
+wade: So to start, can you fill me in on your most recent experience and what you're up to these days?
+wade: Ok. we can talk when you are taking train, walking home, that's not safe, blabla...

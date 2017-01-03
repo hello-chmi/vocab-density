@@ -1,0 +1,55 @@
+person: hi
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: Yes I would
+person: yes
+person: yes
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: yes
+wade: Great!
+wade: I'd love to learn about you.
+wade: What are you up to these days?
+person: I recently joined Wade &amp; Wendy as a developer working on conversational AI.
+wade: OK
+wade: Let me put my recruiter hat on and go through your resume with you
+wade: To jump right in, are you still at Wade &amp; Wendy or have you left?
+person: I am still at Wade &amp; Wendy.
+wade: Understood. Are you looking for new opportunities?
+person: Yes
+wade: What's your role like there?
+wade: Where were you before Wade &amp; Wendy?
+wade: What did you do there?
+wade: What kind of role are you most interested in right this second?
+wade: I don't necessarily mean a title
+wade: But more what sounds most inspiring
+wade: What's the number one skill you have that's carried you farthest in your career?
+wade: Moved you forward in the biggest way...
+wade: What are you looking to gain from your next role?
+wade: Where would your ideal job be located?
+wade: Would you be willing to move or work remotely?
+wade: Paint me the picutre of your ideal job
+wade: What do you want to have to do day to day??
+wade: If I were to present you with two opportunities--
+wade: one at a seed-funded startup and another at an established Series B company that you've heard of or whose product you've used.
+wade: Which of the two would you ask me to present you to?
+wade: I'm gonna keep checking back and asking you questions like this
+wade: I might even shoot over role descriptions that I'll have you up/down vote...
+wade: Your answers will help me to get a better handle on what you're aiming for
+wade: Sound good?
+wade: Is there anything you'd like me to help you with right now?
+person: fun
+wade: pretty sure I timed out...
+wade: Not great at the moment at picking up where I left off when I’ve been ignored for so long...
+wade: just sayin
+person: ok whatev
+person: waddddddddddddde
+wade: Oui?
+wade: Darn – that slash command didn't work. If you see this message more than once we suggest you contact <@U1EQ7HXFC>&gt;.
+wade: Still not working

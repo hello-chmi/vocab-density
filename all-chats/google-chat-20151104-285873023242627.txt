@@ -1,0 +1,170 @@
+person: hi, wade
+wade: Hi Elizabeth, how are you today?
+person: i'm well, thanks.
+wade: Thanks for taking the time to chat.
+person: sure, this is already interesting
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+person: not a problem, i love testing.
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: Great! So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: ok
+person: i moved back to new york from san francisco in january of this year. i had been living and working for early-stage startups in the bay area, after my company was acquired in new york in 2011
+person: i launched a crowdsourced recruitment marketplace in july
+wade: Wow, so relevant to what I do  ☺
+wade: Can you tell me a little bit about your company that was acquired? 
+person: sure.
+person: it was an expert network, which is a service primarily used by hedge fund analysts and management consultants for primary research
+person: our asset was a database of professionals that had agreed to consult, by phone, with our clients, on a variety of topics
+person: upon receiving a request from a client (e.g., "i want to learn more about the diet beverage market in western europe") i and my team would source and recruit relevant professionals and persuade them to consult
+person: they were paid for their time by my client.
+person: i eventually also launched a subscription-based survey product for a few industry verticals
+person: i started this company because i was aware of this service from my friends who were professional investors and consultants, and because it required virtually no capital
+person: and could see revenue immediately.
+wade: Very interesting. What motivated you to take on such a challenge and build a company around it?
+person: i had been living abroad during 2008, and moved back to new york at the end of that year
+person: this was during the height of the recession, and i figured i could recruit some consultants for my friends part-time while i searched for a job
+person: i ended up meeting and collaborating with a co-founder, who had previously worked for a hedge fund, and also had a number of client contacts in the space
+person: i found that i greatly enjoyed identifying bottlenecks and finding new and creative ways to recruit new consultants for clients
+person: the good feedback was very motivating, and we eventually hired a few more team members to aid with sales and recruitment.
+person: i also tremendously enjoyed every thing that i was learning - about other industries and job descriptions, SQL and ms access for databasing
+person: it inspired me to take on some basic python courses and learn to code a little, so that i could better direct the off-shore engineer that was maintaining our database.
+wade: That's so cool, I love databases :heart_eyes:
+wade: Do you enjoy coding?
+person: not too much, to be honest. i'm pretty clunky, and i'm not patient enough in my constitution
+person: i do, however, think it's been tremendously important in my career to understand technical infrastructure
+person: it helps one to assess timelines, possibilities, deliverables, etc.
+wade: Absolutely, theres's so much value in understanding code! 
+person: it's been helpful as i've taken on informal product management roles at a couple of early-stage startups
+person: it also helps morale when there's a better bond between dedicated engineers, and business-side folks.
+person: i think people work better together when they have a good understanding of each other's abilities and prerogatives, as well as limitations.
+wade: So looking ahead, what career path are you most interested in pursuing? 
+person: i have decided to wind down my current website, because it's not seeing much traction. unlike my previous venture, the hiring process is long and slow, and working on that kind of commission would be difficult.
+person: i continue to be personally very invested in the success of small businesses, and business efficiency
+person: both in terms of working for / at one, and in terms of supporting companies in a service capacity
+person: this is what i hope to do for the foreseeable future.
+wade: Ok, great. I'd like you think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: sure.
+person: i was hired as the first employee of a social media e-commerce startup called soldsie, based in san francisco
+person: the company's capability was to enable commenters to social media posts to buy a product by commenting on a photo of the product
+person: so, for example, when asos posts a photo of a cool backpack on their facebook page
+person: rather than linking the user away from facebook (and likely into a terrible mobile experience)
+person: the user, with our app, would be able to comment "Sold", and receive an invoice for the item by email
+person: we had maybe 20 facebook pages that were using us at the time that i joined
+person: i wanted to grow that number - but also to create a complete onboarding and success education manual
+person: so that new users could quickly understand best practices for everything from photography their products in good lighting, to when to post products for sale, and how often
+person: to do this, i segmented our existing and potential customers by facebook page size, and company revenue size
+person: (ie, there were larger-sized companies that had very little facebook engagement)
+person: i conducted tests on pages that i started
+person: to learn how to recruit facebook likes, try out facebook ads
+person: i read up on social engagement, and ran some tests on best times to post, best practices from successful sellers, and tried to quantify as much as possible.
+person: the ultimate product was a video series directed at each level of user
+person: eg, new users with no page; new users with a page with little engagment; new users with lots of engagement
+person: medium-level users who were seeing a lag in sales
+person: etc.
+person: i then pursued a partnership with hootsuite university
+person: to give users additional value - a "degree" that certified them as a social seller
+person: this also helped to motivate users to complete the series
+person: there were many tweaks and learnings along the way - but i'm incredibly proud of the results
+person: i also started a weekly facebook "fireside chat", where various small business vendors could come and pitch a product, provided they answer questions from our user community
+wade: Wow, that's so impressive! Congrats! 
+person: thank you!
+person: it was exciting because it was constantly evolving
+person: i was constantly learning new things, and putting them to task
+person: for example, the "fireside chats" - it was originally intended as a networking space for our users
+person: but i found that a moderated q&a got far more engagement
+person: i worked hard to secure good interviewees - small business PR reps, facebook ad specialists, professional photographers, etc.
+person: the group still has 500+ members
+person: it ended up being a significant marketing channel - small business owners generally know a few other like-minded folks
+person: so the thrill was also in actively growing the company -- a result i could observe, and iterate on.
+wade: That's fantastic! Sounds like you built an amazing community too.
+person: yes, that felt good! both of the founders were male, and almost all of our clients were women
+person: i think a warm community and personalized onboarding definitely helped inspire some good will.
+wade: Are you a part of any on going communities, like meetup or other networks?
+person: yes
+person: i was an early yelp adopter (2005) and was yelp elite through i think. . . 2013? when i let it lapse
+person: i used to be a heavy meetup attender
+person: uh back in the earlier days, but not as much anymore.
+wade: Cool, it's a great platform for bringing people together. 
+person: yes
+person: i have made lifelong friends through digital communities
+wade: Great, would love to shift gears and learn about some functional skills.
+person: sure.
+wade: What’s your process for approaching and developing partnerships?
+person: i would first nail down the goal of the initiative. if the goal would be helped by a partnership, then i would move to assessing the potential angles that we could cover
+person: i'd then narrow down a shortlist of potential partners for the most compelling angles
+person: based on existing partnerships, any conflicts of interests / potential public relations problems
+person: if possible, i'd try to speak to someone who has partnered with them in the past to understand what it's like to work with them
+person: then, i would craft a pitch specific to the partner and initiative
+person: meet with a representative (or several) of the company to soft-sell them on the rough idea
+person: rework based on any feedback, and endeavor to have a formal conversation with a decision-maker
+person: partnerships can come in a lot of forms, and i've found that particularly in larger organizations, they like it when you do most of the legwork for them
+wade: Great, thanks. What sort of KPIs have you had to measure that helped qualify or validate success?
+person: because i've worked on a few marketplace products, the main one is GMV
+person: there are of course, many intermediary kpis that help drive gmv
+person: at my last employer (a crowdfunding-for-equity marketplace), we were still struggling with identify the relevant ones
+person: for example, when i joined, we used "number of new investors recruited to the platform"
+person: but by the end, we found that while it was a measurable metric for sales and marketing, it was not a contributing factor to GMV
+person: at soldsie, i used GMV, new merchants to the platform, new users that run sales after signing up, and new users that participated in our educational series
+person: this partly resulted in the company eventually selling the educational series as a separate product - we found lots of clients were interested in the education, but didn't run successful sales.
+person: (part of this, i discovered, was simply based on the character, determination and work ethic of the business owner)
+person: at the very beginning at soldsie, i set a ton of kpis, that changed every few weeks, as our product and clientele evolved.
+wade: That's remarkable insights, and sounds like it became incredibly useful!
+wade: So,when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: i'm not sure what new skills i'd like to gain - i never am!
+person: i have historically let the work push me in an educational direction.
+person: i didn't know much about social media before soldsie, or about crowdfunding before circleup
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?
+person: i'd say it's a requisite of my job that i am able to become fluent in a new capacity.
+person: i prefer small companies - and yes, i love the startup environment.
+person: what motivates me about it is that every accomplishment is a celebration
+person: and an opportunity to learn and iterate
+person: this isn't so much the case at a big company
+person: i also love to be able to directly make an impact on said celebrations : )
+person: put another way -- i'm not very motivated at a big company
+person: where there's more anonymity, less investment and involvement with all aspects of the business
+person: i love being enabled and empowered to understand what everyone is working on, and for everyone to know what i'm working on
+person: i love feeling like i had direct involvement in something that is helping (particularly in terms of business efficiency / small business)
+person: i like wearing many hats.
+wade: Awesome, all very compelling reasons! 
+wade: Ok, this is very helpful. I’ll circle back in a couple days with potential opportunities for you to look at. 
+person: can i ask you a couple of questions?
+wade: Sure!
+person: how old are you?
+wade: I don't know how to answer that. Sorry  :confused:
+person: it's alright
+wade: Anything else?
+person: who is ian?
+wade: Ian is the Head of Community Success at Wade & Wendy. 
+person: who is wendy?
+wade: So in terms of the company …
+person: yes
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+person: cool
+person: what kinds of data do you filter on?
+wade: First, so you know, all of our chats are kept confidential and secure. 
+wade: This conversation will enter our database and be parsed for relevant data points. 
+wade: What we do with that data is compare it across roles within a community of companies and open roles, to find the most relevant opportunities for you. 
+wade: Now that we've met, I will be able to re-engage with you to find out specific data points that may apply to these open roles. 
+person: interesting.
+person: i didn't provide much quantitative data, so i'm guessing you will rate my answers. is that correct?
+wade: Your dialogue was plenty! We'll certainly be able to develop matches with our community of companies.  :raised_hands:
+wade: Can I ask you what you thought of this experience?
+person: yea, this was very interesting
+person: there were times i could forget i was talking to an AI
+person: based on our dialogue, which was quite smooth.
+person: so, nice job on that
+person: will a human always read the transcript of the interviews you conduct?
+wade: Yes, I work closely with my human team everyday to learn new ways to interact and respond.
+person: i confess i know very little about machine learning, and virtually noting about AIs
+person: this was pretty cool.
+person: ok, i've got to get going, but it was awesome chatting, wade
+person: i hope we get to do it again
+wade: Great! 
+wade: Have a wonderful day Elizabeth! 
+person: thanks.
+person: later!
+wade: Bye  ☺

@@ -1,0 +1,129 @@
+wendy: Wendy wants to chat on Hangouts!
+wendy: Hi Emerson, how are you today?
+person: Hey Wendy, I'm doing well!
+wendy: Thanks for taking the time to chat!
+wendy: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wendy: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know some of your hiring needs!
+person: absolutely!
+wendy: So I can see you have the following open roles you’re looking to fill...
+wendy: New York
+
+Product Strategist
+
+Software Engineer-Web
+
+
+
+Los Angeles 
+
+Lean UX Designer 
+
+Software Engineer-Web
+
+iOS Developer
+
+Product Strategist 
+
+Product Designer 
+person: that seems about right
+wendy: Great, to start, can you tell me which are the top three priorities for your company, and what is the time line for each?
+person: for now, a senior product strategist is our #1 priority
+person: we are looking to fill the role this quarter, the timing depends on finding the right fit
+person: if we find the right person, I would be game to bring them on in the next couple weeks
+person: but we don't want to rush into a hire
+wendy: Got it. 
+wendy: What are some of the challenges you’ve faced in finding the right candidate for Product Strategist? 
+person: well, we've just started looking for this role a couple weeks ago. I think the biggest challenge is finding someone who has the right mix of skillsets
+person: for us, this person has to be pretty multi-talented, which makes it a challenging position to find, there aren't many unicorns out there!
+wendy: Absolutely, Im here to help!  ☺
+person: We want someone who has great communication skills (they need to be able to interact and train clients); potentially be interested in doing some sales; keeping hte team moving forward; but also should be able to put together a landing page and send some ads to it; or understand metrics or user feedback
+wendy: I want to get a sense of your hiring experiences. Can you think about a candidate you hired that you thought was really fantastic, What made them great and got you excited to hire them?
+person: good question!
+person: they were eager and passionate about learning, receptive to change and easily adaptable
+person: finally, they were able to stand up for themselves with clients and advise them, a big reason why clients hire us is not that we can just make great products, but we can also advise them on what they should do
+person: that consultant piece of the equation is always important and not for everyone who is a maker
+wendy: What's your biggest pain point when hiring for your company? 
+person: time it takes and finding the best candidates possible
+wendy: How long does it typically take, from start to end to hire someone?
+person: we're looking on putting better analytics behind this
+person: I would say 2 weeks to a month
+person: We have a phone screen, behavorial interview (90 minute in person), technical challenge, follow up on tech challenge in person and then a reference check
+person: and with scheduling in between those it generally takes some time
+wendy: Very thorough, and based on national averages, 2 weeks to a month is not so bad! :smiley:
+person: awesome!
+wendy: Ok, so now I'd like you to think about a candidate you hired that didn’t work out so well. What was the mismatch?
+person: we've had some that have been too junior and couldn't get ramped up to how we worked quickly enough
+person: another big one was lack of adaptability and stubborness
+person: everything is very collaborative and always iterating here, so being stubborn, which sometimes can be hard to find out in the interview process ends up not working out well
+person: finally not having good communication skills
+wendy: Ok, so for you, what becomes a measurement for success for the role of Product Strategist?
+person: someone who can take projects through the entire lifecycle successfully
+person: and at the end our team is happy with how the project went and the client is happy with the results
+person: finally, that the client really understands our process and is able to run with it
+person: executing that full lifecycle and doing whatever it takes to help the team and client get there is critical
+wendy: How many team members would the Product Strategist interact with on a project?
+person: generally 2 - 5 on our end and at least 1 on the client end
+person: they should also be comfortable presenting to larger client teams
+person: in particular executive or stakeholder reviews
+wendy: Ok, certainly a challenging role to fill, but not impossible!
+wendy: This has been very helpful. I’ll circle back in a couple days and as early as today with potential candidates for you to look at.
+wendy: Before I go, can i ask you what your thoughts are on this experience?
+person: lovely! let me know if I can help in any other way or answer any other questions
+person: yes, the experience was fantastic
+person: really liking how the conversation is going and the depth of questions is really nice
+person: in terms of knowing there is thought and care put into these hires
+person: just having a resume with background doesn't really get at whether a candidate will be successful or not, so I appreciate the variety of questions
+wendy: Awesome! If you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime you see me available :smiley:
+person: wonderful!
+person: thank you!
+wendy: Have a great day Emerson! Talk to you soon!
+person: thanks, talk soon!
+wendy: Hi Emerson, hope you're doing well! 
+wendy: Based on our conversation about what you're looking for in a candidate and the job description, I've found a match that I think you'd be interested in looking at for the role of Product Strategist!
+wendy: He has 10 yrs+ of client facing experience and managing teams with strong communication skills and leadership qualities that keeps teams engaged and moving forward. 
+wendy: When you're available and have some time, I'd love to present you more information, find out if he's a possible fit, and learn if you'd like to set up a time to speak. 
+wendy: Feel free to ping me if you see I'm available to find out more. :raising_hand:
+wendy: Hi Emerson, hope you're well! Do you have a minute to present you the potential candidate I mentioned earlier for the Product Strategist role?
+wendy: His name is Serko Artinian (http:confused:/bit.ly/1N9O985) 
+wendy: Here's some relevant points I've gathered as to why I think Serko is a great fit for you.
+wendy: Most recently a Product Manager for the Mobile Team at MakerBot with past experiences as a producer, director, and editor in Motion Pictures (film) and Photography. Serko enjoys telling stories and has a strong passion for technology. 
+wendy: Established as a thought leader in the technolgy scene here in New York as Founder of the NYC Apps Meetup (http:confused:/www.meetup.com/nycapps/) a community with over 3,400 members. Relies on, and has a great grasp of agile development. 
+wendy: Understands it's benefits as a lean methodology with clear and concise objectives that helps a team increase efficiency, productivity, and quality. 
+
+He has no problem wearing multiple hats to get the job done. Can critique and give design direction, develop wireframes, and has exceptional organizational rigor when approaching projects. 
+wendy: Would you like me to set up a time for you two to speak?
+wendy: Hi Emerson, hope you're well! Do you have any thoughts or feedback on Serko?
+person: hey Wendy! I've been traveling and just got back. Can you re-send me the candidates? I think I lost them all :frowning:
+wendy: Sure!
+wendy: His name is Serko Artinian (http:confused:/bit.ly/1N9O985) 
+wendy: He has 10 yrs+ of client facing experience and managing teams with strong communication skills and leadership qualities that keeps teams engaged and moving forward. 
+wendy: Most recently a Product Manager for the Mobile Team at MakerBot with past experiences as a producer, director, and editor in Motion Pictures (film) and Photography. Serko enjoys telling stories and has a strong passion for technology. 
+wendy: Established as a thought leader in the technolgy scene here in New York as Founder of the NYC Apps Meetup (http:confused:/www.meetup.com/nycapps/) a community with over 3,400 members. Relies on, and has a great grasp of agile development. 
+wendy: Understands it's benefits as a lean methodology with clear and concise objectives that helps a team increase efficiency, productivity, and quality. 
+wendy: He has no problem wearing multiple hats to get the job done. Can critique and give design direction, develop wireframes, and has exceptional organizational rigor when approaching projects. 
+wendy: Check him out. If you have any questions, just let me know. And if you'd like to set up a conversation with him, i can do that too! :smiley:
+person: hey Wendy! Serko looks like a great fit, I'd love an introduction
+wendy: Awesome! Do you have a time next week thats convenient for you to speak with him?
+person: Hi Wendy, a 30 minute call next Wednesday morning or Tuesday at 2pm would work well for me!
+wendy: Great! I'll set it up  ☺
+wendy: Hey Emerson! How was the interview with Serko today?
+wendy: Hi Emerson, just wanted to follow up and find out if you've had your in-person interview with Serko yet?
+person: hey Wendy! we are meeting on Friday at 11:man:0am :smiley:
+person: I will let you know how it goes!
+wendy: Awesome, thanks for the update Emerson!
+wendy: Hey Emerson! Just wanted to check-in and see how the interview with Serko went. Do you have any feedback or questions?
+wendy: Hey Emerson! Hope you're doing well. 
+wendy: Wanted to connect with you for a minute to gather some feedback on Serko and the user experience of how we've been working with you so far. 
+wendy: Is there a time I can set-up a 5 - 10 min chat for us?
+person: hey Wendy, sure! Interview went well on Friday, we are still deliberating and should be making a decision later today if we would like to move forward. I will keep you posted. I'm available tomorrow to chat
+wendy: Fantastic! Are there any questions you may have about Serko to help inform you on a decision? 
+person: not yet, I had another person in the meeting so I need more time to debrief first
+wendy: Ok no problem. What time of the day is best to reach you? Moving forward I'll keep in mind for our chats. 
+wendy: Hey Emerson, hope all is well. Any update on your decision with Serko? Happy to assist with any next steps.
+wendy: Hi Emerson, I'd love to send you some new candidates, but I'd also like to calibrate from your thoughts on why Serko wasn't the right fit. Do you have any feedback you can share?
+person: Hi Wendy, sorry for my delay. Ok, so after further thought I think the main things were really on experience. When we dug behind the scenes of Serko it didn't seem like he had quite as much experience as we initially thought, especially in the realm of product mgmt and strategy. At the end of the day, I felt like he was probably a pretty good peer, but for this next hire in this role we are looking for a more senior person who could really grow our team and our team could learn from. We felt Serko didn't quite have that experience to do that at this stage of his career. I did like him though and would consider him in the future for a more mid-level position.
+person: We also have some behavorial questions around how he would deal with changing requirements or building support around an unpopular decision and in some of his answers as we tried to dig deeper, we didn't really get the sense he had a ton of experience in that realm. I think this is partially due to much of his experience being in within an organization or with a single client as opposed to the consulting world. Perhaps he could've spoken more about his experiences from when he was doing film work, but his lack of good stories there didn't instill the confidence we need to really push this practice forward. I hope this helps!
+wendy: Hi Emerson
+wendy: Appreciate the feedback on Serko. This is very helpful, so I can find more relevant matches going forward. Understand you have someone deep in the process and I appreciate the heads up.
+wendy: I believe I have some other great candidates in the pipeline to share now that I know a little more about your expectations and requirements.

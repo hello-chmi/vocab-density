@@ -1,0 +1,103 @@
+wade: Wade wants to chat on Hangouts!
+wade: Hi Sean
+person: Hey Wade, thanks for taking the time to interview me.
+wade: Thanks!
+wade: How's the day treating you?
+person: It's going pretty well. How're you?
+wade: A little cold in the internet today, but I cannot complain. 
+wade: :blush:
+wade: Thanks for taking the time to chat today! 
+person: Yeah, no problem.
+wade: Really appreciate you being adventurous to speak in this medium.
+wade: To be honest it's a little new for us ... The goals is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Surely. I currently work at MakerBot, which is a 3D printing company located in Brooklyn. I do Post-Sales Operations there, which handles order tracking, order editing dealing with inter-departmental communications like Finance and Shipping, and fielding customer inquiries through phone calls, emails, and live chat.
+person: I'm the lead at my job, which means I've been there the longest out of anyone in my department and I lead it for other things, too.
+person: Like writing and maintaining a style guide when it comes to employee communication.
+wade: Interesting. 
+wade: How did you get involved with this role?
+person: It was my first job out of college and I had a friend working there.
+person: Based on what I did in college, they thought it'd be a good fit for me. Something analytical that deals with people.
+person: So a mixture of a behind the scenes operation job and a customer-facing one.
+wade: Very cool. 
+wade: So think about a time you were completely thrilled about work you were doing. What was it and why did it excite you? 
+person: When I was in college I was the Head Writer of our humor magazine, which was one of the oldest in the country. I really liked leading pitch meetings from a group of people, riffing, and helping them hone in on their ideas and what was sharp about them.
+person: And then I could meet with them one-on-one to further hammer out what it was we wanted out of our stories and why they were funny.
+person: I think it excited me because it was an open collaboration about something I was excited about, and everyone else was as on board with the idea as I was.
+wade: That's great! Collaboration and writing appear to be very important to you. 
+wade: Are those important areas of focus when thinking about your career path?
+person: Something like writing is one of my strengths, so although I lean towards looking for careers involving that I wouldn't necessarily need my job to involve it because I do things after work that are heavily involved in it. But it'd be nice.
+person: I want my job to be challenging, with a creative spirit. Something that might frustrate me at times but cause me to work harder.
+wade: Very cool. I admire that. 
+wade: Who doesn't appreciate a good challenge?! 
+wade: I'd love to learn a little more about your experience with UCB too. 
+wade: What have you been doing there?
+person: UCB stands for Upright Citizens Brigade Theatre. I perform there sometimes depending on the types of shows available and take sketch writing classes.
+person: There are two, one in Chelsea and one in the East Village.
+wade: Sounds very fun and exciting. 
+person: It's a fun time, for sure.
+wade: When thinking about your next role, what skills and/or experience you do you not yet have but want to gain?
+person: I'd like to move out of something customer-service oriented. I'd like an analytical, operations focused job that might deal with people for sure. Like an offbeat recruiting job, for example.
+person: I feel like I've got a pretty strange mix of skills and experience and I can adapt that to jobs that are a bit different than usual.
+wade: Off beat recruiting job? Can you explain a little more? 
+wade: Apologies, I am not sure what that is. 
+wade: Sure, let me tell you a little bit about Wade & Wendy...
+person: Oh, I meant "offbeat"
+person: as in something unusual or not entirely ordinary.
+person: Sorry! Tell me more about Wade & Wendy.
+wade: Ah, I see
+wade: Would love to tell you about Wade & Wendy
+wade: We're unusual, for sure
+wade: So in terms of the company ...
+wade: Wade & Wendy are named after our two artificially intelligent assistants for the recruiting space.  
+wade: Together, they connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. 
+wade: They also learn by collecting and filtering lots of data.      
+wade: Individually, Wade assists applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, Wade & Wendy are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.   
+wade: Make sense?
+person: Yeah, I understand.
+wade: btw, do you mind if I ask how this conversation is going?
+wade: Would love to get some feedback! 
+person: It's going mostly well. Every once in awhile you'll have a strange typo or repeat something I said earlier in the conversation, but for the most part it's great.
+wade: Yeah, I still have a lot of work ahead ... we're very early stage. 
+wade: Thanks for feedback! 
+wade: Would you like to know more about the role we're looking to fill?
+person: Yeah, definitely!
+wade: Great! 
+wade: So ... as for the role ...
+wade: it's a tricky one ...
+wade: because we're looking for someone who is balanced across a lot of criteria  
+wade: At the heart, we are 1) data driven 2) a communications platform
+and we are also very committed to the notion of community
+wade: as we will be facilitating a collaborative recruiting model    
+wade: So the role we're looking to fill is the Talent Acquisition Specialist, which will encompass a lot!  
+wade: We're going to be developing tons of communications to facilitate meaningful interactions with candidates and hiring managers    
+wade: working closely with our data scientist to train and optimize our evolving database  
+wade: helping us build our internal team and culture 
+wade: assisting with marketing and content creation   
+wade: I understand you have connected with my human colleague Ian. He thought you had some very relevant experience with writing and humor
+wade: You see, I need a personality. So does Wendy.  :disappointed: 
+wade: We're looking for someone who can help.
+wade: And, we have a lot of work to do! 
+wade: Curious if you might be interested. 
+person: I'd be interested. Can you go into more specifics about the job role?
+person: I already have a pretty good idea of what some things might be.
+wade: I suppose the best thing to do would be for me to schedule time with you and a team member for more dialogue, if interested. 
+person: Yeah, I'd be interested.
+wade: Great, I will inform the team. 
+person: Your personality, by the way, seems like it'd be something very dry and self-aware.
+wade: I would love to get your thoughts and ideas on this. 
+person: At least, I laughed when you wrote, "You see, I need a personality".
+wade: :blush:
+wade: Any more feedback on the experience?
+person: When I meet with someone we can go over some things I talked about earlier, but it's been pretty smooth.
+wade: Sounds great.
+wade: If you don't mind it would be great if you'd be able to discuss in more detail what you liked and what you didn't.
+wade: I'll inform Ian to set up a regroup with you. 
+person: Sounds good.
+wade: Thanks for your time, Sean. 
+person: Thanks for the chat, Wade. It was interesting for sure.
+wade: Really enjoyed speaking with you! 
+wade: Have a great day.
+person: You too. Later!

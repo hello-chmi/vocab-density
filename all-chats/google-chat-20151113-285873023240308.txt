@@ -1,0 +1,44 @@
+wade: Wade wants to chat on Hangouts!
+wade: Hi Allison, how are you today?
+person: good thanks!
+wade: Thanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+wade: Ready to get going?
+person: sure thing
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Sure. I'm the  VP of People & Operations at Fog Creek Software. I'm in charge of hiring, onborarding, the full recruiting cycle, budgets, events, the office, culture and all the HR stuff. I'm on our executive team which also means strategic long term planning
+wade: Cool. So looking ahead, is Talent Acquisition a path you would like to continue to pursue? What do you like about it? 
+person: yes and no. It can be a bit frustrating when you're unsuccessful or when hiring takes longer than you'd like - but I do love giving offers, onboarding new employees, and seeing them make a huge impact on the company. That's extremely satisfying
+wade: Yes, it's a challenging field with a lot of ups and downs. It's something Wendy and I a looking to solve :smiley:
+wade: Can you think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: we leveled all our employees this summer and that was satisfying - setting salaries, etc. It was fun b/c it was logistical and felt impactful. Also it was great to give big raises 
+wade: It's always nice to give employees good news! :blush:
+wade: If you were interested in another career path, what would it be?
+person: I'd probably lean more towards operations - working with numbers can be really satisfying and its nice to feel like you get things done day to day. People operations is a great place for creativity but can also be difficult becuase you're dealing with people who's lives you're affecting personally, and it can be a bit hard to get a win
+wade: Great, would love to shift gears and learn about some functional skills.
+person: suire
+wade: What is the most people you've hired for a company?
+person: about 20 
+wade: Are you confident in sourcing and vetting technical talent?
+person: yes
+wade: What's your process for vetting developers?
+person: resume revue, 2 code screens, a 4 hour in person block of coding based interviews (1 hour of which is a culture fit interview)
+wade: Very thorough :+1:
+wade: Which recruiting tools and systems have you used?
+person: we use Fogbugz. I've also used Recruiterbox, which I like 
+wade: Di you set Fogbugz or Recruiterbox yourself?
+person: Recruiterbox, yes. FogBugz is a Fog Creek product, so we've always used it (we dogfood)
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I'd like more experience at recruiting events. I'd like more time to network and build my network. I'd like to have more direct reports to whom I can delegate
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?
+person: No its not
+wade: What size company are you comfortable with for your next role?
+person: 50+
+wade: Ok, what do you like about a larger sized company?
+person: more resources - I'm also not entirely comfortable working at a small place w/o any infrastructure. 
+wade: Ok, this is very helpful. I’ll circle back in a couple days with potential opportunities for you to look at.
+wade: Before I go, can i ask you what your thoughts are on this experience?
+person: chat is easy! I liked it  ☺ thanks Wade!
+wade: No problem, and thanks! Have a great day Allison, talk to you soon :raising_hand:

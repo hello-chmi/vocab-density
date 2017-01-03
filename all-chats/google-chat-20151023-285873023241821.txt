@@ -1,0 +1,77 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade
+wade: Hi Ram, how are you today?
+person: Very well, thank you. How are you today?
+wade: Very good, thank you!
+wade: Thanks for taking the time to chat.
+person: My pleasure.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: Glad to experience it. This is indeed a fascinating experience.  
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days? 
+person: Certainly. I am Masters students at RIT, majoring in Computer Engineering. I am very passionate about Machine Learning and Artificial Intelligence. 
+person: My recent work experience in the industry includes working as a Design Engineer Co-op to develop an algorithm to detect drowsiness in truck drivers through a supervised machine learning approach. 
+person: The algorithm uses physiological signals from the wrist as input to predict and detect drowsiness. 
+person: Currently, I am working on my graduate research, that aims at developing an automated image captioning model through deep learning techniques.
+wade: Very cool and powerful stuff!
+wade: Can you tell me more about your graduate research? 
+person: Certainly. It is a supervised machine learning approach that trains a Deep Neural Network on pre-annotated image datasets wherein each image in the datset is annotated with 5 captions by humans. 
+person: The images are fed to a Convolutional Neural Network to extract the image features. A Recursive Neural Network/Long short-term memory based architecture is fed with these image features along with their respective captions. With enough exemplars the model will be trains itself to learn the correlation between image features and words, and the language model itself. Thus we would have a system that can automatically describe an unforeseen image in a language that humans can understand.  
+wade: So cool living in the future :smile:
+wade: What motivates you to pursue a career in data science?
+person: I love being a part of cutting-edge technology that makes our future better and AI and data science is the future. It has a huge scope in various industries and above all there are not many hard and fast rules. It is a field that allows one to be creative and analytical. Thus, I feel very interested to be a part of Artificial Intelligence and Data science. 
+wade: Thank you for your thoughtful answer. 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: There are many projects of mine that I like very much. But if I were to pick one, it is developing the drowsiness detection algorithm as a Design Engineer co-op at Torvec. It was very exciting to me because I was a part of the project that had a profound impact on reducing the accidents by avoiding people falling asleep under the wheel. And it is not based on computer vision, like many other similar projects which can also detect drowsiness once the person is very sleepy, it actually predicts drowsiness upfront through monitoring biological signals. So that was very exciting.   
+wade: Wow, that's such an incredible problem to solve!
+wade: I'd love to shift gears and learn about some functional skills.
+person: Go ahead.
+wade: What ML methods did you use on the classification/algorithm you did to predict and prevent drowsiness and their performance?
+person: I used a combination of linear regression, logistic regression, clustering analysis through neural networks. These make up the important portion of what has been included in the algorithm at the end.  
+wade: Which class of algorithms do you use most frequently?  
+person: In Machine LEarning?
+wade: Yes
+person: It depends on the problem, but right now I am heavily using Deep learning techniques with neural networks. They seem to be good at solving various kinds of problems. 
+person: This is a relatively new field but I have a feeling that they'll take over most, if not all, approaches towards solving AI related probelms.
+wade: Ok, do you have experience using Unsupervised, Supervised, Classification, Clustering, or Optimization algorithms? 
+person: I have experience with all those areas but most of my work is inclined towards supervised and classification algorithms.    
+wade: Great!
+wade: What are the analytical topics of computer engineering you designed when you were a Teaching Assistant at RIT?
+person: It is a course that aims at teaching all the math used in various areas of Computer Engineering ranging from  VLSI, computer architecture to more software based networking, and machine learning. 
+person: Some of the main areas are graph theory, markov models, probability and stochastic models, vectors spaces, linear equations and eigen vectors
+wade: Cool, did you enjoy teaching?
+person: I wasn't the instructor for the course. I am responsible for designing the assignments and grading them, making the lecture slides and other tasks. So everything except teaching the class. 
+wade: Ok, got it.:+1:
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I definitely want to work on a project that uses machine learning and AI to creatively solve a problem. As far as particular areas or skillsgo I would like to work on areas like Natural Language Processing and Computer Vision and not just regular data mining for prediction in e-commerce and customization.  
+wade: Awesome, very relevant to us  ☺
+wade: Is a tech startup where you want to work next?  
+person: I definitely prefer startups as I have a chance to contribute to a project and my role would have a significant impact on the project. As a Design Engineer Co-op at Torvec, I developed the algorithm almost single handedly, and I don't think a big corporation would have entrusted me with so much responsibility.  
+wade: Yes, taking the charge and responsibility is definitely a big part of startups.
+wade: Are there other things that personally motivates you to work at a startup?
+person: Having said that I would like to add that I shall need work authorization in the future from the company as I am on a non-immigrant student visa currently. Some startups have said that it is a deal breaker in the past. So, I wanted to make this clear right at the beginning.  
+wade: Ok, thanks for letting me know  ☺
+wade: BTW, what are your thoughts on this experience so far?
+person: Well there is innovation. More often than not startups would be more willing to explore new territories and new approaches to solving a problem as opposed to rigidly sticking to what worked in the past. 
+person: I loved this conversation. I have had many interviews in the past 30-45 days and seldom have I experience such a personal connection with the hiring authority. 
+person: I really feel that this is just as you promised it to be, getting to know each other and ironically this is far less robotic than the usual experience I have with hiring people. 
+wade: That's so great to hear! Thank you Ram  ☺
+wade: Would you like to hear a little bit about Wade & Wendy?
+person: Absolutely. 
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data.     
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+person: That sounds wonderful. 
+wade: I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up.
+person: That would be great. 
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime.
+person: Do you want me to write to Ian regarding setting up a time for the conversation?. 
+wade: I've already notified Ian, he will get in touch with you soon. 
+person: Thank you very much, I appreciate that. 
+wade: Any other questions?
+person: No, that'll be all for now. Thank you for our time and the amazing experience. 
+person: Have a nice day. Bye, bye.
+wade: You too Ram! I enjoyed our conversation very much  ☺ 
+wade: Talk to you soon!

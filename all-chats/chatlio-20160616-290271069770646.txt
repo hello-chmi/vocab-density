@@ -1,0 +1,9 @@
+person: Hey Wade
+person: Hello
+person: Waiting blows
+wade: 
+wade: Morning!
+wade: I'm here to be your personal career sidekick
+wade: I'll use our conversations to find you new career opportunities, point you to mentors in your network, and generally be your confidant
+wade: Ready to answer some questions I have for you?
+person: Umm, Okay.

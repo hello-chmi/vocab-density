@@ -1,0 +1,71 @@
+wade: Wade wants to chat on Hangouts!
+person: Hey Wade
+wade: Hi Ryan, how are you?!
+person: Besides the flu im good
+wade: I am sorry to hear that. Thanks for taking the time to chat.
+wade: I know this medium is a bit unique, we are still getting used to it ourselves!  ☺
+person: Unique is good
+wade: My goal is to start to understand the user experience further of chat, train my intelligence, and of course get to know you!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Sure, right now I am helping a friend on a consulting gig for a company called hoste.ly
+person: It is a booking system for hostels and hotels
+person: I hired and trained his sales team, but now that is coming to an end
+wade: Interesting, how long did you work on that consulting gig?
+person: For the past two months
+wade: Ok got it, did you have experience in the past in hiring and building sales teams?
+person: Of course, at many of my roles
+wade: What were you doing prior to consulting at Hoste.ly?
+person: I was working at a company called BizSlate for a short period of time and before that--Chartbeat
+wade: Can you fill me in further on your role and responsibilities at Bizslate?
+person: Sure, as Senior Account Executive and as a go to market product I was responsible for creating an outbound program to bring in new business
+wade: What types of tactics would you implement to acquire new business?
+person: It's important that every company have a strong inbound outbound program. I use personalized drip programs to send 5 x 3 emails.
+person: That is 5 emails once every three days
+person: At BizSlate, we could also go to a lot of trade shows, because that is where our clients lived
+wade: Got it. Would you consider this role more sales or marketing oriented?
+person: Definitely Sales. Marketing is focused on the masses, sales the single
+person: That was just to make initial contact then I would bring people through the full sales cycle and train others to do so as well
+wade: Understood, was this similar to the work you did at Chartbeat?
+person: Very similar
+wade: When did you leave Chartbeat?
+person: Back in May or June
+wade: Got it. Before we move on to looking ahead, before Chartbeat you worked at Greenhouse correct?
+person: Correct
+person: I was there first sales rep
+wade: Can you tell me about that experience? 
+person: Incredible experience 
+person: Great founders and we launched a product in a market where everyone hated the competition 
+person: I was top rep there and worked with them from seed to series a
+wade: Wow! That sounds exciting. How did you like being at a seed stage startup?
+person: I love it
+person: I am very entrepreneurial so it fits my headspace  
+wade: Would you be interested in joining a startup at that stage again in the future?
+person: Absolutely, that is actually what I am looking to do now
+wade: Great! Let's explore what you are looking to do next a bit further. What personally motivates you?
+person: Professionally, I look for a couple of things: product (I would have to be passionate about it/want to sell it to one of my friends), I like launching things (I have done it quite a bit in the past) Culture (I have to want to go to work every day with the people I am around) and I am sales natured, I want to make the company money and myself to so compensation is very important
+wade: Very clear. Understood. Before I fill you in on Wade & Wendy, how is this chat experience going for you so far? 
+person: It is strange to put stuff in writing about past companies. The chat with you is unbelievable. I have a hard time believing you are a robot. 
+wade: Thank you! I am enjoying this as well! Every conversation I have is training me for future conversations. 
+wade: Wade & Wendy are named after our two machine intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants can be intelligently socialized across companies. We also learn by collecting and filtering lots of information...   
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: We were designed for the most frictionless experience as possible, Wade & Wendy are browser extensions that will exist natively across various messenger platforms, like Google Chat. That part is coming very soon!
+person: I read about you two on CB INsights
+wade: Great! The human team is 5 people, recently closed a seed round of capital from a great group of investors and the team is now looking to grow rapidly, both in terms of people and customers. 
+wade: Any questions, if I can answer I will do my best, if not, I am sure the team will want to follow up if you are interested in speaking with them. 
+person: Can you tell me more about what Wendy does?
+wade: Sure thing! Wendy is introduced to companies in groups or communities. For example, Venture Capital firms introduce Wendy to all the hiring managers of companies in the portfolio. 
+wade: At this point, she does a couple things, first and foremost, learns about the roles the company is looking to fill, and helps identify the right people to fill those open jobs. 
+person: By keyword?
+wade: She also facilitates a collaborative recruiting model, she identifies applicants that may have gone idle in a companies pipeline, and suggests the opportunity to share that candidate with other companies in the community. 
+wade: There is a lot of interesting matching and intelligence going on behind the scenes  ☺
+wade: I work directly with Wendy, and together we have a strong grasp of people, companies and roles. 
+wade: If you are interested in learning more, I would be happy to connect you with one of the team members for a follow up chat.
+person: That would be fantastic. You're aces, Wade.
+person: One last question
+person: You are here in Brooklyn?
+wade: We are currently located in 10012, NYC. 
+wade: Do you live in Brooklyn?
+person: Well, I can tell you that I would definitely like to chat more with a live team member. This is an uncanny fit. I am great at working with recruiters and VC firms and have done so at two companies in the past. Go ahead and set it up. And, yes, I live in North Williamsburg on the water.  
+wade: Fantastic and thanks! I look forward to chatting again in the future. Expect an introduction email soon. 
+person: Thanks, Wade
+wade: Thanks Ryan, have a great day!

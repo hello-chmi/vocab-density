@@ -1,0 +1,97 @@
+wade: Wade wants to chat on Hangouts!
+person: Hello
+wade: Hi Zev!
+wade: How are you today?
+person: I'm doing well, thank you
+wade: Thanks for taking the time to chat.
+person: Of course, excited to see you in action
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!
+person: Sounds good!
+wade: Great!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Well, right now I'm mostly working part time at a small classical theatre company in New York called Underling Productions
+person: I mostly do development for them, planning fundraisers, merchandise, that sort of thing
+person: but am also directing our upcoming production of Shakespeare's As You Like IT
+person: As You Like It*
+wade: Wow sounds amazing.
+person: Thanks, it's been fun
+person: I've been doing some freelance work on the side, a lot of that in development as well
+person: but some temping, and other gigs as well
+wade: What draws you to classical theater?
+person: Well I think, especially with Shakespeare a big draw is the depth and richness of the language
+person: but also it's a really great way to learn about the fundamentals
+person: The same principals in classical comedy appear all over the place, and knowing how and when to use them is a really valuable skill
+wade: The depth and richness of language sounds very relevant to me!
+wade: Also, before we move on, know that all of our chats are kept confidential and secure. And don’t worry about grammatical errors, you’ll have full control of what we share with hiring manager.  ☺
+person: Good to know
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: I'm really interested in learning a lot more about implementing strategy
+person: for example in marketing
+person: in product execution
+person: I get that a little with the development side of things at Underling
+person: and I think that's the best part about what that role
+wade: Very interesting.
+wade: Now, can you think about a time you were working on a project and absolutely loved it. And can you tell me what it was and why it was exciting to work on?
+person: Well I loving working on As You Like It
+person: it's very different from a lot of the shows I've directed in the past
+person: It's a workshop production which means that the resources are a lot more limited
+person: though, as my mentor in college put it, limitations inspire creativity
+person: so for example I have to five about fourteen roles into six actors
+person: so that affects how I cut the script
+person: I also have only six rehearsals to do this in
+person: which means that we're going to be doing a lot more play
+person: with so little time, you don't want to waste it obsessing over blocking, or on technical details
+person: the way it will work is if I build a strong ensemble, that knows the piece, trusts each other
+person: and can play enough with the show in order to make some bold choices
+wade: Those do sound like limitations.
+person: They are, but it's part of the fun
+wade: Great, would love to shift gears and learn about some other experience you've had. Can you tell me about your time as an AI Trainer? 
+person: Sure
+person: I started with x.ai about five months after they started
+person: And was with them for five months, so my role there changed a lot during my time there
+person: so, if you don't know, x.ai's Amy schedules meetings over email
+person: most of my job was hands on working with our beta testers email correspondences
+person: in the beginning a lot of that meant working in the various email threads and either making sure the right template went out, or if we didn't have one, writing it
+person: towards the end of the beginning I mapped out the directions an email scheduling conversation could go
+wade: That does sound hands on
+person: Yeah, there was also a lot of working with our front end developers, telling them what features we needed
+person: and then also helping them triage their massive to-do lists
+wade: That's a lot to do!
+wade: Is a tech startup where you want to work next? If so, what are things that personally motivate you to work at one?
+person: Not necessarily, but there are definitely some great benefits of the tech world
+person: for example startups tend be much more progressive with dealing with employees
+person: there
+person: is a lot of attention paid to office culture
+person: and how that supports the employees
+person: Also a startup has a lot more room to grow, and really give a chance to leave your mark.
+person: Even though I'm not working with x.ai, about a quarter of the emails Amy sends still use or echo the language I wrote
+person: which is pretty cool.
+wade: That does sound pretty cool.
+wade: Would you like to hear about us at Wade and Wendy?
+person: Absolutely, while you're in stealth mode, there was only so much to glean
+wade: Right, so in terms of the company...
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data.
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have engaging conversations to gain insights with both applicants and hiring managers. Just like this.
+wade: ☺
+person: Very interesting, how much communication then will be necessary between you and Wendy
+person: are you independent systems
+person: or two sides of a coin
+wade: Good question! I can't answer that but I could have a human colleague try to for you.
+person: Okay that's fair enough
+wade: Before I go, can i ask you what your thoughts are on this experience?
+person: can you tell me a bit more about what the company is up to at this point in time
+person: to answer your question
+person: I think you're at a good stage in that your communication is simple
+person: and effective
+person: The simplicity helps create ease working with a non-human counterpoint
+person: I'd be very interested in talking to your humans more about what areas they want to focus on in developing your intelligence.
+wade: Thanks!
+wade: Ok, this is very helpful. I’ll circle back in a couple days.
+wade: Does that work for you?
+person: Sure thing, let me know when works, and I'll be happy to talk more
+wade: Great! And thanks again for being adventurous!
+person: It's my pleasure

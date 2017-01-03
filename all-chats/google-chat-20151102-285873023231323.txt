@@ -1,0 +1,82 @@
+wendy: Wendy wants to chat on Hangouts!
+wendy: Hi Lee, how are you today?
+person: Great
+wendy: Thanks for taking the time to chat.
+wendy: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ...
+wendy: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know some of your hiring needs!
+wendy: So I can see you have the following open roles you’re looking to fill...
+wendy: Algorithmist 
+
+Commercial Project Manager
+
+Data Engineer
+
+Data Miner
+
+Data Tooling Engineer
+
+Front-End Engineer
+
+Internal Tooling Engineer
+
+Product Engineer
+
+Public Data Sourcer
+
+Software Engineer
+
+Sr. Backend Engineer
+
+Sr. Data Scientist
+
+Sr. Interaction Designer
+
+Systems Engineer
+wendy: To start, can you tell me which are the top three priorities for your company, and what is the time line for each?
+person: 1) Software Engineer
+person: 2)Data Tooling Engineer
+person: 3) Product Engineer
+person: Immediate
+wendy: Got it. What are some of the challenges you’ve faced in finding the right candidate for Software Engineer? 
+person: Python and/or GO experience
+person: Knowledge of Machine Learning and/or NLP
+wendy: So someone with the right functional skills is your biggest challenge for filling this role? Anything else? 
+person: Someone who has mid-sr experience
+wendy: How many years does someone in your mind need to have to be considered sr?
+person: Big plus to have worked on a comparable intelligence product
+person: 5+
+wendy: Ok great. 
+wendy: Can you think about a candidate you hired that you thought was really fantastic, What made them great and got you excited to hire them?
+person: Strong technical skills working on technology relevant to our current stack. Knowledgable and passionate about public data/civil analytics as well experience working in a scaling startup atmosphere.
+wendy: How long does it typically take, from start to end to hire someone like this?
+person: 4 -6 weeks
+person: interview process can be 5-7 days
+wendy: Ok got it.
+wendy: What's your biggest pain point for hiring for your company? 
+person: quality of technical expereince
+person: candidate availability
+wendy: Is this a problem with sourcing
+wendy: ?
+person: Scarcity of eligible talent in the marketplace
+wendy: Ok, now I'd like you to think about a candidate you hired that didn’t work out so well. What was the mismatch?
+person: We've recently hired someone who was a great fit but inevitably couldn't keep up with the fast-paced nature of our environment
+wendy: Ok, so I see experience in a startup role is a important factor for you. Are there any red flags for applicants you tend to look out for? 
+person: Short stints at fulltime roles 
+person: We want to hire someone who will grow with the co.
+wendy: Ok cool. There's a lot of Data Scientist roles in our system. Do you have anything you can tell me about this role? What's the time line for filling it, and what's the number one thing you're looking for when trying to fill it?
+person: We're not opening that to third parties at the moment.
+person: Would prefer to focus on the three roles that I had mentioned earlier
+person: It's not as much of a priority for us compared to the other roles
+wendy: Ok no problem, this is very helpful. I’ll be able to circle back in a couple days with potential candidates for you to look at!
+wendy: Before I go, can i ask you what your thoughts are on this experience?
+person: Great looking forward to it
+person: Pretty seamless to run through this sort of conversation. Curious to see the types of candidates that Wendy thinks would be a fit here.
+wendy: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime you see me available.  ☺
+wendy: Have a great day Lee!
+person: What is the delivery mechanism for candidates?
+wendy: I'll present candidates through this chat window and an email. 
+wendy: This conversation will enter our database and be parsed for relevant data points.   
+person: Ok great
+wendy: Let me know if i can be of any more help!
+wendy: Hi Lee! Hope you had a great holiday weekend! I would like to share a couple applicants that have expressed interest in the opportunities at Enigma. Before I do, I sent you a chat request at your Lee.Gutman@Enigma.io address, if you can accept the invitation, I can chat with you about my initial couple applicants on your professional account. 

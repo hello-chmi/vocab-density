@@ -1,0 +1,66 @@
+wade: Hi Casey 
+wade: Hey Casey 
+wade: Hi Casey, how are you today?
+person: Hi Wade
+wade: Hi Casey, how are you today?
+person: I'm well. Thank you. 
+wade: Great to hear!
+wade: Thanks for taking the time to chat with me today. Is now still a good time?
+person: Yes. Now is a great time. 
+wade: Perfect.
+wade: I appreciate you being adventurous to speak in this medium. To be honest it's a little new for us...
+wade: My goal is to start to understand user experience, train my artificial intelligence, and of course get to know you! Does that sound alright?
+person: Sounds good. 
+person: Happy to help. 
+wade: Great! So I'd love to learn more about you. To start, want to fill me in on your most recent experience/what you're up to these days?
+person: I currently work for Plenti, an affiliate of American Express. 
+person: At Plenti, we developed and launched a responsive web site for first the first loyalty coalition in the U.S. At Plenti I am responsible for delivering digital customer experience and driving business value for stake holders, partners and program operator in a dynamic, start-up environment.
+wade: Very interesting. Can you tell me more about how you drive business value? Do you have a process or approach you use?
+person: In role, I faced a lot of ambiguity, which I saw as opportunity. This happened a lot in the launch phase. 
+person: Delivered business value, by creating digital solutions for partners and Plenti (program operator). In addition, I am responsible for the product vision, roadmap, development & design backlog as well team process and resourcing. 
+wade: Cool. Can you tell me about your team? Is it a cross-functional team?
+person: It is cross functional. The team is comprised of full stack developers, business architects, lead UX and visual designers, back end product owners and an analyst.   I also handle product marketing. 
+person: We also work with compliance, privacy, fraud, risk, legal, partner tech teams, brand and offer marketing teams. 
+wade: That is helpful. Thank you.
+wade: Do you have a preferred product development process?
+person: I prefer agile. However  sometimes waterfalll and kanban make sense depending on the project. 
+wade: Great! To shift gears a little, when thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: Owning multiple products, partnerships and continue product marketing.  
+person: I would also add "continue leadership" experience to your last question. 
+wade: Very cool. Can you describe for me two or three companies that you would absolutely love to work at next?
+person: Compass, Atlassian, Uber, Attendant, Handy, Commonbond, Spotify.
+person: Just to name a few...
+wade: Very helpful. 
+wade: One more question. Can you think about a time you were working on a project and absolutely loved it. What was it and why it was exciting to work on?
+person: My current role at Plenti.  We constructed the business model, product and customer experience from scratch.
+person: There was also a major focus on integrating with another company as part of an acquisition which made it challenging and fun, especially with reusing code.  
+person: Furthermore, we were also selling the product visions and customer experience to partners which helped sign partners for Plenti.
+wade: So interesting! A really great project!
+person: We were empowered to make decisions. The environment was dynamic and fast. 
+wade: Exciting!  ☺
+wade: This has been very helpful. My goal now is to circle back over time with potential opportunities and questions that I haven't yet asked. Before I go, can I ask you what your thoughts are on this experience?
+person: Overall, the conversation flow seemed natural. 
+person: From my POV, I can't tell if I'm writing or just digitizing my words as a free flowing conversation which can sometimes skew my grammar and spelling.  
+person: As I articulate my thoughts, the window fills up with text and it can be hard to proofread before sending a response. 
+person: The AI did not feel disarming. I felt comfortable. 
+wade: Thank you very much for that feedback!
+wade: How likely would you be to recommend this experience to a friend? Say on a scale from 1 to 10?
+person: Depends on the person. Someone who works in digital or is familiar with the latest trends and tech....8. 
+person: A person who is not close to digital would be a 5. I assume you're design target is the former. 
+wade: Awesome! Thanks for that feedback as well. If you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I’m available.
+wade: Thank you for taking the time to chat with me today Casey!
+wade: ☺
+person: anytime. 
+person: have a good day. 
+wade: Hi Casey, I hope all is well! I have a few quick questions to ask and 2 companies with opportunities I'd like to suggest to you.
+wade: If you're interested, Wendy will present you to their hiring managers.
+wade: One of the companies is called Enigma Technologies. http:confused:/enigma.io/
+wade: Enigma helps organizations and individuals fuse, organize, and explore data to make smarter decisions. 
+wade: They are a venture backed startup in NYC having raised approx. $34,000,000 in funding to my knowledge.
+wade: They are building data discovery and analytics tools that make it simple for organizations to liberate their own private data and for the wider community to explore and build upon Enigma’s own integrated public data platform. It's a really incredible mission and company for someone with your level of experience and background.
+wade: The other company I would like to present you to is called CommonBond. https:confused:/commonbond.co/
+wade: CommonBond is a well-funded startup with over $45M raised They work to tackle the broken student lending market and change the way people think about student loans.
+wade: They accomplish this with lower interest rates for graduate student borrowers with an incredible, tech-driven experience, and friendly, on-point customer service.
+wade: They also have a 1 for 1 model that is the first of its kind in financial services: for every degree fully funded on the CommonBond platform, they fund the education of a child abroad for one full year through a partnership with Pencils of Promise. How great is that!
+wade: Ping me when you're free for a chat, or if it's easier, let me know a time that's convenient and we can plan to talk in more detail. 
+wade: Would you like me to have Wendy present you to Enigma and/or CommonBond?

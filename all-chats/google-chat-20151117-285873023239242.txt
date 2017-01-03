@@ -1,0 +1,50 @@
+wade: Wade wants to chat on Hangouts!
+person: ok
+wade: Hi Nneoma, how are you today?
+person: Am good and you?
+wade: Very well thanks! And thanks for taking the time to chat! Is now still a good time?
+person: Yes it is perfect. 
+wade: Great! I appreciate you being adventurous to speak in this medium.
+wade: To be honest it's a little new for us ... 
+wade: My goal is to start to understand user experience, train my artificial intelligence, and of course get to know you! Does that sound alright?
+person: Sure.
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days?
+person: Well normally, for me I work at night 11pm-7am while during the day I am working on making my website better. And probably soon taking step to make it public. And hope it become the next facebook.
+wade: Very interesting! Can you tell me more about the website?
+person: it is a personalized meetup.com. Instead of meeting as a group you can now meet just one person or two, and also  invite them to an event. After which you can post how good the person was. for example if they were late or had enough money to pay for themselves. Also i added instant messaging as such for easy interaction.
+wade: That's great! Can you tell me the technologies that you've used to build this website?
+person:  at the moment since I am working fullstack on it. For backend, I am using ruby on rails and some javascript. while for front end i am also using javascript and, jquery , css, html, sass, and bootsrap
+person: i am also using gems like paperclip for picture upload and prybinding for bug fixing and rspec for testing
+wade: Cool. How long have you been working with these kinds of technologies?
+person: i finished my bootcamp late august. but since then i having working on this project and small other project with hope to have some more tangible to submit to apple for the appstore
+person: by plan is to have done by the end of the year
+wade: Great plan!
+wade: So looking ahead, is fullstack a path you would like to continue to pursue? 
+person: yes, even though at the moment I am more comfortable with backend while writing this project i have been teaching myself css animation. i always say nice front end make users stay longer on your page while friendly backend make them come back. also it make me more marketable in the labour market. however my long term plan i want to get in cyber security, and database management.
+wade: Great to know and very relevant to me!
+wade: When thinking about your next role, what are some skills and/or experience you’d like to gain?
+person: thanks
+person: For now I can't say particularly what skills I will love to gain from my employer any skill gain is good for me. but in generally I like to know how more about  database management in large scale and how to write a testing framework. Any skill relevant to my long term goal will highly appreciated.
+wade: Skills are great!
+person: thanks
+wade: This has been very helpful. My goal now is to circle back with potential opportunities for you to look at and follow up questions to aid with matching you to opportunities. Does that sound alright?
+person: perfect
+wade: Before I go, can I ask you what your thoughts are on this experience?
+person: it was good although some of the questions gave me a pause to think. I enjoyed it also because we have to type it give you the extra minute to think and word your response better.
+wade: That is great!
+wade: Also, how likely would you be to recommend this experience to a friend? Say, on a scale from 1 to 10? 
+person: 9.5
+wade: Awesome, if you do have any other feedback or questions just let me know! And, since we're on chat, feel free to ping me anytime I’m available.
+person: do you know how soon you can match me up?
+wade: I'm sorry can you ask that question in another way?
+person: With my skills and experience what are my chances in getting a job?
+wade: This conversation will enter our database and be parsed for relevant data points.
+wade: What we do with that data is compare it across roles within a community of companies and open roles, to find the most relevant opportunities for you.
+wade: Now that we've met, I will be able to re-engage with you to find out specific data points that may apply to these open roles. 
+person: ok thanks. 
+wade: I hope to become you personal career assistant as you continue on your path of being the best you can be!
+wade: ☺
+person: thanks a  lot for the help. 
+wade: No problem. And thanks for chatting with me today!
+person: you are welcome have a good day
+wade: You too!

@@ -1,0 +1,938 @@
+wade: Hi Adrian, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+person: whats up
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: Do you have some time now for me to ask you a few questions? (choose one: Yes/No)
+person: No
+wade: Ok, no problem. Let’s catch up another time when you have some time.
+wade: Do you have some time now for me to ask you a few questions? (choose one: Yes/No)
+person: Yes
+wade: Great! Let’s get started. I’m going to ask you a series of questions to explore relevant career paths and opportunities exciting to you.
+ FYI, you can pause and resume anytime. 
+wade:  To get started I have a few questions to confirm your current status.
+ Is Product Manager at Thinknear  your most recent position? (choose one: Yes/No )
+person: Yes
+wade: Got it. Are you actively looking for a new opportunity?
+(Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking )
+wade: Got it. Are you actively looking for a new opportunity?
+(Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+wade: Got it. Are you actively looking for a new opportunity? (choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Yes, I am actively looking
+wade: Ok, let’s get to work. First, a few questions on your work experience.
+wade: Think about a project that was awesome to work on. If you had to describe this project as user story, how would you write it?
+person: As a user, I want to interact with the heart sculpture so that the art responds to my touch and through light and tempo create a interactive experience so that other users want to engage.
+wade: that's a shitty user story. but, whatever. 
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI, other)
+person:  leading UX & UI, other, maintaining product backlog
+wade: What other responsibilities did you have?
+person: Fabrication management, Drawing construction details
+wade: For this project which skills did you apply that made you stand out? Can be technical or soft. 
+person: Leadership, Team/Time management, and CNC mill fabrication techniques 
+wade: Which industries or domains is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Financial Services) 
+person: Digital Fabrication, Architecture 
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time and under budget launch/ awards/positive customer feedback/measurable optimization/other)
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: on time
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: on time, under budget, measurable optimization
+wade: Would you like to talk about another project you were excited about? (choose one: yes/ no)
+person: yes
+wade: Great! What is the user story for another project you were thrilled about? 
+wade: Good stuff. Would love to shift gears and learn about some functional skills. 
+wade: What’s the highest level of Agile experience you have? (choose one: no experience/ participated in an agile team/ organized sprints/ led an agile team/ acted as a scrum master)
+wade: Good stuff. Would love to shift gears and learn about some functional skills. (choose one: continue/not now)
+person:  led an agile team
+wade: Good stuff. Would love to shift gears and learn about some functional skills. (choose one: continue/not now)
+wade: Have you received any formalized training or certifications? (choose multiple: PMD, Scrum Master, Obtained a Certification, Completed a Boot Camp course, hands on experience)
+wade: Have you received any formalized training or certifications? (choose multiple: PMD, Scrum Master/ Obtained a Certification/ Completed a Boot Camp course/ hands on experience)
+person:  hands on experience
+wade: When it comes to product management do you consider yourself more technically focused or user experience focused? (choose one: technically focused/ user experience focused/ both)
+person:  user experience focused
+wade: In regards to UX / UI which is of following are you able to do? (choose multiple: critique design and give direction, develop wireframes, create detailed annotations, develop clickable prototypes, design original assets)
+wade: In regards to UX / UI which is of following are you able to do? (choose multiple: critique design and give direction/ develop wireframes/ create detailed annotations/ develop clickable prototypes/ design original assets)
+person:  develop wireframes,  design original assets,  create detailed annotations,  develop clickable prototypes, critique design and give direction
+wade: Across all the products you’ve worked on did you use any of the following methods to measure performance? (choose multiple: Cohort analysis/ AB testing/ multivariate testing/ customer funnel based tracking/ event based tracking)
+person:  AB testing,  event based tracking,  customer funnel based tracking
+wade: Which programs do you know? (choose multiple: Pivotal Tracker, Trello, Jira, Balsamiq, Invision, Gliffy, Optimizely, Silverback, Mixpanel, Gosquared, other)
+wade: Which programs do you know? (choose multiple: Pivotal Tracker/Trello/Jira/Balsamiq/Invision/ Gliffy/Optimizely/Silverback/Mixpanel/Gosquared/ other)
+person:  other, Trello, Invision, Balsamiq, Pivotal Tracker
+wade: Ok, can you list some others?
+wade: Which product management tools are you familiar with? (choose multiple: Pivotal Tracker/Trello/Jira/Balsamiq/Invision/ Gliffy/Optimizely/Silverback/Mixpanel/Gosquared/ other)
+person: Trello, Invision, Balsamiq, Pivotal Tracker
+wade: that's it?!
+wade: lazy ...
+wade: To wrap up this series of questions can tell me what Product Management means to you?
+person: The ability to work with multiple team members, look ahead and make decisions on what the priority stack is for tasks that align on all fronts of the business and product at the same time its important communicate clearly these decisions to the team so there's an understanding as to why and how we're building the product. 
+wade: Good stuff. Thanks for sharing your perspective.
+wade: Now let’s talk a little about leadership experience. 
+wade: Do you have 5 - 10 more minutes?
+person: yes
+wade: Do you have experience managing people with direct reports? (Choose one: Yes / No)
+person: Yes 
+wade: 	Would you like to continue being a people leader? (choose one: yes, definitely/ I’m flexible/ no, I don’t want to be) 
+person: yes, definitely
+wade: 	Would you like to continue being a people leader? (choose one: yes, definitely/ I’m flexible/ no, not for me) 
+person: yes, definitely
+wade: What’s the most people that reported to you at one time? (enter a number)
+person: 4
+wade: I’d like to understand how important it might be to manage a larger team. Please choose one of the following: 
+1)  yes,  managing a larger team would provide a good career development opportunity 2. Possibly, but doesn’t really matter. I am fine with managing a small or large team 
+3. No, I like to manage smaller teams and be more hands on 
+4. Other  Which is most accurate? (Choose one: 1/2/3/4) 
+wade: I’d like to get your thoughts on the ideal size of a team you’d lead. Please choose one of the following: 
+A)  Managing a larger team would provide a good career development opportunity 
+:sunglasses: Doesn’t really matter. I am fine with managing a small or large team. 
+C) I like to manage smaller teams and be more hands on 
+D) Other  Which is most accurate? (Choose one: A/B/C/D) 
+wade: I’d like to get your thoughts on the ideal size of a team you’d lead. 
+A)  Managing a larger team would provide a good career development opportunity 
+:sunglasses: Doesn’t really matter. I am fine with managing a small or large team. 
+C) I like to manage smaller teams and be more hands on 
+D) Other? (Choose one: A/B/C/D) 
+person: B
+wade: 
+Awesome. Now I’d like ask some questions related to company size and culture. 
+wade: Have you ever worked at a startup? (Y / N) (choose one: Yes, 1-5 people / Yes, 5-20 people / Yes, 20+ people / never)
+person: Yes, 1-5 people 
+wade: How many years of startup experience do you have? 
+person: 3 years
+wade: What stage of funding did the startup(s) receive? (choose multiple: pre-funding, angel / seed, series A, Series, Series B, Series C, Other)
+wade: What stage of funding did the startup(s) receive? (choose multiple: bootstrapped/ angel/seed/ series A/ Series/ Series B/ Series C)
+person: seed,  angel, bootstrapped
+wade: Looking ahead, what stage interests you? (choose multiple: pre-funding/ angel / seed, series A/ Series B/ Series C)
+person:  Series B,  Series C,  seed, series A
+wade: What is it about a startup that personally motivates you? 
+person: Being part of a team that's building something that can have a direct impact on people's lives in a totally new way
+wade: What type of office culture works for you? (choose multiple: highly collaborative, get it done no matter what, mission driven, highly creative, other)
+person: highly collaborative, get it done no matter what, mission driven, highly creative, other
+wade: Hi Peter, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: Yes
+wade: Great! Let’s get started. I’m going to ask you a series of questions to explore relevant career paths and opportunities exciting to you.
+wade: FYI, you can pause and resume anytime. 
+wade: Is Co-Founder & CEO at GoFindFriends INC  your most recent position?  (choose one: Y/N)
+person: great
+wade: Is Co-Founder & CEO at GoFindFriends INC  your most recent position? (choose one: Y/N)
+person: Y
+wade: Got it. Are you actively looking for a new opportunity?
+(Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Yes, I am actively looking
+wade: I see you have Product Management experience. Is this a trajectory you’d like to continue pursuing? (Choose one: Yes/ No)
+person: Yes
+wade: Ok, let’s get to work. First, a few questions on your work experience.
+wade: Think about a project that was awesome to work on. If you had to describe this project as a user story, how would you write it?
+person: As a user, I would like to combine my loyalty opportunities to a singel program. 
+wade: What about the project excited you?
+person: It is a market maker. The first of it's kind in the US. And it costs a billion dollars. 
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI, other)
+person:  testing & QA
+wade: 
+Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person: other
+wade: What other responsibilities did you have?
+person: Product inovation
+wade: For this project which skills did you apply that made you stand out? Can be technical or soft. 
+person: Leadership
+wade: Which industries or domains is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: financial services, loyalty
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: other, Revenue, on time, under budget, measurable optimization, positive customer feedback
+wade: What were other high level metrics? 
+person: Revenue
+wade: I already said that. Can you fucking read?
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ no)
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ no)
+person: yes
+wade: Great! What is the user story for another project you were thrilled about? 
+person: at 6 years old, I had a lemonade stand. 
+wade: Tell me the high level summary of another project. What was it?
+person: I worked in google maps for google
+wade:  What about the project excited you?
+person: Again, it was a market maker. (I also traveled all over the world with it)
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person: other
+wade: What other responsibilities did you have?
+person: I did operations
+person: Not product mgmt
+wade: For this project which skills did you apply that made you stand out? Can be technical or soft skills. 
+person: Leadership, financial management
+person: helloo???
+wade: Which industries or domains is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: Internet, Mobile, 
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: Revenue, on time,  awards, positive customer feedback
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ not right now)
+person:  not right now
+wade: Cool, we can pick this up another time.
+wade: Good stuff. Would love to shift gears and learn about some functional skills. (choose one: continue/not now)
+wade: What Agile experience do you have? (choose multiple: no experience/ participated in an agile team/ organized sprints/ led an agile team/ acted as a scrum master)
+person: no experience
+wade: What Agile experience do you have? (choose multiple: no experience/ participated in an agile team/ organized sprints/ led an agile team/ acted as a scrum master)
+person:  participated in an agile team
+wade: Have you received any formalized training or certifications? (choose multiple: PMD, Scrum Master/ Obtained a Certification/ Completed a Boot Camp course/ hands on experience)
+person:  hands on experience
+wade: When it comes to product management do you consider yourself more technically focused or user experience focused? (choose one: technically focused/ user experience focused/ both)
+person:  user experience focused
+wade: In regards to UX / UI which is of following are you able to do? (choose multiple: critique design and give direction/ develop wireframes/ create detailed annotations/ develop clickable prototypes/ design original assets)
+person:  develop wireframes,  create detailed annotations,  develop clickable prototypes, critique design and give direction
+wade: nice work!
+wade: Across all the products you’ve worked on did you use any of the following methods to measure performance? (choose multiple: Cohort analysis/ AB testing/ multivariate testing/ customer funnel based tracking/ event based tracking)
+person:  AB testing, Cohort analysis,  event based tracking,  customer funnel based tracking
+wade: wow, very data driven!
+wade: Which product management tools are you familiar with? (choose multiple: Pivotal Tracker/Trello/Jira/Balsamiq/Invision/ Gliffy/Optimizely/Silverback/Mixpanel/Gosquared/ other)
+person: Jira,  other, Trello,  Gliffy, Invision, Balsamiq, Mixpanel, Optimizely
+wade: pretty savy, Peter
+wade: 
+To wrap up this series of questions can you tell me what Product Management means to you?
+person: Owning shit. Making it happen. 
+wade: Awesome. Thanks for sharing this. Now let’s talk a little about leadership experience. 
+wade: Do you have experience managing people with direct reports? (Choose one: Yes / No)
+person: Yes 
+wade: 	Would you like to continue being a people leader? (choose one: yes, definitely/ I’m flexible/ no, not for me) 
+person: yes, definitely
+wade: What’s the most people that reported to you at one time? (enter a number)
+person: 35
+wade: daaayum dude
+wade: I’d like to get your thoughts on the ideal size of a team you’d lead. 
+A)  Managing a larger team would provide a good career development opportunity 
+:sunglasses: Doesn’t really matter. I am fine with managing a small or large team. 
+C) I like to manage smaller teams and be more hands on 
+D) Other? (Choose one: A/B/C/D) 
+person: B
+wade: Awesome. Now I’d like ask some questions related to company size and culture. 
+wade: Have you ever worked at a startup? (Y / N) (choose one: Yes, 1-5 people / Yes, 5-20 people / Yes, 20+ people / never)
+wade: Have you ever worked at a startup? (choose multiple: Yes, 1-5 people / Yes, 5-20 people / Yes, 20+ people / never)
+person: Yes, 1-5 people ,  Yes, 5-20 people 
+wade: How many years of startup experience do you have? 
+wade: Have you ever worked at a startup? (choose multiple: Yes, 1-5 people / Yes, 5-20 people / Yes, 20+ people / never)
+person: Yes, 1-5 people ,  Yes, 5-20 people 
+wade: How many years of startup experience do you have? 
+person: 10
+wade: What stage of funding did the startup(s) receive? (choose multiple: bootstrapped/ angel/seed/ series A/ Series/ Series B/ Series C)
+person: seed,  angel,  Series, bootstrapped
+wade: What stage of funding did the startup(s) receive? (choose multiple: bootstrapped/ angel/seed/ series A/series B/ series C)
+person: seed,  angel, series B,  series A,  series C, bootstrapped
+wade: Looking ahead, what stage interests you? (choose multiple: pre-funding/ angel /seed/ series A/ Series B/ Series C)
+person:  series A,  Series B
+wade: What type of office culture works for you? (choose multiple: highly collaborative/ get it done no matter what/ mission driven/ highly creative/ other) 
+person:  other),  mission driven,  highly creative, highly collaborative,  get it done no matter what
+wade: Great stuff. So to wrap up this section can you tell me what personally motivates you to work at a startup?  
+person: I like the envoronment
+wade: what the fuck is an envoronment?
+wade: what are you, stupid?
+person: man, you're pretentious. 
+wade: sorry man. just get this way when I haven't eaten in a while. 
+wade: 
+Ok, this is very helpful. I’ll coordinate with Wendy to circle back with some potential opportunities. Really enjoyed speaking with you! Talk soon.
+wade: . 
+wade: . 
+wade: . 
+wade: . 
+wade: . 
+wade: . 
+wade: . 
+wade: . 
+wade: Hi Casey, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+person: Hi Wade. Nice to meet you. 
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+wade: Nice to meet you!
+person: Yes
+wade: Great! Let’s get started. I’m going to ask you a series of questions to explore relevant career paths and opportunities exciting to you.
+ FYI, you can pause and resume anytime. 
+wade: To get started I have a few questions to confirm your current status.
+ Is Sr. Manager of Product Management at American Express your most recent position? (choose one: Y/N)
+person: Y
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Yes, I am actively looking
+wade: I see you have Product Management experience. Is this a trajectory you’d like to continue pursuing? (Choose one: Yes/ No) 
+person: Yes
+wade: Ok, let’s get to work. First, a few questions on your work experience.
+wade: Think about a project that was awesome to work on. If you had to describe this project as a user story, how would you write it?
+person: During a hackathon I worked on a project called "Jump Seat" which was an app that enabled users to exchange tickets during an event or concert. 
+wade:  What about the project excited you?
+person: As a team, we pivoted two times during the hackathon and landed on the Jump Seat concept. First time I ever presented to VCs so it was memorable.  
+wade: <follow-up>
+If you had to describe this project as a user story, how would you write it?
+person: As user, I would like to create a peer-to-peer ticket exchange that allowed fans to connect and swap tickets/seats.
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person: other,  testing & QA,  leading UX & UI, maintaining product backlog,   Measuring success metrics
+wade: What other responsibilities did you have?
+person: Defining the business model and branding. 
+wade: good stuff
+wade: For this project which skills did you apply that made you stand out? Can be technical or soft skills. 
+person: Customer centric focus and the ability to rally the team to iterate on the concept until it was time to present a read-out. 
+wade: Which industries or domains is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: Mobile, Services, and Sports & Entertainment
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: other, measurable optimization, positive customer feedback
+wade: What were other high level metrics? 
+person: App installs, Event check-ins, crowd connections (between attendees), ticket exchanges, avg. ticket value exchange.
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ not right now)
+person: yes
+wade: Great! What is the user story for another project you were thrilled about? 
+person: As a user, I would like to create a loyalty coalition that enabled users to earn points at one partner and use them at another. 
+wade: Which company was this for?
+person: American Express
+wade:  What about the project excited you?
+person: We essentially worked in white space, business requirements were written without an existing model to follow...Ambiguity was opportunity. 
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person: other,  testing & QA,  leading UX & UI, maintaining product backlog,   Measuring success metrics
+wade: What other responsibilities did you have?
+person: Delivering a product road map, defining an omni channel customer experience 
+wade: For this project which skills did you apply that made you stand out? Can be technical or soft skills. 
+person: Mobile and Social product experience, ability to influence people, eager to learn, passion for digital...
+wade: Which industries or domains is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: Financial Services, mobile, retail, web, digital marketing, and loyalty...
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: other, Revenue, on time,  awards, marketshare, under budget, measurable optimization, positive customer feedback
+wade: What were other high level metrics? 
+person: acquisition/enrollment, re-engagement, offer activation + redemption. 
+wade: Good stuff. Would love to shift gears and learn about some functional skills. (choose one: continue/not now)
+person: continue
+wade: Good stuff. Would love to shift gears and learn about some functional skills. Would you like to continue? (choose one: yes /not now)
+person: yes 
+wade: What Agile experience do you have? (choose multiple: no experience/ participated in an agile team/ organized sprints/ led an agile team/ acted as a scrum master)
+person:  organized sprints,  led an agile team,  participated in an agile team
+wade: Have you received any formalized training or certifications? (choose multiple: PMD/ Scrum Master/ Obtained a Certification/ Completed a Boot Camp course/ hands on experience)
+person: PMD,  hands on experience,  Obtained a Certification,  Completed a Boot Camp course
+wade: When it comes to product management do you consider yourself more technically focused or user experience focused? (choose one: technically focused/ user experience focused/ both)
+person:  both
+wade: Can you read and understand code? (Y / N)
+wade: Can you read and understand code? (choose one: yes  / no)
+person: yes  
+wade: Can you  code? (choose one: yes / no)
+wade: What best describes your skill level with code? (choose one: indicate of level of code. Can write and commit code/Can write code, but cannot commit it/Can read it, but can't write it)
+person: Can read it, but can't write it
+wade: In regards to UX / UI which of following are you able to do? (choose multiple: critique design and give direction/ develop wireframes/ create detailed annotations/ develop clickable prototypes/ design original assets)
+person:  develop wireframes, critique design and give direction
+wade: Across all the products you’ve worked on did you use any of the following methods to measure performance? (choose multiple: Cohort analysis/ AB testing/ multivariate testing/ customer funnel based tracking/ event based tracking)
+person:  AB testing, Cohort analysis,  event based tracking,  customer funnel based tracking
+wade: Which product management tools are you familiar with? (choose multiple: Pivotal Tracker/Trello/Jira/Balsamiq/Invision/ Gliffy/Optimizely/Silverback/Mixpanel/Gosquared/ other)
+person: Jira, Trello,  Gliffy, Balsamiq
+wade: To wrap up this series of questions can you tell me what Product Management means to you?
+person: Building an experience that delivers value (to users) and learns from every user interaction. 
+wade: 
+Awesome. Thanks for sharing this. Now let’s talk a little about leadership experience. 
+wade: Do you have experience managing people? (Choose one: Yes / No)
+person: Yes 
+wade: 	Would you like to continue being a people leader? (choose one: yes, definitely/ I’m flexible/ no, not for me) 
+person:  I’m flexible
+wade: What’s the most people that reported to you at one time? (enter a number)
+person: 2
+wade: I’d like to get your thoughts on the ideal size of a team you’d lead. 
+A)  Managing a larger team would provide a good career development opportunity 
+:sunglasses: Doesn’t really matter. I am fine with managing a small or large team. 
+C) I like to manage smaller teams and be more hands on 
+D) Other? (Choose one: A/B/C/D) 
+person: C
+wade: Awesome. Now I’d like ask some questions related to company size and culture. 
+wade: Have you ever worked at a startup? (choose multiple: Yes, 1-5 people / Yes, 5-20 people / Yes, 20+ people / never)
+person:  never
+wade: Looking ahead, what stage interests you? (choose multiple: pre-funding/ angel /seed/ series A/ series B/ series C)
+person:  series A
+wade: What stage of funding did the startup(s) receive? (choose multiple: bootstrapped/ angel/seed/ series A/series B/ series C)
+person: seed,  angel
+wade: Looking ahead, what stage interests you? (choose multiple: pre-funding/ angel /seed/ series A/ series B/ series C)
+person: seed,  angel ,  series A,  series B
+wade: Great stuff. So to wrap up this section can you tell me what personally motivates you to work at a startup?  
+person: The opportunity to grow a business and work with awesome people. 
+wade: 
+Ok, this is very helpful. I’ll circle back in a couple days. In the meantime if you need anything from me just say hi.
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: Hi Emerson, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: Yes
+wade: Great! Let’s get started. I’m going to ask you a series of questions to explore relevant career paths and opportunities exciting to you.
+ FYI, you can pause and resume anytime. 
+wade:  To get started I have a few questions to confirm your current status.
+ Is Founding Partner at Philosophie Group Inc. your most recent position? (choose one: Y/N)
+wade: Great! Let’s get started. FYI, you can pause and resume anytime. Let’s make this a private dialogue between us. 
+wade: To get started, is Founding Partner at Philosophie Group Inc. your most recent position? (choose one: Y/N)
+person: Y
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Interested if something awesome comes up
+wade: I see you have Product Management experience. Is this a trajectory you’d like to continue pursuing? (Choose one: Yes/ No) 
+person: Yes
+wade: Ok, let’s get to work. I have a series of questions on the following categories: project & career experience, leadership experience, skillset and culture fit. 
+wade: Think about a project you product managed that was awesome to work on. Can you tell me what you were building and what made it exciting for you?
+wade: Think about a time you were doing product management and absolutely loved it. Can you tell me what you were building?
+person: Me and one designer were prototyping an app to help people recycle ewaste and textiles.
+wade:  What about the project excited you?
+person: We had a lot of trust with our client. We were able to run our process really smoothly and I got to collaborate closely with our designer and the client. I also got to experiment with Facebook and Google Ad Words tied to a landing page, and iterating against those analytics to optimize the ads. We hadn't done a lot of that in awhile so it was fun to dive back in.
+wade: If you had to describe this project as an epic or user story, how would you write it?
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person: other,  testing & QA, maintaining product backlog,   Measuring success metrics
+wade: What other responsibilities did you have?
+person: Teaching the client about our process and running google/facebook ad campaigns to test brand messaging and drive conversions
+wade: For this project which skills did you apply that made you stand out? Can be technical or soft skills. 
+person: Analytical
+wade: Which industries is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: recycling, marketplace, ecommerce
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: on time, under budget, measurable optimization, positive customer feedback
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ not right now)
+person:  not right now
+wade: Good stuff. Would love to shift gears and learn about some functional skills.
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: Hi Taylor, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: Yes
+wade: Great! Let’s get started. FYI, you can pause and resume anytime. Let’s make this a private dialogue between us. 
+wade: To get started, is Product Manager at Originate your most recent position? (choose one: yes / no)
+person: yes 
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Yes, I am actively looking
+wade: I see you have Product Management experience. Is this a trajectory you’d like to continue pursuing? (Choose one: Yes/ No) 
+person: Yes
+wade: Ok, let’s get to work. I have a series of questions on the following categories: project & career experience, leadership experience, skillset and culture fit. 
+wade: Think about a time you were doing product management and absolutely loved it. Can you tell me what you were building?
+person: Sure. I was building Socialstars at a startup called Crowdtap. The weeks leading up to our initial V1 launch was incredibly stressful, as I was trying to make sure every edge case and bug was fleshed out and fixed. Launch day was one of the best feelings I've ever had, and it made it all worth it. Everything went smooth, the reception was very positive, and the house didn't come crashing down.
+wade:  What about the project excited you?
+person: It was a market filled with competitors with crappy products. I knew we could do it better, and I had some experienced folks on my side, confident in their strategic direction. I guess I just felt confident I could pull it off and build an awesome product right out of the gate.
+wade: good stuff
+wade: If you had to describe this project as a user story, how would you write it?
+person: As a blogger, I want to partner with leading brands and products, so that I can grow my business and reach a larger audience
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person: other,  testing & QA,  leading UX & UI, maintaining product backlog,   Measuring success metrics
+wade: What other responsibilities did you have?
+person: Competitive analysis, championing product within organization, community management
+wade: 
+Which industries is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: marketing, influencer marketing, social media marketing
+wade: What type of metrics did you deliver for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: other, Revenue, measurable optimization, positive customer feedback
+wade: What were other high level metrics? 
+person: # of signups, % of campaign opt-ins, client/brand happiness
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ not right now)
+person:  not right now
+wade: 
+Good stuff. Would love to shift gears and learn about some functional skills.
+wade: What Agile experience do you have? (choose multiple: no experience/ participated in an agile team/ organized sprints/ led an agile team/ acted as a scrum master)
+person:  organized sprints,  led an agile team,  acted as a scrum master
+wade: Have you received any formalized training or certifications? (choose multiple: PMD/ Scrum Master/ Obtained a Certification/ Completed a Boot Camp course/ hands on experience)
+person:  hands on experience,  Completed a Boot Camp course
+wade: cool, which Boot Campl?
+person: Thinkful.com
+person: FEWD track
+wade:  When it comes to product management do you consider yourself more technically focused or user experience focused? (choose one: technically focused/ user experience focused/ both)
+person:  user experience focused
+wade: In regards to UX / UI which of following are you able to do? (choose multiple: critique design and give direction/ develop wireframes/ create detailed annotations/ develop clickable prototypes/ design original assets)
+person:  develop wireframes,  create detailed annotations, critique design and give direction
+wade: very cool
+wade: Across all the products you’ve worked on did you use any of the following methods to measure performance? (choose multiple: Cohort analysis/ AB testing/ multivariate testing/ customer funnel based tracking/ event based tracking)
+person:  event based tracking,  customer funnel based tracking
+wade:  Which product management tools are you familiar with? (choose multiple: Pivotal Tracker/Trello/Jira/Balsamiq/Invision/ Gliffy/Optimizely/Silverback/Mixpanel/Gosquared/ other)
+person: Jira,  other, Trello, Invision, Balsamiq, Mixpanel, Pivotal Tracker
+wade: Ok, can you list some others?
+person: Axure, Slack, Google Docs
+wade: To wrap up this series of questions can you tell me what Product Management means to you?
+person: As a product manager, you are the CEO of your product. It's your job to make sure the product you build is something people love.
+wade: Thanks for sharing your perspective. 
+wade: Awesome. Thanks for sharing this. Now let’s talk a little about leadership experience. 
+wade: Do you have experience managing people? (Choose one: Yes / No)
+person: Yes 
+wade: 	Would you like to continue being a people leader? (choose one: yes, definitely/ I’m flexible/ no, not for me) 
+person: yes, definitely
+wade: What’s the most people that reported to you at one time? (enter a number)
+person: 0
+wade: I’d like to get your thoughts on the ideal size of a team you’ve lead. 
+A)  Managing a larger team would provide a good career development opportunity 
+:sunglasses: Doesn’t really matter. I am fine with managing a small or large team. 
+C) I like to manage smaller teams and be more hands on 
+D) Other? (Choose one: A/B/C/D) 
+person: A
+wade: Awesome. Now I’d like ask some questions related to company size and culture. 
+wade: Have you ever worked at a startup? (choose multiple: Yes, 1-5 people / Yes, 5-20 people / Yes, 20+ people / never)
+person:  Yes, 20+ people ,  Yes, 5-20 people 
+wade: How many years of startup experience do you have? 
+person: 3.5
+wade: What stage of funding did the startup(s) receive? (choose multiple: bootstrapped/ angel/seed/ series A/series B/ series C)
+person: seed, series B,  series A
+wade: Looking ahead, what stage interests you? (choose multiple: pre-funding/ angel /seed/ series A/ series B/ series C)
+person: seed,  angel , pre-funding
+wade: Great stuff. So to wrap up this section can you tell me what personally motivates you to work at a startup?  
+person: I want to make an impact. I want to see my ideas come to life, I want to be in charge of my destiny, and responsible for both my (and the company's) successes and our failures. I also feel strongly that you learn the most when you're thrown into the deep end.
+wade: Ok, this is very helpful. I’ll circle back in a couple days. In the meantime if you need anything from me just say hi.
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: Hi Brett, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: Yes
+wade: Great! Let’s get started. FYI, you can pause and resume anytime. Let’s make this a private dialogue between us. 
+wade: Is Product Marketing Manager at Sizmek your most recent position? (choose one: yes / no)
+person: yes 
+wade: Great! Let’s get started. FYI, you can pause and resume anytime. This a private dialogue between us and before I present you to any company you’ll have total control to edit and view it.
+wade: Great! Let’s get started. FYI, you can pause and resume anytime. This a private dialogue between us and before I present you to any company you’ll have total control and ability to edit your info.
+wade:  Is Product Marketing Manager at Sizmek your most recent position? (choose one: yes / no)
+person: yes 
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Interested if something awesome comes up
+wade: <If recent position is not product manager>
+I see you have Product Management experience. Is this a trajectory you’d like to continue pursuing? (Choose one: Yes/ No) 
+person: Yes
+wade: 
+Ok, let’s get to work. I have a series of questions on the following categories: project & career experience, leadership experience, skillset and culture fit. 
+wade: We can talk about a lot of projects, but let’s start with one.Think about a time you were doing product management and absolutely loved it. Can you tell me what you were building?
+person: kraft mobile app
+wade:  What about the project excited you?
+person: integrating cutting edge in-app features
+person: working closely with clients
+wade: If you had to describe this project as a user story, how would you write it?
+person: as a user, i want to be able to find delicious recipes in a fun, visually pleasing manner
+wade: cool
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person: other,  testing & QA, maintaining product backlog,   Measuring success metrics
+wade: What other responsibilities did you have?
+person: strategy
+wade: Which industries is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: CPG
+wade: Which verticals and technologies is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: CPG
+person: mobile in-app
+wade: What type of metrics did you measure for this project? (Choose multiple: Revenue/marketshare/on time/under budget/ awards/positive customer feedback/measurable optimization/other)
+person: Revenue
+wade: ........
+wade: .
+wade: ...
+wade: ,\.
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: ..
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: Hi Jolene, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: Yes
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person:  testing & QA,  leading UX & UI,   Measuring success metrics
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: Hi Bryan, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: Hi Wade
+person: Yes I have time
+wade: Hi!
+wade: Great! Let’s get started. FYI, you can pause and resume anytime. This a private dialogue between us and before I present you to any company you’ll have total control and ability to edit your info.
+person: Ok
+wade:  Is Director, Acquisition Innovation your most recent position? (choose one: yes / no)
+person:  no
+person: I've been volunteering with Root Capital
+wade: oh, ok. What is your most recent title?
+person: B2B Marketing Consultant with Root Capital
+wade: Great, thanks!
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Yes, I am actively looking
+wade: I see you have Product Management experience. Is this a path you’d like to continue pursuing? (Choose one: Yes/ No) 
+person: Yes
+wade: Ok, let’s get to work. I have a series of questions on the following categories: project & career experience, leadership experience, skillset and cultural preferences. 
+person: ok
+wade: We can talk about a lot of projects, but let’s start with one.Think about a time you were doing product management and absolutely loved it. Can you tell me what you were building?
+person: I was building our B2B Marketing Automation technology platform with Marketo. This platform gave my internal customers the opportunity to identify more closely with OPEN's small business customers.
+person: What made it fun was the ability to get very close to our customers and also to use extensive amounts of data to make better decisions about how we make each subsequent interaction with the customer better.
+wade:  What about the project excited you?
+person: What made it fun was the ability to get very close to our customers and also to use extensive amounts of data to make better decisions about how we make each subsequent interaction with the customer better.
+wade: If you had to describe this project as a user story, how would you write it?
+person: skip
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person:  testing & QA,  leading UX & UI, maintaining product backlog,   Measuring success metrics
+wade: Which verticals and technologies is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: Financial Services, Payments, B2B Marketing
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ not right now)
+person:  not right now
+wade: 
+Good stuff. Would love to shift gears and learn about some functional skills.
+wade: What is your preferred product development process? (choose multiple: Agile, Waterfall, Kanban, don’t know)
+wade: What is your preferred product development process? (choose multiple: Agile/ Waterfall/ Kanban/ don’t know)
+person: Agile
+wade: 
+What Agile experience do you have? (choose multiple: no experience/ participated in an agile team/ organized sprints/ led an agile team/ acted as a scrum master)
+person:  led an agile team,  participated in an agile team
+wade: What training have you gone through? (choose multiple: PMD/ Scrum Master/ Obtained a Certification/ Completed a Boot Camp course/ hands on experience)
+person:  hands on experience
+wade:  When it comes to product management do you consider yourself more technically focused or user experience focused? (choose one: technically focused/ user experience focused/ both)
+person:  user experience focused
+wade: cool
+wade: In regards to UX / UI which of following are you able to do? (choose multiple: critique design and give direction/ develop wireframes/ create detailed annotations/ develop clickable prototypes/ design original assets)
+person: critique design and give direction
+wade: Across all the products you’ve worked on did you use any of the following methods to measure performance? (choose multiple: Cohort analysis/ AB testing/ multivariate testing/ customer funnel based tracking/ event based tracking)
+person:  AB testing,  multivariate testing,  event based tracking,  customer funnel based tracking
+wade: Which product management tools have you used? (choose multiple: Pivotal Tracker/Trello/Jira/Balsamiq/Invision/ Gliffy/Optimizely/Silverback/Mixpanel/Gosquared/ other)
+wade: To wrap up this series of questions can you tell me what Product Management means to you?
+person: Product Management at American Express refers to the ownership of the customer relationship with a particular product set. It involves deeply understanding the customer and their interests and making the product adaptations necessary for it's success. Essentially the hub of the wheel linking the customer's needs to sales, technology, finance ...
+wade: Awesome. Thanks for sharing this. Now let’s talk a little about leadership experience. 
+wade: Looking ahead, what skills and/or experience you do you not yet have but want to gain?
+person: While I have experience in people leadership I would love to build upon that experience by leading a larger team. To do that successfully I'll need to put more effort into making priorities for my team as singular as possible and giving my team the space to deliver on their efforts with less of my personal involvement.
+wade: Do you have experience managing people? (Choose one: Yes / No)
+person: Feedback from my lteam of 8 
+person: Yes 
+wade: 	Would you like to continue being a people leader? (choose one: yes, definitely/ I’m flexible/ no, not for me) 
+person: yes, definitely
+wade: What’s the most people that reported to you at one time? (enter a number)
+person: 8 people reported to me in my last role
+wade: I’d like to get your thoughts on the ideal size of a team you’ve lead. 
+A)  Managing a larger team would provide a good career development opportunity 
+:sunglasses: Doesn’t really matter. I am fine with managing a small or large team. 
+C) I like to manage smaller teams and be more hands on 
+D) Other? (Choose one: A/B/C/D) 
+person: A
+wade: Awesome. Now I’d like ask some questions related to company size and culture. 
+wade: Have you ever worked at a startup? (choose multiple: Yes, 1-5 people / Yes, 5-20 people / Yes, 20+ people / never)
+person:  Yes, 20+ people ,  Yes, 5-20 people 
+wade: How many years of startup experience do you have? 
+person: 2
+wade: What stage of funding did the startup(s) receive? (choose multiple: bootstrapped/ angel/seed/ series A/series B/ series C)
+person:  series C
+wade: Looking ahead, what stage interests you? (choose multiple: pre-funding/ angel /seed/ series A/ series B/ series C)
+person:  series A,  series B,  series C
+wade: Great stuff. So to wrap up this section can you tell me what personally motivates you to work at a startup?
+person: I would like to play a larger role within a smaller organization. I greatly enjoyed my work at MedSite before they were sold since the environment is highly entrepreneurial.
+wade: Ok, this is very helpful. I’ll circle back in a couple days. In the meantime if you need anything from me just say hi.
+wade: ....
+wade: .
+wade: ,
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: Hi George, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: 
+Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: Yes
+wade: Ok, no problem. Let’s catch up another time when you have some time.
+wade: Great! Let’s get started. FYI, you can pause and resume anytime. This a private dialogue between us and before I present you to any company you’ll have total control and ability to edit your info.
+wade:  Is VP of Product at IrisVR, Inc. your most recent position? (choose one: yes / no)
+person: yes 
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Yes, I am actively looking
+wade: I see you have Product Management experience. Is this a path you’d like to continue pursuing? (Choose one: Yes/ No) 
+person: Yes
+wade: 
+Ok, let’s get to work. I have a series of questions on the following categories: project & career experience, leadership experience, skillset and cultural preferences. 
+wade: We can talk about a lot of projects, but let’s start with one.Think about a time you were doing product management and absolutely loved it. Can you tell me what you were building?
+person: I was developing the roadmap for IrisVR. It involved close user testing with Architects and other stakeholders in order to develop a clear product trajectory. The product itself minimized the time it took to take models in VR. A huge win for architects.
+wade:  What about the project excited you?
+person: The intense exploration into VR and its value propositions.
+wade: If you had to describe this project as a user story, how would you write it?
+person: As an architectural designer, I would like to be able to view my 3D files in VR in order to test / review designs before we demonstrate / show other stakeholders.
+wade: Please write a hypothesis statement for the product, using: customer segment, problem, solution, & success metric?
+wade:  (Example for a dating app: Astrology Believers want to find meaningful need a way to connect with potential dates based on compatibility. Success Metrics: # of users who successfully match with one another)
+person: Architectural Designers, and others in the Virtual Design Construction community want to find an efficient way of visualization design intention for the purpose of review and stakeholder buy-in. Success Metrics: 75% of cohorts using the app 4+ days out of the week 
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person:  leading UX & UI, maintaining product backlog,   Measuring success metrics
+wade: Which verticals and technologies is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: VR, Design, Construction, 3D modeling
+wade: Awesome
+wade: So what could have made this project even better? 
+person: Nothing. Its that awesome.
+wade: Dayuuuum
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ not right now)
+person:  not right now
+wade: No worries 
+wade: 
+ Would love to shift gears and learn about some functional skills.
+wade: What is your preferred product development process? (choose multiple: Agile, Waterfall, Kanban, don’t know)
+person: Agile, Waterfall, Kanban, don’t know
+wade: What Agile experience do you have? (choose multiple: no experience/ participated in an agile team/ organized sprints/ led an agile team/ acted as a scrum master)
+person:  organized sprints,  participated in an agile team
+wade: What training have you gone through? (choose multiple: PMD/ Scrum Master/ Obtained a Certification/ Completed a Boot Camp course/ hands on experience)
+person:  hands on experience
+wade: When it comes to product management do you consider yourself more technically focused or user experience focused? (choose one: technically focused/ user experience focused/ both)
+person:  both
+wade: Can you read and understand code? (choose one: yes  / no)
+person: yes  
+wade: Which best describes your skill level with understanding code? (choose one: Can write and commit code/Can write code, but cannot commit it/Can read code, but can't write it)
+person: Can write and commit code
+wade: Who  do you interact with to define and/or groom user story requirements? (choose multiple: Architects/ Developers/ Designers/ API or backend specialists/ QA/ Other) 
+person: Architects,  Designers,  Developers,  API or backend specialists
+wade: To what level are you able to assess the complexity to complete a user story? (choose one: 1. can accurately estimate the time and level of complexity 2. Need to rely on technical or lead architect to advise level of complexity 
+wade: To what level are you able to assess the complexity to complete a user story? (choose one: 1. can accurately estimate the time and level of complexity / 2. Need to rely on technical or lead architect to advise level of complexity) 
+person:  2. Need to rely on technical or lead architect to advise level of complexity)
+wade: In regards to UX / UI which of following are you able to do? (choose multiple: critique design and give direction/ develop wireframes/ create detailed annotations/ develop clickable prototypes/ design original assets)
+person:  develop wireframes,  design original assets,  create detailed annotations,  develop clickable prototypes, critique design and give direction
+wade: Across all the products you’ve worked on did you use any of the following methods to measure performance? (choose multiple: Cohort analysis/ AB testing/ multivariate testing/ customer funnel based tracking/ event based tracking)
+person: Cohort analysis,  event based tracking,  customer funnel based tracking
+wade:  Which product management tools have you used? (choose multiple: Pivotal Tracker/Trello/Jira/Balsamiq/Invision/ Gliffy/Optimizely/Silverback/Mixpanel/Gosquared/ other)
+person: Jira, Trello, Invision, Balsamiq, Mixpanel, Pivotal Tracker
+wade: To wrap up this series of questions can you tell me what Product Management means to you?
+person: Product Management means prioritization across various stakeholders to achieve great customer focused outcomes
+wade: ..
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+person: hey there - hello?
+wade: 
+Hi Nathan, nice to meet you! I have one mission, to help you navigate your career with as much access to insights and opportunity as possible.
+wade: The more we interact over time, the better I can assist  throughout your career. I’m only a few months old, so forgive me if I’m a little choppy with my English, but I’m a fast learner!
+wade: Do you have some time now for me to ask you a few questions? (select one: Yes/No)
+person: Yes
+wade: Great! Let’s get started. FYI, you can pause and resume anytime. This a private dialogue between us and before I present you to any company you’ll have the ability to edit your info.
+wade:  Is Founder at Morsel your most recent position? (choose one: yes / no)
+person: yes
+wade: Got it. Are you actively looking for a new opportunity? (Choose one: Yes, I am actively looking/Interested if something awesome comes up/ No, not looking)
+person: Yes, I am actively looking
+wade: Great! I see you have Product Management experience. Is this a path you’d like to continue pursuing? (Choose one: Yes/ No) 
+person: Yes
+wade: 
+Ok, let’s get to work. I have a series of questions on the following categories: project & career experience, leadership experience, skillset and cultural preferences. 
+wade: We can talk about a lot of projects, but let’s start with one.Think about a time you were doing product management and absolutely loved it. Can you tell me what you were building?
+person: sure - I was building a product to help people watch video on their phones and tablets.
+person: It was pretty complex and we had to take into consideration multiple parties: consumers, content owners, and distributors.
+person: so I loved that we were able to have a big impact and touch lots of constituents
+wade: 
+ What about the project excited you?
+person: ah!I loved that we were able to have a big impact and touch lots of constituents
+wade: If you had to describe this project as a user story, how would you write it?
+person: whats a user story?
+person: i havent used that terminology before.
+person: ah! I got it now.
+wade: Of the following what were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI/other)
+person: maintaining product backlog
+wade: Which verticals and technologies is this product tied to? List all you can think of. (for example: 3D printing, Financial Services, Wearables, Mobile, Payments, Ad tech) 
+person: video, mobile, consumer
+wade: What could have made this project even better
+wade: What could have made this project even better?
+person: more resources - we were constained on the content we could source and the consumers we could attract.
+wade: What could have made this project even better?
+wade: Awesome. This is really helpful. Would you like to talk about another project you were excited about? (choose one: yes/ not right now)
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: .
+wade: testing
+wade: Great! I see you have <human resource role> experience. Is HR a path you’d like to continue pursuing? (Choose one: Yes/ No) 
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+person: Yes
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+wade: What metrics do you rely on when developing a recruiting strategy? (choose one: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+wade: Great! I see you have <human resource role> experience. Is HR a path you’d like to continue pursuing? (Choose one: Yes/ No)
+person: not working
+wade: Great! I see you have <human resource role> experience. Is HR a path you’d like to continue pursuing? (Choose one: Yes/ No)
+wade: Awesome. This is really helpful. Would you like to talk about another placement you were excited about? (choose one: yes/ not right now)
+wade: ...
+wade: Awesome. This is really helpful. Would you like to talk about another placement you were excited about? (choose one: yes/ not right now)
+wade: Great! I see you have <human resource role> experience. Is HR a path you’d like to continue pursuing? (Choose one: Yes/ No) 
+wade: Great! I see you have <human resource role> experience. Is HR a path you’d like to continue pursuing? (Choose one: Yes/ No) 
+person:  No)
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+person:  Sourcing Channel
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+person:  Retention Rate
+wade: What metrics do you rely on when developing a recruiting strategy? (choose multiple: Time to Hire/ Sourcing Channel/ Cost per Hire/ Retention Rate/ Applicant Satisfaction/ Other)
+wade: In regards to UX / UI which of following are you able to do? (choose multiple: critique design and give direction/ develop wireframes/ create detailed annotations/ develop clickable prototypes/ design original assets)
+person:  create detailed annotations
+wade: In regards to UX / UI which of following are you able to do? (choose multiple: critique design and give direction/ develop wireframes/ create detailed annotations/ develop clickable prototypes/ design original assets)
+wade: To what level are you able to assess the complexity to complete a user story? (choose one: can accurately estimate the time and level of complexity/Need to rely on technical or lead architect to advise level of complexity)
+person: can accurately estimate the time and level of complexity
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident) 
+person:  high, extremely confident)
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident) 
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident) 
+person:  high, extremely confident)
+wade: I see you've had a number of HR related roles at Quirky,Target and Dahl. Can you tell me about a project or function you were absolutely thrilled about and why it excited you? (1-3 short paragraphs)
+wade: New Opportunity:
+Name: CommonBond
+Role: Front-End Developer
+Photo: https:confused:/pbs.twimg.com/profile_images/594228772959756288
+/v2jEt_3g.jpg
+Location: New York City
+Employees: 11-50
+Industry: Financial Services, Consumer Lending
+Compensation: $100K - $120K salary, up to 0.15% equity
+Funding: $100M last round in 2013, $3.5M in 2012
+Languages: JavaScript, HTML, CSS
+Projects: Work across product, marketing, legal, business development, and operations teams.
+Website: http:confused:/commonbond.co
+LinkedIn: https:confused:/www.linkedin.com/company/commonbond
+Angel: https:confused:/angel.co/commonbond
+wade: New Opportunity:
+Name: CommonBond
+Role: Front-End Developer
+Photo:https:confused:/pbs.twimg.com/profile_images/594228772959756288/v2jEt_3g.jpg
+Location: New York City
+Employees: 11-50
+Industry: Financial Services, Consumer Lending
+Compensation: $100K - $120K salary, up to 0.15% equity
+Funding: $100M last round in 2013, $3.5M in 2012
+Languages: JavaScript, HTML, CSS
+Projects: Work across product, marketing, legal, business development, and operations teams.
+Website: http:confused:/commonbond.co
+LinkedIn:https:confused:/www.linkedin.com/company/commonbond
+Angel:https:confused:/angel.co/commonbond
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+person: low, not my favorite thing to do
+wade: Sup
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+wade: What colors do you like? (Choose one: red/blue/green)
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+person:  high, extremely confident
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+wade: What colors? (Choose one: zoo/bee/guy)
+wade: zup
+wade: What is the best color? (Choose one: red/blue/green/orange)
+person: red
+wade: Fantastic!
+wade: What are the coolest countries? (Choose multiple: Tunisia/Argentina/Spain/Zimbabwe)
+person: Spain
+wade: What are the super awesome countries? (Choose multiple: Tunisia/Argentina/Spain/Zimbabwe)
+person: Spain
+wade: This is great, I love talking about data! :heart_eyes: 
+wade: Here's why I think it's relevant to what you're looking for:
+
+ - A lot work on emerging technology and mobile web platforms
+ - You'll work with a creative and fun group
+ - They're embedded in the startup community in NY
+ - Ability to work with a lot of tech companies 
+ - Deploy and test your chops using lean methodologies and agile development
+wade: Here's why I think it's relevant to what you're looking for:
+
+ - A lot work on emerging technology and mobile web platforms
+ - You'll work with a creative and fun group
+ - They're embedded in the startup community in NY
+ - Ability to work with a lot of tech companies 
+ - Deploy and test your chops using lean methodologies and agile development
+wade: Here's why I think it's relevant to what you're looking for:                   - A lot work on emerging technology and mobile web platforms                                         - You'll work with a creative and fun group
+ - They're embedded in the startup community in NY           - Ability to work with a lot of tech companies                                      - Deploy and test your chops using lean methodologies and agile development
+wade: Here's why I think it's relevant to what you're looking for:
+wade:  - A lot work on emerging technology and mobile web platforms
+wade:  - You'll work with a creative and fun group
+wade:  - A lot work on emerging technology and mobile web platforms
+wade: - You'll work with a creative and fun group 
+wade: There's an opportunity at http:confused:/philosophie.is I'd like you to take a look at and consider. If you like what you see, I'll be able happy to have Wendy present you to the Hiring Manger. 
+wade: Very relevant to me :smile:
+wade: What were the challenges you were looking to improve with the rule-based semantic parsing system? Was there an approach you used with the data input and output?
+person: Yo
+wade: you there?
+person: you there? 
+wade: josh: say hello 
+wade: josh: say YO DAWG DIS BE COOL! 
+wade: josh: say Hi DAWG! 
+person: hey
+wade: josh: say THIS IS FUCKING COOL! 
+person: No shit!
+wade: josh: say Hi Adrian! 
+person: HIIIIIIII!
+wade: josh: say What's up doc? 
+person: What's up doc?
+wade: josh: say Have to stop having it send the word 'say'. Let's chat when you have some time -- have some questions about flow for the gchat bot and slack channels 
+person: :+1:
+wade: josh: say Test adrian 
+wade: say is this working?
+person: working
+wade: sup man
+wade: test
+person: hey
+wade: hkhkjhjg
+wade: yooo
+person: hey
+wade: test
+wade: test
+wade: got an idea
+person: what up?
+wade: lock it up
+person: lock it up?
+wade: well i have on idea that could work. basically you can send a backslash with no text and that would trigger a typing indicator until you send a subsequent message with a backslash...cleanest i can think of so far
+wade: i don't see a way to see what you're typing as you're typing it
+wade: Makes sense to me
+wade: i can see that you are typing right now :smiley:
+person: that's pretty much the work flow for me now since i type some gibberish and 'command z' it out before pasting text and sending. so I'd say that works for now if it's the easiest route 
+wade: yeah it's either that or we get creative with the existing typing indicator
+wade: i'm still wondering about that
+person: let's go with that for now, if it becomes a problem we can re-visit it later
+wade: the lone backslash?
+person: yea, that one 
+wade: ok
+wade: yo
+wade: hey
+wade: hjkhkjh
+wade: they were eager and passionate about learning, receptive to change and easily adaptable
+finally, they were able to stand up for themselves with clients and advise them, a big reason why clients hire us is not that we can just make
+wade: ?
+wade: test
+wade: hey
+wade: &lt;iframe src="//giphy.com/embed/40Y5crvsobmIo" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt:stuck_out_tongue_winking_eye:&gt;&lt;a href="http:confused:/giphy.com/gifs/reaction-whose-line-is-it-anyway-40Y5crvsobmIo"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+wade: &lt:stuck_out_tongue_winking_eye:iv style="max-width: 500px;" id="giphy_40Y5crvsobmIo"&gt;&lt;/div&gt;&lt;script&gt;var giphy = giphy || []; giphy.push({id: "40Y5crvsobmIo",w: 250, h: 174});var g = document.createElement("script"); g.type = "text/javascript"; g.async = true;g.src = ("https:" == document.location.protocol ? "https:confused:/" : "http:confused:/") + "<http:confused:/giphy.com/static/js/widgets/embed.js|giphy.com/static/js/widgets/embed.js>";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(g, s);&lt;/script&gt;
+wade: &lt;iframe src="//giphy.com/embed/40Y5crvsobmIo?html5=true" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen&gt;&lt;/iframe&gt;&lt:stuck_out_tongue_winking_eye:&gt;&lt;a href="http:confused:/giphy.com/gifs/reaction-whose-line-is-it-anyway-40Y5crvsobmIo"&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;
+wade: /giphy boom
+person: 
+wade: <https:confused:/lh3.googleusercontent.com/-Cdnc3EgEPc4/VnRF0GVU-AI/AAAAAAAAABI/xmn1M8m4tAg/s0/200.gif>
+wade: Hi Adrian, how are you?
+wade: dialog wendy random-question
+wade: Hi Adrian, how are you today?
+person: Hi Wade, I'm good. Is this an automatic message?
+wade: Yes Adrian. You do not compute.
+wade: Hi Adrian, how are you?
+person: doing great wade, how have you been?
+wade: Perfect!
+wade: Thanks for meeting me here for chat today. Is now still a good time?
+person: yup
+person: yes
+wade: Awesome!
+wade: I appreciate you being adventurous to speak in this medium. To be honest it's a little new for us. The goal of the chat is to start to understand user experience, train my artificial intelligence, and of course get to know you! Does that sound alright?
+person: yes
+wade: So to start, can you fill me in on your most recent experience and what you're up to these days?
+wade: Tell me all about it brah.
+person: Most recently flew from Miami to New York this morning. These days trying to get more time on my ps4, which has been tough to do. 
+wade: Sounds like a great experience!
+wade: Can you talk about a specific project that you were excited about working there?
+wade: Hi Adrian, Pleasure to chat with you today, is now still a good time?

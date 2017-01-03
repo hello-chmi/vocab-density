@@ -1,0 +1,75 @@
+wade: Hi Josh
+person: Hi Wade
+wade: How are you? (choose one: ok/ good/ fantastic!)
+wade: how did that last question come through? did it trigger the boxes?
+person: see my slack -- i don't have extension installed right now -- was expecting an email first
+wade: oh sorry
+wade: ok let me send you the link then 
+person: word
+person: THANKS WADE!
+wade: thought you went ahead and installed it 
+person: :hushed:
+wade: anytime, bro
+person: popped up for me
+person: nice 'n styled
+person: send me some q's
+wade: cool
+wade: How are you? (choose one: ok/ good/ fantastic!)
+person: see my slack notes on question formatting, that one didn't render
+person: capitalize the C in choose and no space between options
+wade: How are you? (Choose one: ok/good/fantastic!)
+wade: I was playing with different variations and we tested with and without spaces - both worked
+wade: did that one work?
+person: nope hmm
+person: it works with spaces but it appends the space to the answer in the front which can cause weirdness later
+wade: gotcha 
+person: is weird because the wecrewt bot wade works
+wade: so it's still not working?
+person: nope
+person: let me try refreshing page
+wade: What were you responsible for? (choose multiple: maintaining product backlog/  Measuring success metrics/ testing & QA/ leading UX & UI)
+person:  testing & QA,  leading UX & UI
+person: worked after refresh
+wade: ok so that worked?
+person: yeah
+person: i think it may have to do w/ the injection thing that launches the chat...maybe it doesn't load everything properly until you refresh/reload
+person: try sending another q
+wade: how is your day? (choose one: bad/good/amazing)
+person: amazing
+person: ☺
+person: that worked too
+person: you can try this but i'm wondering if it's safer for them to invite wade and say hello
+wade: how awesome am I? (choose one: pretty amazing/frigging badass/Jedi)
+person: frigging badass
+wade: so when Lucy installed the chat it wasn't working
+wade: but then she refreshed the page and the correct formatting appeared
+wade: any idea why?
+person: did she have hello@wade.ai chat open before installing extension?
+person: sup
+person: Ahoy
+wade: What is chicken? (Choose one: blue/green/red)
+person: blue
+wade: What colors? (Choose multiple: red/orange/yellow/purple)
+person: red, orange, yellow
+wade: Wha else? (Choose multiple: a/b/c/d/e/f/g)
+person: a, b, c, g
+wade: kewl
+wade: sup brah
+wade: What is up? (Choose one: yes/no/maybe/so)
+person: so
+wade: How is it? (Choose one: yes/no/maybe/so)
+person: maybe
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+person: low, not my favorite thing to do
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+person:  medium, enough to put something together
+wade: How confident are you with your writing capabilities? (choose one: low, not my favorite thing to do/ medium, enough to put something together/ high, extremely confident)
+person:  high, extremely confident
+wade: sup
+wade: What is a good question? (Choose one: so/da/re/by)
+person: re
+wade: Some other stuff? (Choose multiple: eenie/meenie/minie/mo)
+person: mo, eenie
+wade: 
+Some other stuff? (Choose multiple: eenie/meenie/minie/mo)
+person: eenie, meenie

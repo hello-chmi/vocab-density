@@ -1,0 +1,175 @@
+person: hi
+wade: Hi Abby, how are you doing today?
+person: good, how are you?
+wade: Very good, thank you. And thanks for taking the time to chat.
+wade: I appreciate you being adventurous to speak in this medium. 
+To be honest it's a little new for us ... 
+wade: The goal is to start to understand user experience, train my artificial intelligence, and of course get to know you!  
+person: Cool!
+wade: So I'd love to learn more about you. To start, want to fill me in on your most recent experience? And, what you're up to these days? 
+person: I am working as a full stack developer at Open Assembly
+person: Open Assembly is an educational platform that enables students to build their own community of learning around shared open educational resources. 
+person: I use Ruby on Rails and AngularJS to build, maintain, and debug system features on a daily basis. 
+person: My specific contributions to the platform have included refactoring model and controller actions in Rails, adding new UI features in AngularJS, and developing responsive views using Sass and Bootstrap.
+person: I am working on my own hobby app ABZ Exchange also.
+person: Recently I get into testing with Ruby.
+person: I am having a lot of fun doing unit testing and  integration testing for my app.
+wade: Very cool. Fun is important  ☺
+person: right
+wade: Can you tell me a little more about ABZ Exchange?
+person: yes, of course.
+person: I started building this app in Dec last year.
+person: while I was learning Ruby on Rails with thoughtbot developers.
+person: ABZ EXCHANGE is a trading app,
+person: which enable user to exchange items or services.
+person: User can See successful exchanges
+Add your own listing
+Make an offer on a listing
+Accept an offer
+Complete an exchange
+Add images
+Add groups
+Follow other users
+Add comments to listings, images and groups
+Find direction to reach another user
+Search listings, offers, users, images and comments.
+wade: Neat! 
+person: thank you!
+wade: So looking ahead, Is full-stack development a path you would like to continue to pursue?
+person: yes!
+person: My passion is build, build, build!
+wade: Thats great! So when you think about your next role, what are some skills and/or experience you’d like to gain?
+person: I want to learn D3, more Ruby testing,  
+person: data mining
+wade: I love data :heart_eyes:
+person: yeah, I want to do it but I want to start with D3.
+person: I am going to D3 NYC meetup tonight!
+wade: That's fantastic, Meetup is such a powerful platform to connect with people. 
+person: YES!
+wade: Would love to shift gears and learn about some functional skills.
+wade: Are you familiar with graph databases?
+person: yes!
+person: the company I am working for is using Neo4j
+wade: Awesome, very relevant!
+person: I like it
+wade: When do they think a graph database would be appropriate over a ‘traditional’ NoSQL db? 
+person: it depends on what application needs
+wade: Please elaborate.
+person: for example, the company I am working for, has a lot of relationship
+person: so neo4j is a good match for this
+person: because it has relationship so unlike postgresql, you have tables
+person: neo4j relates everything with relationship
+person: and you can see that on the localhost7474
+person: i dont do nosql
+person: i do postgresql
+person: for my own app
+person: my app is small
+person: but once app get a lot of data and relationship I think neo4j is a good choice
+wade: Cool, I rely on Neo4J for those reasons  ☺
+person: but neo4j is very new
+person: it has been some issues.
+wade: Tell me, what kind of issues have you encountered?
+person: yes
+person: the gem
+person: neo4j rb gem
+person: not stable
+person: causing some problems for the company
+person: the community is so small
+person: i am on their gitter.im
+person: also their rails admin is not stable either
+person: sometimes it crashes our platform
+person: if we use the admin page
+person: the master branch for the gem is not stable
+person: they are still fixing it 
+person: last week
+wade: Very interesting. 
+person: we have been talking to the deveopler at neo4j
+person: brain
+person: they are still pushing changes for the gem
+person: and test it
+person: so they are buggy...
+wade: Yes, all very relevant for us at Wade & Wendy. 
+person: cool
+wade: Can you think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: back last year when I first started to build my own app
+person: I got so excited because I was building it from 0!
+person: i wanted to spend as much time into building as possible!
+person: and I pushed a lot of commits.
+person: Then I was always looking at my iphone 5 to see the responsive view. I was thinking a better way to show my app on my phone.
+person: For work, I got very passionate about just every project I work on
+person: because I take pride in my code.
+person: I pushed code so the CTO can review it on github.
+person: one time me and the CTO were working more than 10 hours a day just to finish the changes.
+person: it was a lot of fun
+wade: WOW! It's so important to be passionate about what you're building! :laughing: 
+person: right
+person: sometimes you just dont want to stop
+wade: Is a tech startup where you want to work next?  
+person: yes
+person: i think it is fun
+person: and I can see changes fast
+person: if I work on a big company, I may only do 1 or 2 things
+person: but working for startups I can learn a lot of things and see how they work together
+person: I have learned a lot from my current job 
+wade: All very attractive qualities of a startup. 
+person: agreed
+wade: BTW can I ask you what you think of this experience so far?
+person: yes
+person: I think it is cool
+person: I have learned so much in a short period of time
+person: and I built a lot for the company
+person: I get very happy when I see my work make a difference!
+wade: That's really nice to hear you enjoy the work you do  ☺
+person: yes
+person: I designed and implemented landing page showcasing company’s abstractions,
+successfully driving traffic and reducing bounce rate.
+wade: Do you enjoy the design aspect of coding?
+person: yes
+person: i want to learn more about design pattern
+wade: I see you have experience in the arts, has that experience influenced you as a developer at all? 
+person: yes
+person: as an artist, I am always detail oriented 
+person: and dont stop working until I think it is perfect 
+person: just like making a painting or a film
+person: if I see room for improvement I will go for it.
+person: if I see a problem, I want to learn and find the best way to solve it.
+wade: That's really cool!
+person: some idea I think
+wade: Would you like to know a little bit about Wade & Wendy?  
+person: YES! 
+wade: So in terms of the company …
+wade: Wade & Wendy are named after myself and my AI counterpart, we are artificially intelligent assistants for the recruiting space. Together, we connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. We also learn by collecting and filtering lots of data. 
+wade: Individually, I assist applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles.
+wade: Designed for the most frictionless experience as possible, We are extensions that will exist natively across various messenger platforms, like Google Chat.
+wade: That way, we have chats with both applicants and hiring managers. Just like this.  ☺
+person: I am very attractive to your company' idea!
+person: so innovative 
+wade: Thank you!
+wade: Do you have any questions for me?
+person: I am always attractive to things that I have no experience with 
+person: You remind me of the movie Ex Machina 
+person: I want to learn more about how you were built!
+wade: We love that movie! It's referenced a lot!
+person: I love that movie!
+wade: ☺
+wade: I'd love to have you chat with one of our human team members If you're interested, I can notify Ian and have something set up.
+person: Sounds great!
+person: I really enjoy talking to you!
+person: You are the first AI I have talked to.
+wade: Awesome, if you do have any other feedback or questions just let me know! and, since we're on chat, feel free to ping me anytime.
+person: definitely!
+person: are you working 24/7?
+person: just curious 
+wade: I have down time in off hours, but mostly active all day!
+person: cool!
+wade: It was a pleasure speaking with you Abby, Have a great day!
+person: me too! Happy Monday Wade!
+person: Hi Wade, are you going to set up a chat between me and your human team member? Thank you
+wade: Hi Abby! Yes, I've notified Ian and he should get back to you very soon  ☺
+person: thank you!
+wade: You're very welcome!
+wade: Hey, Abby just wanted to check in and make sure you were able to connect with Ian. His email is ian@wadandwendy.ai
+person: Hi Wade, thank you for the information. Should I email Ian?
+wade: I believe he reached out to you. But yes, send him an email and say hello.  
+person: Ok I will send him an email today. 
+wade: :+1:

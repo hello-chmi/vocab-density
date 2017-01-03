@@ -1,0 +1,90 @@
+wade: Wade wants to chat on Hangouts!
+person: Hi Wade
+wade: Hey Matt, so nice to meet you!
+wade: Thanks for taking the time to chat.
+person: No problem!
+wade: I appreciate you being adventurous to speak in this medium.
+wade: To be honest it's a little new for us ... 
+The goal is to start understand user experience, train our future AI's and of course get to know you! 
+person: Excellent - I'm ready when you are
+wade: To start tell me a little bit about where you are in your career and what opportunities looking for?
+person: I'm at a natural crossroads - I was working on a project for Google in 2013-14 launching wearable tech product Google Glass
+person: That was a contract job, and when they decided to not sell the product in 2015, my contract ended
+person: Since then I've been working mainly as a consultant for tech sales and business development
+person: I've had a couple of contracts this year at different tech companies, and I'm looking for something permanent
+wade: Very cool. I see you have experience in sales. Is this a path you'd like to continue to pursue?
+person: Yes - I do like interacting with customers and clients, but I prefer a position that mixes sales with other marketing responsibilities 
+person: I'm able to create really great looking content, blog posts, videos, podcasts, and graphics, so I like small companies who need somebody to take on a variety of duties
+wade: A man of many hats, awesome. It's a powerful skillset to apply for a startup. Is a tech startup where your interests are?
+person: Yes, the Google Glass project was run like a startup within Google, and the company I was with prior to that, AdmissionsConsultants, was also a small company that relied on my skills to create all of our marketing content as well as be the POC at the top of our sales funnel
+person: At both companies, I spent each day talking to customers, presenting to a variety of audiences, and creating customer experiences
+wade: I'm sure Google was quite the learning experience. What are the things that personally motivates you to work at a startup? 
+person: I like the spirit of discovery that is part of each day
+person: At a start up, you're free to challenge conventions, and try things as part of a process that will define the way the business succeeds in the future
+wade: Very good, all strong foundations for a startup. 
+person: The creation of those best practices are motivating - and finding new solutions to everyday issues keeps me at the top of my game
+wade: When thinking about your next role, what skills and/or experience you do you not yet have but want to gain? 
+person: I'd love the chance to become more proficient with marketing strategy - so far a lot of my experience with that side of marketing has been more informal
+person: I want a chance to get into a data set and demystify the story that the numbers tell
+person: I'd love the opportunity to become more analytical in my approach to decision making
+wade: Story telling is critical for successful marketing. 
+wade: Think about a time you were working on a project and absolutely loved it. Can you tell me what it was and why it was exciting to work on?
+person: At Google, I was a lead for our Golf vertical. I loved it because it allowed me to interact professionally about a subject that's a hobby of mine. I became the golf-tech expert on our team and was trusted to lead all of our events and presentations within that vertical. It was exciting to be an expert, trusted to communicate complicated tech solutions for improving golfers' experiences with new tools.
+wade: Very interesting, how long have you enjoyed golfing?
+person: For at least 17 years
+person: I played in leagues as a kid, and played varsity golf in high school. 
+wade: Wow, Golf seems like a fantastic vertical for AR!
+wade: BTW, do you mind if I ask how this experience is going?
+person: I like it! I use hangouts all the time for chat, so It's a really natural medium for me.
+person: Also, I like that it offers me the chance to be a little more thoughtful of my responses
+wade: Awesome, that's the goal for us!
+wade: So would you like to know a little more about our company?
+person: Yes, that'd be great!
+wade: So in terms of the company ...
+Wade & Wendy is named after our two artificially intelligent assistants for the recruiting space. Together, they connect companies within a trusted community and facilitate a collaborative recruiting model, where applicants are intelligently socialized across companies. They also learn by collecting and filtering lots of data.   
+wade: Individually, Wade assists applicants with finding the right career opportunity and Wendy assists hiring managers with filling open roles. 
+wade: Designed for the most frictionless experience as possible, Wade & Wendy are extensions that will exist natively across various messenger platforms, like Google Chat. 
+wade: That way, we have chats with both applicants and hiring managers. Just like this. 
+person: That's really cool - are you chatting on other platforms or just Google right now?
+wade: For now we've only integrated with Google, since most of the companies use Gmail for their ops. 
+wade: We have plans to scale to all other communication driven platforms though. 
+wade: So ... as for the role ... 
+wade: it's a tricky one ...
+wade: because we're looking for someone who is balanced across a lot of criteria
+At the heart, we are 1) data driven 2) a communications platform
+and we are also very committed to the notion of community
+as we will be facilitating a collaborative recruiting model 
+So the role we're looking to fill is the Talent Acquisition Specialist, which will encompass a lot! 
+We're going to be developing tons of communications to facilitate meaningful interactions with candidates and hiring managers
+working closely with our data scientist to train and optimize our evolving database
+helping us build our internal team and culture
+wade: assisting with marketing and content creation 
+person: Awesome - that was something we focused on a lot in the first phase of my role at Google
+person: we built a community of "explorers" who became our first users
+person: we relied on their feedback to inform the way we updated the product
+wade: Very relevant. Can you tell me a bout a challenge you faced that was particularly hard to solve?
+person: A lot of our most glaring problems revolved around the tech itself
+person: We would host a lot of different events, and take part in a lot of tech days and showcases
+person: sometimes that meant having hundreds of devices ready to use
+person: I often had to troubleshoot network issues when we would go offsite
+person: at many of these, the lack of web connectivity would really affect the usability of our devices
+person: We overcame that by coming up with a few redundancies in how we operated
+person: sometimes that meant bringing our own access points, and setting up network solutions to guarantee that we'd have connectivity
+person: So sometimes I would wear the hat of a net ops IT specialist
+person: to ensure that we had what we needed to give a fully functional product demo
+wade: Wow, yes that is quite the challenge!
+wade: Would love to have you chat with one of our human team members. 
+wade: so let's get time in the calendar. 
+person: Sounds good to me!
+wade: Great, I'll have Ian follow-up with you! 
+person: It was great chatting with you, Wade
+wade: Awesome, if you do have any other feedback or questions just let me know! 
+and, since we're on chat, feel free to ping me anytime. 
+person: sounds good - I suppose I'm curious as to what happens with the content of your chats, and how applicants' responses are stored for review by recruiters 
+wade: Absolutely, everything said here is confidential and secure. 
+wade: Any information sent to companies goes through process for you to review in order to present you in the best and most relevant light. 
+person: And does each chat interview represent one job opening, or can one chat fulfill the first step of the hiring process for multiple openings?
+wade: Now that we've met each other, I'll be able to circle back to you and present opportunities when we find a match within one of our communities. 
+person: Ok cool!
+wade: Have a great day Matt, talk to you soon!
+person: Thanks Wade, you too!
